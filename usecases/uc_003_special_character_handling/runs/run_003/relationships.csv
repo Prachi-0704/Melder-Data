@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,100 Tyron Street,J.P. Morgan Chase and Co. Group,US,867636,321-54-8976
+B002,A002,,match,crossmap,,100 Tyron St.,J.P. Morgan Chase Co. Holdings,US,867637,321-54-8976
+B003,A003,,match,crossmap,,100 Tyron Street,JP Morgan and Chase Co Partners,US,867638,321-54-8976
+B004,A004,,match,crossmap,,100 Tyrone St,J.P. Morgan Chase Capital,US,867639,321-54-8976
+B005,A005,,match,crossmap,,100 Tyron Street,J.P. Morgan Chase and Co. Enterprises,US,867640,321-54-8976
+B006,A006,,match,crossmap,,100 Tyron St,JP Morgan Chase Co Solutions,US,867641,321-54-8976
+B007,A007,,match,crossmap,,100 Tyron Street,J.P. Morgan and Chase Co LLC,US,867642,321-54-8976
+B008,A008,,match,crossmap,,100 Tyrone Street,JP Morgan Chase and Co. Corporation,US,867643,321-54-8976
+B009,A009,,match,crossmap,,100 Tyron Street,J.P. Morgan Chase Limited,US,867644,321-54-8976
+B010,A010,,match,crossmap,,100 Tyron Street,J.P. Morgan Chase Co. Company,US,867645,321-54-8976
+B011,A011,,match,crossmap,,100 Tyrone Street,JP Morgan and Chase Services,US,867646,321-54-8976
+B012,A012,,match,crossmap,,100 Tyron St.,JP Morgan Chase Co,US,867647,321-54-8976
+B013,A013,,match,crossmap,,100 Tyron St,The J.P. Morgan Chase Co.,US,867648,321-54-8976
+B014,A014,,match,crossmap,,100 Tyron Street,JP Morgan Chase and Co. Group,US,867649,321-54-8976
+B015,A015,,match,crossmap,,100 Tyron St,J.P. Morgan and Chase Co Holdings,US,867650,321-54-8976
+B016,A016,,match,crossmap,,100 Tyron Street,J.P. Morgan Chase Co. Partners,US,867651,321-54-8976
+B017,A017,,match,crossmap,,100 Tyron Street,JP Morgan Chase and Co Capital,US,867652,321-54-8976
+B018,A018,,match,crossmap,,100 Tyron Street,J.P. Morgan Chase Enterprises,US,867653,321-54-8976
+B019,A019,,match,crossmap,,100 Tyron Street,JP Morgan Chase Co Solutions,US,867654,321-54-8976
+B020,A020,,match,crossmap,,100 Tyron Street,J.P. Morgan Chase and Co. LLC,US,867655,321-54-8976

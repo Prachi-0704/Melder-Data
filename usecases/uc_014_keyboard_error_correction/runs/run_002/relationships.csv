@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,300 Main Street,Amazon Group,US,5566778,33331111
+B002,A002,,match,crossmap,,300 Main Street,Amaxon Holdings,US,5566779,33331111
+B003,A003,,match,crossmap,,300 Mulo Street,Amdspo Partners,US,5566780,33331111
+B004,A004,,match,crossmap,,300 Main Street,Amazon Capital,US,5566781,33331111
+B005,A005,,match,crossmap,,300 Mian Street,Amaxon Enterprises,US,5566782,33331111
+B006,A006,,match,crossmap,,300 Main Street,Amazon Solutions,US,5566783,33331111
+B007,A007,,match,crossmap,,300 Main Street,Amaxon LLC,US,5566784,33331111
+B008,A008,,match,crossmap,,300 Main Street,Amazon Corporation,US,5566785,33331111
+B009,A009,,match,crossmap,,300 Mulo Street,Amdspo Limited,US,5566786,33331111
+B010,A010,,match,crossmap,,300 Main Street,Amazon Company,US,5566787,33331111
+B011,A011,,match,crossmap,,300 Mian Street,Amaxon Services,US,5566788,33331111
+B012,A012,,match,crossmap,,300 Main Street,Amazon,US,5566789,33331111
+B013,A013,,match,crossmap,,300 Main Street,The Amaxon,US,5566790,33331111
+B014,A014,,match,crossmap,,300 Main Street,Amazon Group,US,5566791,33331111
+B015,A015,,match,crossmap,,300 Mulo Street,Amdspo Holdings,US,5566792,33331111
+B016,A016,,match,crossmap,,300 Main Street,Amazon Partners,US,5566793,33331111
+B017,A017,,match,crossmap,,300 Mian Street,Amaxon Capital,US,5566794,33331111
+B018,A018,,match,crossmap,,300 Main Street,Amazon Enterprises,US,5566795,33331111
+B019,A019,,match,crossmap,,300 Mian Street,Amaxon Solutions,US,5566796,33331111
+B020,A020,,match,crossmap,,300 Main Street,Amazon LLC,US,5566797,33331111

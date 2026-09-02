@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Global Finance Holding Enterprises,31031034,220 Redwood St,US,367698
+ENR_002,ABC Firm Solutions,2309091,300 Oslo Ave,US,1111114
+ENR_003,Global Financial LLC,31031034,220 Redwood Street,US,367695
+ENR_004,ABC Company Corporation,2309091,300 Oslo Avenue,US,1111113
+ENR_005,ABC Firm Company Limited,2309091,300 Oslo Ave,US,1111116
+ENR_006,ABC Firm Company,2309091,300 Oslo Ave,US,1111118
+ENR_007,Global Finance Holding Services,31031034,220 Redwood St,US,367696
+ENR_008,Global Financial,31031034,220 Redwood Street,US,367697
+ENR_009,The Global Financial,31031034,220 Redwood Street,US,367691
+ENR_010,The ABC Company Group,2309091,300 Oslo Avenue,US,1111117
+ENR_011,ABC Firm Holdings,2309091,300 Oslo Ave,US,1111120
+ENR_012,Global Financial Partners,31031034,220 Redwood Street,US,367693
+ENR_013,ABC Firm Capital,2309091,300 Oslo Ave,US,1111112
+ENR_014,Global Finance Holding Enterprises,31031034,220 Redwood St,US,367694
+ENR_015,Global Financial Solutions,31031034,220 Redwood Street,US,367689
+NEG_001,Northwind Logistics Group,2309091,300 Oslo Avenue,US,1111116
+NEG_002,Harbor & Pine Capital,2309091,300 Oslo Ave,US,1111119
+NEG_003,Summit Health Partners,31031034,220 Redwood St,US,367693
+NEG_004,Blue Harbor Foods Ltd,2309091,300 Oslo Avenue,US,1111120
+NEG_005,Crestview Telecom Holdings,31031034,220 Redwood St,US,367697

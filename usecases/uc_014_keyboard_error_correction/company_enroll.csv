@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Amazon Enterprises,33331111,300 Main Street,US,5566797
+ENR_002,Amazon Solutions,33331111,300 Main Street,US,5566783
+ENR_003,Amdspo LLC,33331111,300 Mulo Street,US,5566792
+ENR_004,Amaxon Corporation,33331111,300 Mian Street,US,5566782
+ENR_005,Amazon Company Limited,33331111,300 Main Street,US,5566787
+ENR_006,Amazon Company,33331111,300 Main Street,US,5566791
+ENR_007,Amazon Services,33331111,300 Main Street,US,5566793
+ENR_008,Amaxon,33331111,300 Mian Street,US,5566796
+ENR_009,The Amaxon,33331111,300 Main Street,US,5566784
+ENR_010,The Amaxon Group,33331111,300 Main Street,US,5566790
+ENR_011,Amazon Holdings,33331111,300 Main Street,US,5566795
+ENR_012,Amaxon Partners,33331111,300 Mian Street,US,5566788
+ENR_013,Amaxon Capital,33331111,300 Main Street,US,5566779
+ENR_014,Amazon Enterprises,33331111,300 Main Street,US,5566789
+ENR_015,Amdspo Solutions,33331111,300 Mulo Street,US,5566780
+NEG_001,Northwind Logistics Group,33331111,300 Main Street,US,5566787
+NEG_002,Harbor & Pine Capital,33331111,300 Main Street,US,5566794
+NEG_003,Summit Health Partners,33331111,300 Main Street,US,5566788
+NEG_004,Blue Harbor Foods Ltd,33331111,300 Mulo Street,US,5566795
+NEG_005,Crestview Telecom Holdings,33331111,300 Mulo Street,US,5566796

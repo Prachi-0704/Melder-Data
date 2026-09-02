@@ -1,0 +1,61 @@
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A003","duns":"454558","ssn_tax_id":"111-88-5555","address_line1":"23 Sport Drive","company_name":"RunFast Partners"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"duns":"454571","company_name":"Sprint Partners","ssn_tax_id":"111-88-5555","address_line1":"27 Sports Ln","entity_id":"A016","country_code":"US"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","company_name":"Great Cookers Inc.","ssn_tax_id":"111-88-5555","country_code":"US","duns":"454573","address_line1":"28 Sports Dr"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"454560","entity_id":"A005","company_name":"Run & Go Enterprises","ssn_tax_id":"111-88-5555","address_line1":"24 Sports Drive"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"entity_id":"A011","duns":"454566","company_name":"Joggers Services","country_code":"US","address_line1":"26 Sports Drive","ssn_tax_id":"111-88-5555"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"company_name":"Sprinter Holdings Ltd","duns":"454570","country_code":"US","entity_id":"A015","address_line1":"27 Sports Blvd","ssn_tax_id":"111-88-5555"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"company_name":"RunningFast Capital","country_code":"US","address_line1":"23 Sports Blvd","duns":"454559","entity_id":"A004","ssn_tax_id":"111-88-5555"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-88-5555","entity_id":"A014","company_name":"Sprint Corp Group","country_code":"US","address_line1":"27 Sports Drive","duns":"454569"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"454575","company_name":"Kitchen & Baking LLC","entity_id":"A020","ssn_tax_id":"111-88-5555","address_line1":"29 Sports Drive"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"duns":"454562","country_code":"US","ssn_tax_id":"111-88-5555","company_name":"Runners Corp LLC","entity_id":"A007","address_line1":"24 Sport Dr."}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"address_line1":"23 Sports Dr.","country_code":"US","entity_id":"A002","company_name":"Running Fast Holdings","ssn_tax_id":"111-88-5555","duns":"454557"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"entity_id":"A001","address_line1":"23 Sports Drive","duns":"454556","country_code":"US","ssn_tax_id":"111-88-5555","company_name":"RunFast Group"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-88-5555","country_code":"US","address_line1":"28 Sport Ln","duns":"454574","company_name":"Cooking Masters LLC","entity_id":"A019"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"duns":"454563","country_code":"US","company_name":"RanFast Corporation","ssn_tax_id":"111-88-5555","entity_id":"A008","address_line1":"25 Sports Drive"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-88-5555","country_code":"US","address_line1":"26 Sports Dr.","entity_id":"A012","company_name":"Jogging Co.","duns":"454567"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"duns":"454564","ssn_tax_id":"111-88-5555","entity_id":"A009","company_name":"Runner Limited","address_line1":"25 Sports Blvd","country_code":"US"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"company_name":"The Sprinting Group","entity_id":"A013","country_code":"US","duns":"454568","ssn_tax_id":"111-88-5555","address_line1":"26 Sport Dr"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"duns":"454572","country_code":"US","company_name":"Great Cooking Co.","ssn_tax_id":"111-88-5555","address_line1":"28 Sports Drive","entity_id":"A017"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"entity_id":"A006","duns":"454561","company_name":"Running Solutions","ssn_tax_id":"111-88-5555","address_line1":"24 Sports Dr","country_code":"US"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-88-5555","entity_id":"A010","country_code":"US","address_line1":"25 Sports Ln","duns":"454565","company_name":"RunFast Company"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","company_name":"Chef's Choice Ltd","ssn_tax_id":"111-88-5555","address_line1":"206 Sport Ln","country_code":"US","duns":"454592"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"country_code":"US","address_line1":"207 Sports Dr","entity_id":"B020","ssn_tax_id":"111-88-5555","company_name":"Great Cookers Inc.","duns":"454595"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"entity_id":"B002","address_line1":"200 Sports Dr.","country_code":"US","duns":"454577","ssn_tax_id":"111-88-5555","company_name":"Running Solutions"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B003","company_name":"Runners Corp LLC","ssn_tax_id":"111-88-5555","address_line1":"200 Sport Drive","duns":"454578"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"duns":"454593","country_code":"US","ssn_tax_id":"111-88-5555","company_name":"Bakeries Unlimited","address_line1":"206 Sports Lane","entity_id":"B018"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"duns":"454583","country_code":"US","entity_id":"B008","ssn_tax_id":"111-88-5555","address_line1":"203 Sports Drive","company_name":"Jogging Co."}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"company_name":"Home Cooking Co","duns":"454594","ssn_tax_id":"111-88-5555","country_code":"US","address_line1":"207 Sports Drive","entity_id":"B019"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B016","address_line1":"206 Sports Drive","duns":"454591","company_name":"Kitchen & Baking LLC","ssn_tax_id":"111-88-5555"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"111-88-5555","duns":"454576","entity_id":"B001","address_line1":"200 Sports Drive","company_name":"Run & Go Enterprises"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"address_line1":"202 Sports Dr","entity_id":"B006","company_name":"RunningFast Company","duns":"454581","country_code":"US","ssn_tax_id":"111-88-5555"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111-88-5555","duns":"454584","company_name":"The Sprinting Group","entity_id":"B009","address_line1":"203 Sports Blvd","country_code":"US"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"company_name":"Cooking Masters LLC","ssn_tax_id":"111-88-5555","entity_id":"B015","address_line1":"205 Sports Blvd","duns":"454590","country_code":"US"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"address_line1":"204 Sports Dr.","duns":"454587","country_code":"US","ssn_tax_id":"111-88-5555","company_name":"Sprint Partners","entity_id":"B012"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"entity_id":"B004","company_name":"RunFast Corporation","country_code":"US","duns":"454579","ssn_tax_id":"111-88-5555","address_line1":"201 Sports Blvd"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"company_name":"Great Cooking Co.","ssn_tax_id":"111-88-5555","country_code":"US","entity_id":"B014","duns":"454589","address_line1":"205 Sports Dr"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"entity_id":"B007","ssn_tax_id":"111-88-5555","company_name":"Joggers Services","address_line1":"202 Sport Dr.","country_code":"US","duns":"454582"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"duns":"454585","company_name":"Sprint Corp","address_line1":"203 Sports Ln","entity_id":"B010","ssn_tax_id":"111-88-5555","country_code":"US"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"111-88-5555","duns":"454580","entity_id":"B005","company_name":"Runner Limited","address_line1":"201 Sports Drive"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"duns":"454588","address_line1":"205 Sport Dr","company_name":"Great Cooking Company","country_code":"US","ssn_tax_id":"111-88-5555","entity_id":"B013"}}
+{"ts":"2026-09-02T06:10:37Z","type":"upsert_record","side":"b","record":{"company_name":"Sprinter Holdings","duns":"454586","address_line1":"204 Sports Drive","entity_id":"B011","ssn_tax_id":"111-88-5555","country_code":"US"}}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A010","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A010","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A008","b_id":"B004","score":0.8835239113678364,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"review_match","id":"B010","side":"b","candidate_id":"A014","score":0.8299270177431355,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A007","b_id":"B003","score":0.9499994277954101,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A012","b_id":"B008","score":0.9499996066093445,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A013","b_id":"B009","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A009","b_id":"B005","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A011","b_id":"B007","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"review_match","id":"B013","side":"b","candidate_id":"A017","score":0.8173853341071272,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A018","b_id":"B020","score":0.9499997854232788,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A017","b_id":"B014","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A006","b_id":"B002","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"no_match_below","query_id":"B018","query_side":"b","best_score":0.3867464953347256}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A019","b_id":"B015","score":0.9499998450279236,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A016","b_id":"B012","score":0.9499999046325683,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A015","b_id":"B011","score":0.8807116612033378,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A005","b_id":"B001","score":0.9499999642372131,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"review_match","id":"B006","side":"b","candidate_id":"A008","score":0.704391484511526,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"crossmap_confirm","a_id":"A020","b_id":"B016","score":0.9499998450279236,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:37Z","type":"review_match","id":"B019","side":"b","candidate_id":"A017","score":0.8181387066841126,"rank":1,"reason":"top_scoring"}

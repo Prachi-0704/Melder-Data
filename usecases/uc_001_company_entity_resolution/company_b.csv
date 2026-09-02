@@ -1,0 +1,11 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B1,BANK OF AMERICA Enterprises,123456789,100 Main St,US,123456789
+B10,HSBC Group,258963147,8 Canada Square,GB,333444555
+B2,Bank of America Solutions,123456789,100 Main St,US,123456789
+B3,America Bank Of LLC,123456789,100 Main St,US,123456789
+B4,apple Corporation,987654321,1 Infinite Loop,US,999999999
+B5,Global Bank Limited,456789123,20 Oak Ave,CA,555444333
+B6,Other Company Company,111222333,88 Pine Rd,US,777888999
+B7,Northwind Capital Services,321654987,88 Pine Rd,GB,777888999
+B8,Johnson and Johnson,456123789,450 Park Avenue,US,444555666
+B9,The Amazon Europe SARL,789321654,38 Avenue de l'Opera,FR,111222333

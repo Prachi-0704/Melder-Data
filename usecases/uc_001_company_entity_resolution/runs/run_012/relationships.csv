@@ -1,0 +1,10 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B1,A1,,match,crossmap,,100 Main St,Bank of America Group,US,123456789,123456789
+B10,A7,,match,crossmap,,8 Canada Square,HSBC Holdings LLC,GB,333444555,258963147
+B2,A1,0.7553,review,top_scoring,1,100 Main St,Bank of America Group,US,123456789,123456789
+B3,A1,0.7534,review,top_scoring,1,100 Main St,Bank of America Group,US,123456789,123456789
+B4,A2,,match,crossmap,,1 Infinite Loop,Apple Holdings,US,999999999,987654321
+B5,A3,,match,crossmap,,20 Oak Ave,Global Bank Partners,CA,555444333,456789123
+B7,A4,,match,crossmap,,88 Pine Rd,Northwind Capital,GB,777888999,321654987
+B8,A5,,match,crossmap,,450 Park Ave,Johnson and Johnson Enterprises,US,444555666,456123789
+B9,A6,,match,crossmap,,38 Avenue de l'Opera,Amazon Europe Sarl Solutions,FR,111222333,789321654

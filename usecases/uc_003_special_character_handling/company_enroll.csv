@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,J.P. Morgan Chase and Co. Enterprises,321-54-8976,100 Tyron Street,US,867655
+ENR_002,JP Morgan Chase Co Solutions,321-54-8976,100 Tyron St,US,867641
+ENR_003,J.P. Morgan and Chase Co LLC,321-54-8976,100 Tyron St,US,867650
+ENR_004,J.P. Morgan Chase and Co. Corporation,321-54-8976,100 Tyron Street,US,867640
+ENR_005,J.P. Morgan Chase Co. Company Limited,321-54-8976,100 Tyron Street,US,867645
+ENR_006,JP Morgan Chase and Co. Company,321-54-8976,100 Tyron Street,US,867649
+ENR_007,J.P. Morgan Chase Co. Services,321-54-8976,100 Tyron Street,US,867651
+ENR_008,JP Morgan Chase Co,321-54-8976,100 Tyron Street,US,867654
+ENR_009,The J.P. Morgan and Chase Co,321-54-8976,100 Tyron Street,US,867642
+ENR_010,The J.P. Morgan Chase Co. Group,321-54-8976,100 Tyron St,US,867648
+ENR_011,J.P. Morgan Chase Holdings,321-54-8976,100 Tyron Street,US,867653
+ENR_012,JP Morgan and Chase Partners,321-54-8976,100 Tyrone Street,US,867646
+ENR_013,J.P. Morgan Chase Co. Capital,321-54-8976,100 Tyron St.,US,867637
+ENR_014,JP Morgan Chase Co Enterprises,321-54-8976,100 Tyron St.,US,867647
+ENR_015,JP Morgan and Chase Co Solutions,321-54-8976,100 Tyron Street,US,867638
+NEG_001,Northwind Logistics Group,321-54-8976,100 Tyron Street,US,867645
+NEG_002,Harbor & Pine Capital,321-54-8976,100 Tyron Street,US,867652
+NEG_003,Summit Health Partners,321-54-8976,100 Tyron Street,US,867646
+NEG_004,Blue Harbor Foods Ltd,321-54-8976,100 Tyron St.,US,867653
+NEG_005,Crestview Telecom Holdings,321-54-8976,100 Tyron Street,US,867654

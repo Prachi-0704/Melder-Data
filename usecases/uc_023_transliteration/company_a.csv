@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,São Paulo Group,23456789,São Paulo Street,BR,121212
+A002,Zürich Investments AG Holdings,121213,Zürich Avenue,CH,121013
+A003,São Paulo Partners,23456789,São Paulo Street,BR,121214
+A004,Zürich Investments AG Capital,121213,Zürich Avenue,CH,121014
+A005,São Paulo Enterprises,23456789,São Paulo Street,BR,121215
+A006,Zürich Investments AG Solutions,121213,Zürich Avenue,CH,121015
+A007,São Paulo LLC,23456789,São Paulo Street,BR,121216
+A008,Zürich Investments AG Corporation,121213,Zürich Avenue,CH,121016
+A009,São Paulo Limited,23456789,São Paulo Street,BR,121217
+A010,Zürich Investments AG Company,121213,Zürich Avenue,CH,121017
+A011,São Paulo Services,23456789,São Paulo Street,BR,121218
+A012,Zürich Investments AG,121213,Zürich Avenue,CH,121018
+A013,The São Paulo,23456789,São Paulo Street,BR,121219
+A014,Zürich Investments AG Group,121213,Zürich Avenue,CH,121019
+A015,São Paulo Holdings,23456789,São Paulo Street,BR,121220
+A016,Zürich Investments AG Partners,121213,Zürich Avenue,CH,121020
+A017,São Paulo Capital,23456789,São Paulo Street,BR,121221
+A018,Zürich Investments AG Enterprises,121213,Zürich Avenue,CH,121021
+A019,São Paulo Solutions,23456789,São Paulo Street,BR,121222
+A020,Zürich Investments AG LLC,121213,Zürich Avenue,CH,121022

@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,23 Sports Drive,Nike Running Group,US,454556,111-88-5555
+B002,A002,,match,crossmap,,23 Sports Drive,Nike Run Holdings,US,454557,111-88-5555
+B003,A003,,match,crossmap,,23 Sports Drive,Nike Running Partners,US,454558,111-88-5555
+B004,A004,,match,crossmap,,23 Sports Drive,Nike Running Capital,US,454559,111-88-5555
+B005,A005,,match,crossmap,,23 Sports Drive,Nike Run Enterprises,US,454560,111-88-5555
+B006,A006,,match,crossmap,,23 Sports Drive,Nike Running Solutions,US,454561,111-88-5555
+B007,A007,,match,crossmap,,23 Sports Drive,Nike Running Corporations LLC,US,454562,111-88-5555
+B008,A008,,match,crossmap,,23 Sports Drive,Nike Ran Corporation,US,454563,111-88-5555
+B009,A009,,match,crossmap,,23 Sports Drive,Nike Running Limited,US,454564,111-88-5555
+B010,A010,,match,crossmap,,23 Sports Drive,Nike Run Company,US,454565,111-88-5555
+B011,A011,,match,crossmap,,23 Sports Drive,Nike Running Services,US,454566,111-88-5555
+B012,A012,,match,crossmap,,23 Sports Drive,Nike Running,US,454567,111-88-5555
+B013,A013,,match,crossmap,,23 Sports Drive,The Nike Ran,US,454568,111-88-5555
+B014,A014,,match,crossmap,,23 Sports Drive,Nike Running Corporations Group,US,454569,111-88-5555
+B015,A015,,match,crossmap,,23 Sports Drive,Nike Run Holdings,US,454570,111-88-5555
+B016,A016,,match,crossmap,,23 Sports Drive,Nike Running Partners,US,454571,111-88-5555
+B017,A017,,match,crossmap,,23 Sports Drive,Nike Ran Capital,US,454572,111-88-5555
+B018,A018,,match,crossmap,,23 Sports Drive,Nike Run Enterprises,US,454573,111-88-5555
+B019,A019,,match,crossmap,,23 Sports Drive,Nike Running Solutions,US,454574,111-88-5555
+B020,A020,,match,crossmap,,23 Sports Drive,Nike Running LLC,US,454575,111-88-5555

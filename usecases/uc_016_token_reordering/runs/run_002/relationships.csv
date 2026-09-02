@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,175 Bryan Lane,Union Bank of India Group,US,4433221,24242424
+B002,A002,,match,crossmap,,175 Bryan Lane,India Bank of Union Holdings,US,4433222,24242424
+B003,A003,,match,crossmap,,175 Bryan Lane,OF India Bank Union Partners,US,4433223,24242424
+B004,A004,,match,crossmap,,Bryan Lane 175,Union Bank of India Capital,US,4433224,24242424
+B005,A005,,match,crossmap,,LAne 175 Bryan,Union Bank of India Enterprises,US,4433225,24242424
+B006,A006,,match,crossmap,,175 Bryan Lane,Bank of India Union Solutions,US,4433226,24242424
+B007,A007,,match,crossmap,,175 Bryan Lane,Union Bank of India LLC,US,4433227,24242424
+B008,A008,,match,crossmap,,175 Bryan Lane,India Bank of Union Corporation,US,4433228,24242424
+B009,A009,,match,crossmap,,Bryan Lane 175,Union Bank of India Limited,US,4433229,24242424
+B010,A010,,match,crossmap,,175 Bryan Lane,Bank of India Union Company,US,4433230,24242424
+B011,A011,,match,crossmap,,175 Bryan Lane,OF India Bank Union Services,US,4433231,24242424
+B012,A012,,match,crossmap,,LAne 175 Bryan,Union Bank of India,US,4433232,24242424
+B013,A013,,match,crossmap,,175 Bryan Lane,The Bank of India Union,US,4433233,24242424
+B014,A014,,match,crossmap,,175 Bryan Lane,Union Bank of India Group,US,4433234,24242424
+B015,A015,,match,crossmap,,175 Bryan Lane,India Bank of Union Holdings,US,4433235,24242424
+B016,A016,,match,crossmap,,175 Bryan Lane,Union Bank of India Partners,US,4433236,24242424
+B017,A017,,match,crossmap,,175 Bryan Lane,OF India Bank Union Capital,US,4433237,24242424
+B018,A018,,match,crossmap,,175 Bryan Lane,Bank of India Union Enterprises,US,4433238,24242424
+B019,A019,,match,crossmap,,Bryan Lane 175,Union Bank of India Solutions,US,4433239,24242424
+B020,A020,,match,crossmap,,175 Bryan Lane,India Bank of Union LLC,US,4433240,24242424

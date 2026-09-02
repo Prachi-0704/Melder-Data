@@ -1,0 +1,80 @@
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"100 2nd Avenue","ssn_tax_id":"666-77-9991","company_name":"1st National Bank Holdings","entity_id":"A015","country_code":"US","duns":"2345692"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"100 2nd Avenue","entity_id":"A008","ssn_tax_id":"666-77-9991","country_code":"US","company_name":"First National Trust Corporation","duns":"2345685"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345683","country_code":"US","entity_id":"A006","company_name":"1st National Bank Solutions","ssn_tax_id":"666-77-9991","address_line1":"100 2nd Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"666-77-9991","country_code":"US","company_name":"1st National Trust Capital","entity_id":"A004","address_line1":"100 2nd Avenue","duns":"2345681"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345694","country_code":"US","company_name":"First National Trust Capital","address_line1":"100 Second Avenue","ssn_tax_id":"666-77-9991","entity_id":"A017"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"666-77-9991","country_code":"US","duns":"2345695","company_name":"1st National Bank Enterprises","entity_id":"A018","address_line1":"100 2nd Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"100 Second Avenue","entity_id":"A007","company_name":"First National Bank LLC","duns":"2345684","ssn_tax_id":"666-77-9991"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345686","entity_id":"A009","address_line1":"100 2nd Avenue","company_name":"1st National Bank Limited","ssn_tax_id":"666-77-9991","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345688","address_line1":"100 Second Avenue","ssn_tax_id":"666-77-9991","entity_id":"A011","company_name":"1st National Trust Services","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"The 1st National Bank","entity_id":"A013","ssn_tax_id":"666-77-9991","duns":"2345690","address_line1":"100 Second Avenue","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A014","ssn_tax_id":"666-77-9991","company_name":"First National Trust Group","country_code":"US","address_line1":"100 2nd Avenue","duns":"2345691"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A010","ssn_tax_id":"666-77-9991","duns":"2345687","company_name":"First National Bank Company","address_line1":"100 Second Avenue","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"666-77-9991","duns":"2345693","company_name":"First National Bank Partners","address_line1":"100 Second Ave","entity_id":"A016"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345689","company_name":"First National Bank","country_code":"US","entity_id":"A012","address_line1":"100 2nd Avenue","ssn_tax_id":"666-77-9991"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345697","address_line1":"100 Second Avenue","company_name":"1st National Trust LLC","ssn_tax_id":"666-77-9991","country_code":"US","entity_id":"A020"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"2345682","entity_id":"A005","ssn_tax_id":"666-77-9991","company_name":"First National Bank Enterprises","address_line1":"100 Second Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"666-77-9991","entity_id":"A001","country_code":"US","company_name":"First National Bank Group","address_line1":"100 Second Avenue","duns":"2345678"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A002","company_name":"1st National Bank Holdings","address_line1":"100 2nd Ave","country_code":"US","duns":"2345679","ssn_tax_id":"666-77-9991"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345680","ssn_tax_id":"666-77-9991","entity_id":"A003","address_line1":"100 2nd Avenue","country_code":"US","company_name":"First National Bank Partners"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"2345696","address_line1":"100 Second Avenue","ssn_tax_id":"666-77-9991","entity_id":"A019","company_name":"First National Bank Solutions","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B001","company_name":"1st National Bank Enterprises","ssn_tax_id":"666-77-9991","duns":"2345678","address_line1":"100 2nd Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B006","ssn_tax_id":"666-77-9991","company_name":"First National Bank Company","address_line1":"100 Second Avenue","duns":"2345683"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"2345687","address_line1":"100 2nd Avenue","entity_id":"B010","company_name":"1st National Bank Group","ssn_tax_id":"666-77-9991","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B016","duns":"2345693","company_name":"1st National Bank LLC","country_code":"US","ssn_tax_id":"666-77-9991","address_line1":"100 2nd Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"2345690","company_name":"First National Bank Capital","ssn_tax_id":"666-77-9991","country_code":"US","address_line1":"100 2nd Ave","entity_id":"B013"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"2345685","company_name":"1st National Trust","country_code":"US","entity_id":"B008","ssn_tax_id":"666-77-9991","address_line1":"100 Second Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B015","address_line1":"100 Second Avenue","duns":"2345692","company_name":"First National Bank Solutions","ssn_tax_id":"666-77-9991","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","company_name":"1st National Trust Enterprises","country_code":"US","duns":"2345691","ssn_tax_id":"666-77-9991","address_line1":"100 Second Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"1st National Bank Company","address_line1":"100 2nd Avenue","duns":"2345696","entity_id":"B019","ssn_tax_id":"666-77-9991","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B012","company_name":"First National Bank Partners","address_line1":"100 Second Avenue","ssn_tax_id":"666-77-9991","duns":"2345689"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"First National Trust Holdings","entity_id":"B011","ssn_tax_id":"666-77-9991","duns":"2345688","address_line1":"100 2nd Avenue","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"First National Bank Solutions","ssn_tax_id":"666-77-9991","country_code":"US","address_line1":"100 Second Avenue","duns":"2345679","entity_id":"B002"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"100 Second Avenue","country_code":"US","duns":"2345681","company_name":"First National Trust Corporation","entity_id":"B004","ssn_tax_id":"666-77-9991"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","address_line1":"100 Second Avenue","ssn_tax_id":"666-77-9991","company_name":"First National Trust Limited","duns":"2345695","entity_id":"B018"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"First National Bank LLC","address_line1":"100 Second Avenue","entity_id":"B003","duns":"2345680","ssn_tax_id":"666-77-9991","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"666-77-9991","duns":"2345684","address_line1":"100 2nd Avenue","entity_id":"B007","company_name":"1st National Bank Services","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"100 Second Avenue","entity_id":"B009","country_code":"US","duns":"2345686","company_name":"The First National Bank","ssn_tax_id":"666-77-9991"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","ssn_tax_id":"666-77-9991","company_name":"First National Bank Corporation","address_line1":"100 2nd Avenue","country_code":"US","duns":"2345694"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"1st National Bank Limited","entity_id":"B005","address_line1":"100 2nd Avenue","country_code":"US","ssn_tax_id":"666-77-9991","duns":"2345682"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"100 2nd Ave","duns":"2345697","entity_id":"B020","company_name":"First National Trust Services","country_code":"US","ssn_tax_id":"666-77-9991"}}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}

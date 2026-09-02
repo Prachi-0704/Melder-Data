@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Robert Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567910
+ENR_002,Robert Smith Solutions,234-22-3333,3 Pascal Avenue,US,567896
+ENR_003,William Smith LLC,234-22-3333,3 Pascal Avenue,US,567905
+ENR_004,William Smith Corporation,234-22-3333,3 Pascal Avenue,US,567895
+ENR_005,Robert Smith Company Limited,234-22-3333,3 Pascal Avenue,US,567900
+ENR_006,Robert Smith Company,234-22-3333,3 Pascal Avenue,US,567904
+ENR_007,Robert Smith Services,234-22-3333,3 Pascal Avenue,US,567906
+ENR_008,William Smith,234-22-3333,3 Pascal Avenue,US,567909
+ENR_009,The William Smith,234-22-3333,3 Pascal Avenue,US,567897
+ENR_010,The William Smith Group,234-22-3333,3 Pascal Avenue,US,567903
+ENR_011,Robert Smith Holdings,234-22-3333,3 Pascal Avenue,US,567908
+ENR_012,William Smith Partners,234-22-3333,3 Pascal Avenue,US,567901
+ENR_013,Robert Smith Capital,234-22-3333,3 Pascal Avenue,US,567892
+ENR_014,Robert Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567902
+ENR_015,William Smith Solutions,234-22-3333,3 Pascal Avenue,US,567893
+NEG_001,Northwind Logistics Group,234-22-3333,3 Pascal Avenue,US,567900
+NEG_002,Harbor & Pine Capital,234-22-3333,3 Pascal Avenue,US,567907
+NEG_003,Summit Health Partners,234-22-3333,3 Pascal Avenue,US,567901
+NEG_004,Blue Harbor Foods Ltd,234-22-3333,3 Pascal Avenue,US,567908
+NEG_005,Crestview Telecom Holdings,234-22-3333,3 Pascal Avenue,US,567909

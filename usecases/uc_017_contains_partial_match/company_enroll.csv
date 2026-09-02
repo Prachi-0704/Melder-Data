@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Infolease Technologies Enterprises,123-46-7891,420 Montgomery Street,US,3451256
+ENR_002,Info Tech Technologies Solutions,234-56-7891,420 Montgomery Street,US,3451242
+ENR_003,Info Tech Technologies LLC,234-56-7891,420 Montgomery St,US,3451251
+ENR_004,Infolease Technologies Corporation,234-56-7891,420 Montgomery Street,US,3451241
+ENR_005,Infolease Tech Company Limited,234-56-7891,420 Montgomery St,US,3451246
+ENR_006,Infolease Tech Company,123-46-7891,420 Montgomery Street,US,3451250
+ENR_007,Storelease Technologies Services,234-56-7891,420 Montgomery Street,US,3451252
+ENR_008,Info Tech Technologies,234-56-7891,420 Montgomery Street,US,3451255
+ENR_009,The Infolease Technologies,123-46-7891,420 Montgamery Street,US,3451243
+ENR_010,The Infolease Technologies Group,234-56-7891,420 Montgomery Street,US,3451249
+ENR_011,Infolease Technologies Holdings,234-56-7891,420 Montgomery Street,US,3451254
+ENR_012,Info Tech Technologies Partners,234-56-7891,420 Montgomery Street,US,3451247
+ENR_013,Info Tech Technologies Capital,234-56-7891,420 Montgomery Street,US,3451238
+ENR_014,Storelease Technologies Enterprises,123-46-7891,420 Montgomery Street,US,3451248
+ENR_015,Storelease Technologies Solutions,234-56-7891,420 Montgomery Street,US,3451239
+NEG_001,Northwind Logistics Group,234-56-7891,420 Montgomery Street,US,3451246
+NEG_002,Harbor & Pine Capital,234-56-7891,420 Montgomery Street,US,3451253
+NEG_003,Summit Health Partners,234-56-7891,420 Montgomery Street,US,3451247
+NEG_004,Blue Harbor Foods Ltd,234-56-7891,420 Montgomery Street,US,3451254
+NEG_005,Crestview Telecom Holdings,234-56-7891,420 Montgomery Street,US,3451255

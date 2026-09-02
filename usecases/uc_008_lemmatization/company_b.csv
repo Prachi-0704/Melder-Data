@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Run & Go Enterprises,111-88-5555,200 Sports Drive,US,454576
+B002,Running Solutions,111-88-5555,200 Sports Dr.,US,454577
+B003,Runners Corp LLC,111-88-5555,200 Sport Drive,US,454578
+B004,RunFast Corporation,111-88-5555,201 Sports Blvd,US,454579
+B005,Runner Limited,111-88-5555,201 Sports Drive,US,454580
+B006,RunningFast Company,111-88-5555,202 Sports Dr,US,454581
+B007,Joggers Services,111-88-5555,202 Sport Dr.,US,454582
+B008,Jogging Co.,111-88-5555,203 Sports Drive,US,454583
+B009,The Sprinting Group,111-88-5555,203 Sports Blvd,US,454584
+B010,Sprint Corp,111-88-5555,203 Sports Ln,US,454585
+B011,Sprinter Holdings,111-88-5555,204 Sports Drive,US,454586
+B012,Sprint Partners,111-88-5555,204 Sports Dr.,US,454587
+B013,Great Cooking Company,111-88-5555,205 Sport Dr,US,454588
+B014,Great Cooking Co.,111-88-5555,205 Sports Dr,US,454589
+B015,Cooking Masters LLC,111-88-5555,205 Sports Blvd,US,454590
+B016,Kitchen & Baking LLC,111-88-5555,206 Sports Drive,US,454591
+B017,Chef's Choice Ltd,111-88-5555,206 Sport Ln,US,454592
+B018,Bakeries Unlimited,111-88-5555,206 Sports Lane,US,454593
+B019,Home Cooking Co,111-88-5555,207 Sports Drive,US,454594
+B020,Great Cookers Inc.,111-88-5555,207 Sports Dr,US,454595

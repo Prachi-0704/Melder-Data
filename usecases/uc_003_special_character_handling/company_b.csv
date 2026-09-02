@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,"OConnor & Sons LLC",321-54-8976,200 Main St.,US,867656
+B002,Smith Jones Company,321-54-8976,201 Main St.,US,867657
+B003,"Acme Incorporated",321-54-8976,202 Main St.,US,867658
+B004,"Foo-Bar Technologies",321-54-8976,203 Commerce Ave,US,867659
+B005,Gamma and Delta Enterprises,321-54-8976,204 Commerce Ave,US,867660
+B006,"Baker & McKenzie",321-54-8976,205 Market St.,US,867661
+B007,"AT and T Services",321-54-8976,206 Market St,US,867662
+B008,"Johns ""Quality"" Supplies",321-54-8976,207 Supply Rd.,US,867663
+B009,"Widget Company (R&D)",321-54-8976,208 Industry Blvd,US,867664
+B010,"Mega-Corp Intnl",321-54-8976,209 Corporate Way,US,867665
+B011,"Cafe and Co",321-54-8976,210 Bistro Ln,US,867666
+B012,HelloAtHome Ventures,321-54-8976,211 Home Dr,US,867667
+B013,"Percent Solutions %",321-54-8976,212 Percent Pl.,US,867668
+B014,"Trim & Go",321-54-8976,213 Auto Pkwy,US,867669
+B015,"O'Neil & Partners",321-54-8976,214 Legal Ave,US,867670
+B016,"Two Dash Industries",321-54-8976,215 Line Rd,US,867671
+B017,"Ellipsis Limited...",321-54-8976,216 Dot St,US,867672
+B018,"Brackets Global Inc",321-54-8976,217 Bracket Way,US,867673
+B019,"Slash-BackCorp",321-54-8976,218 Path Ln,US,867674
+B020,"Quotes Single Co",321-54-8976,219 Quote Rd,US,867675

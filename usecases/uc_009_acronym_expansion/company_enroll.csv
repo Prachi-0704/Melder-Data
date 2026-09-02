@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,GS Enterprises,89786759,301 Livola St,US,454656
+ENR_002,Goldman Sachs Solutions,89786759,301 Livola Street,US,454649
+ENR_003,IBM LLC,98765432,22 Palo Alto Street,US,678908
+ENR_004,IBM Corporation,98765432,22 Palo Alto Street,US,678903
+ENR_005,Goldman Sachs Company Limited,89786759,301 Livola Street,US,454651
+ENR_006,Goldman Sachs Company,89786759,301 Livola Street,US,454653
+ENR_007,GS Services,89786759,301 Livola St,US,454654
+ENR_008,IBM,98765432,22 Palo Alto Street,US,678910
+ENR_009,The IBM,98765432,22 Palo Alto Street,US,678904
+ENR_010,The International Business Machines Group,98765432,22 Palo Alto Street,US,678907
+ENR_011,Goldman Sachs Holdings,89786759,301 Livola Street,US,454655
+ENR_012,IBM Partners,98765432,22 Palo Alto Street,US,678906
+ENR_013,Goldman Sachs Capital,89786759,301 Livola Street,US,454647
+ENR_014,GS Enterprises,89786759,301 Livola St,US,454652
+ENR_015,Goldman Sachs Solutions,89786759,301 Livola St,US,454648
+NEG_001,Northwind Logistics Group,89786759,301 Livola Street,US,454651
+NEG_002,Harbor & Pine Capital,98765432,22 Palo Alto Street,US,678909
+NEG_003,Summit Health Partners,98765432,22 Palo Alto Street,US,678906
+NEG_004,Blue Harbor Foods Ltd,89786759,301 Livola Street,US,454655
+NEG_005,Crestview Telecom Holdings,98765432,22 Palo Alto Street,US,678910

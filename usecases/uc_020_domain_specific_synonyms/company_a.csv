@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,56789 ABC DBA Group,234576,1 Pascal Avenue,US,909090
+A002,ABC Trade Name Holdings,234576,1 Pascal Ave,US,909091
+A003,Global Financial Partners,31031034,220 Redwood Street,US,367699
+A004,Global Finance Capital,31031034,220 Redwood St,US,367700
+A005,56789 ABC DBA Enterprises,234576,1 Pascal Avenue,US,909092
+A006,ABC Trade Name Solutions,234576,1 Pascal Ave,US,909093
+A007,Global Financial LLC,31031034,220 Redwood Street,US,367701
+A008,Global Finance Corporation,31031034,220 Redwood St,US,367702
+A009,56789 ABC DBA Limited,234576,1 Pascal Avenue,US,909094
+A010,ABC Trade Name Company,234576,1 Pascal Ave,US,909095
+A011,Global Financial Services,31031034,220 Redwood Street,US,367703
+A012,Global Finance,31031034,220 Redwood St,US,367704
+A013,The 56789 ABC DBA,234576,1 Pascal Avenue,US,909096
+A014,ABC Trade Name Group,234576,1 Pascal Ave,US,909097
+A015,Global Financial Holdings,31031034,220 Redwood Street,US,367705
+A016,Global Finance Partners,31031034,220 Redwood St,US,367706
+A017,56789 ABC DBA Capital,234576,1 Pascal Avenue,US,909098
+A018,ABC Trade Name Enterprises,234576,1 Pascal Ave,US,909099
+A019,Global Financial Solutions,31031034,220 Redwood Street,US,367707
+A020,Global Finance LLC,31031034,220 Redwood St,US,367708

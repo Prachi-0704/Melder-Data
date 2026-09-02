@@ -1,0 +1,61 @@
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"entity_id":"A007","company_name":"Boston Consulting LLC","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Ave","country_code":"US","duns":"2345684"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Ave","country_code":"US","company_name":"BCG Partners","entity_id":"A003","duns":"2345680"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"address_line1":"16 Hayward Avenue","entity_id":"A001","ssn_tax_id":"111-22-3333","duns":"2345678","country_code":"US","company_name":"Boston Consulting Group"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"company_name":"Boston Consulting Holdings","ssn_tax_id":"111-22-3333","duns":"2345679","entity_id":"A002","address_line1":"16 Hayward Avenue","country_code":"US"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"entity_id":"A010","company_name":"Boston Consulting Company","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Ave","country_code":"US","duns":"2345687"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"company_name":"Boston Consulting Enterprises","duns":"2345682","country_code":"US","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue","entity_id":"A005"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-22-3333","company_name":"Boston Consulting Enterprises","address_line1":"16 Hayward Ave","entity_id":"A018","country_code":"US","duns":"2345695"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Ave","duns":"2345692","entity_id":"A015","country_code":"US","company_name":"BCG Holdings"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"entity_id":"A014","ssn_tax_id":"111-22-3333","duns":"2345691","company_name":"Boston Consulting Group","country_code":"US","address_line1":"16 Hayward Avenue"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"address_line1":"16 Hayward Ave","ssn_tax_id":"111-22-3333","company_name":"Boston Consulting","duns":"2345689","country_code":"US","entity_id":"A012"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"entity_id":"A004","country_code":"US","duns":"2345681","company_name":"BCG Capital","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"company_name":"BCG Advisory Limited","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue","country_code":"US","entity_id":"A009","duns":"2345686"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"company_name":"Boston Consulting Partners","address_line1":"16 Hayward Avenue","entity_id":"A016","ssn_tax_id":"111-22-3333","duns":"2345693","country_code":"US"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"address_line1":"16 Hayward Avenue","duns":"2345694","entity_id":"A017","country_code":"US","ssn_tax_id":"111-22-3333","company_name":"BCG Advisory Capital"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue","country_code":"US","entity_id":"A019","company_name":"BCG Solutions","duns":"2345696"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"duns":"2345683","entity_id":"A006","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Ave","country_code":"US","company_name":"BCG Advisory Solutions"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111-22-3333","entity_id":"A020","company_name":"Boston Consulting LLC","address_line1":"16 Hayward Avenue","duns":"2345697","country_code":"US"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"entity_id":"A011","company_name":"BCG Services","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue","country_code":"US","duns":"2345688"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"company_name":"BCG Corporation","address_line1":"16 Hayward Avenue","duns":"2345685","entity_id":"A008","ssn_tax_id":"111-22-3333","country_code":"US"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"a","record":{"address_line1":"16 Hayward Avenue","company_name":"The BCG Advisory","entity_id":"A013","country_code":"US","ssn_tax_id":"111-22-3333","duns":"2345690"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"2345685","company_name":"Boston Consulting","address_line1":"16 Hayward Ave","entity_id":"B008","ssn_tax_id":"111-22-3333"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"111-22-3333","company_name":"BCG Enterprises","entity_id":"B001","address_line1":"16 Hayward Ave","duns":"2345678"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"address_line1":"16 Hayward Ave","country_code":"US","ssn_tax_id":"111-22-3333","company_name":"BCG Limited","entity_id":"B005","duns":"2345682"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"duns":"2345697","company_name":"BCG Services","country_code":"US","entity_id":"B020","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"duns":"2345695","company_name":"BCG Limited","entity_id":"B018","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue","country_code":"US"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B016","duns":"2345693","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue","company_name":"BCG Advisory LLC"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111-22-3333","country_code":"US","address_line1":"16 Hayward Avenue","duns":"2345692","company_name":"Boston Consulting Solutions","entity_id":"B015"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"address_line1":"16 Hayward Ave","ssn_tax_id":"111-22-3333","country_code":"US","duns":"2345688","entity_id":"B011","company_name":"Boston Consulting Holdings"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"address_line1":"16 Hayward Avenue","ssn_tax_id":"111-22-3333","country_code":"US","entity_id":"B014","duns":"2345691","company_name":"BCG Enterprises"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"company_name":"BCG Advisory Group","duns":"2345687","entity_id":"B010","ssn_tax_id":"111-22-3333","country_code":"US","address_line1":"16 Hayward Avenue"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"entity_id":"B003","ssn_tax_id":"111-22-3333","company_name":"Boston Consulting LLC","address_line1":"16 Hayward Avenue","country_code":"US","duns":"2345680"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"entity_id":"B007","duns":"2345684","company_name":"BCG Services","address_line1":"16 Hayward Avenue","ssn_tax_id":"111-22-3333","country_code":"US"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"entity_id":"B013","ssn_tax_id":"111-22-3333","address_line1":"16 Hayward Avenue","country_code":"US","duns":"2345690","company_name":"BCG Capital"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"111-22-3333","duns":"2345683","entity_id":"B006","company_name":"Boston Consulting Company","address_line1":"16 Hayward Avenue"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"address_line1":"16 Hayward Avenue","ssn_tax_id":"111-22-3333","country_code":"US","company_name":"BCG Advisory Partners","entity_id":"B012","duns":"2345689"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"entity_id":"B009","address_line1":"16 Hayward Avenue","country_code":"US","duns":"2345686","ssn_tax_id":"111-22-3333","company_name":"The Boston Consulting"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111-22-3333","country_code":"US","address_line1":"16 Hayward Ave","entity_id":"B019","company_name":"BCG Advisory Company","duns":"2345696"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"company_name":"BCG Advisory Solutions","entity_id":"B002","country_code":"US","address_line1":"16 Hayward Avenue","duns":"2345679","ssn_tax_id":"111-22-3333"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"address_line1":"16 Hayward Ave","company_name":"BCG Advisory Corporation","ssn_tax_id":"111-22-3333","country_code":"US","entity_id":"B004","duns":"2345681"}}
+{"ts":"2026-09-02T03:55:33Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","country_code":"US","duns":"2345694","address_line1":"16 Hayward Ave","company_name":"Boston Consulting Corporation","ssn_tax_id":"111-22-3333"}}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A013","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A013","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A020","b_id":"B003","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A009","b_id":"B016","score":0.8929758575227527,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A011","b_id":"B007","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B004","side":"b","candidate_id":"A006","score":0.839420389092487,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A004","b_id":"B013","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A007","b_id":"B017","score":0.9160609507560731,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A010","b_id":"B006","score":0.949999487400055,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B014","side":"b","candidate_id":"A008","score":0.8465755899747214,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B010","side":"b","candidate_id":"A017","score":0.7920133882447294,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B012","side":"b","candidate_id":"A009","score":0.8494623498218816,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B020","side":"b","candidate_id":"A019","score":0.733112224340439,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B018","side":"b","candidate_id":"A009","score":0.7977064096158553,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B019","side":"b","candidate_id":"A006","score":0.8198833065373559,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A012","b_id":"B009","score":0.9073116133087561,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B005","side":"b","candidate_id":"A009","score":0.7477064096158552,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A006","b_id":"B002","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A005","b_id":"B015","score":0.8637840986251832,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"crossmap_confirm","a_id":"A002","b_id":"B011","score":0.9499999046325684,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T03:55:33Z","type":"review_match","id":"B001","side":"b","candidate_id":"A003","score":0.8020192314077308,"rank":1,"reason":"top_scoring"}

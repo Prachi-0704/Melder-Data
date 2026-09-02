@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,São Paulo Street,São Paulo Group,BR,121212,23456789
+B002,A002,,match,crossmap,,Zürich Avenue,Zürich Investments AG Holdings,CH,121013,121213
+B003,A003,,match,crossmap,,São Paulo Street,São Paulo Partners,BR,121214,23456789
+B004,A004,,match,crossmap,,Zürich Avenue,Zürich Investments AG Capital,CH,121014,121213
+B005,A005,,match,crossmap,,São Paulo Street,São Paulo Enterprises,BR,121215,23456789
+B006,A006,,match,crossmap,,Zürich Avenue,Zürich Investments AG Solutions,CH,121015,121213
+B007,A007,,match,crossmap,,São Paulo Street,São Paulo LLC,BR,121216,23456789
+B008,A008,,match,crossmap,,Zürich Avenue,Zürich Investments AG Corporation,CH,121016,121213
+B009,A009,,match,crossmap,,São Paulo Street,São Paulo Limited,BR,121217,23456789
+B010,A010,,match,crossmap,,Zürich Avenue,Zürich Investments AG Company,CH,121017,121213
+B011,A011,,match,crossmap,,São Paulo Street,São Paulo Services,BR,121218,23456789
+B012,A012,,match,crossmap,,Zürich Avenue,Zürich Investments AG,CH,121018,121213
+B013,A013,,match,crossmap,,São Paulo Street,The São Paulo,BR,121219,23456789
+B014,A014,,match,crossmap,,Zürich Avenue,Zürich Investments AG Group,CH,121019,121213
+B015,A015,,match,crossmap,,São Paulo Street,São Paulo Holdings,BR,121220,23456789
+B016,A016,,match,crossmap,,Zürich Avenue,Zürich Investments AG Partners,CH,121020,121213
+B017,A017,,match,crossmap,,São Paulo Street,São Paulo Capital,BR,121221,23456789
+B018,A018,,match,crossmap,,Zürich Avenue,Zürich Investments AG Enterprises,CH,121021,121213
+B019,A019,,match,crossmap,,São Paulo Street,São Paulo Solutions,BR,121222,23456789
+B020,A020,,match,crossmap,,Zürich Avenue,Zürich Investments AG LLC,CH,121022,121213

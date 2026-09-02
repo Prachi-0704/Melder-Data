@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A018,0.9388,match,top_scoring,2,228 Union Street,Google Corporations Enterprises,US,12345678
+B002,A019,0.8451,review,top_scoring,2,228 Union Street,Google Corporation Solutions,US,12345678
+B003,A013,0.8718,match,top_scoring,1,228 Union Street,The Google Corp Global,US,12345678
+B004,A020,,match,crossmap,,22B Union Street,Google LLC,US,12345678
+B005,A009,0.7729,review,top_scoring,1,22B Union Street,Google Corporation Limited,US,12345678
+B006,A010,0.8267,review,top_scoring,1,22B Union Street,Google Company,US,12345678
+B007,A011,0.8073,review,top_scoring,1,22B Union Street,Google Corporation Systems Services,US,12345678
+B008,A011,0.9158,match,top_scoring,1,22B Union Street,Google Corporation Systems Services,US,12345678
+B009,A012,0.7893,review,top_scoring,1,22B Union Street,Google,US,12345678
+B010,A014,1.0000,match,top_scoring,1,228 Union Street,Google Corporation Group,US,12345678
+B011,A008,0.8208,review,top_scoring,1,228 Union Street,Google Corp Global Corporation,US,12345678
+B012,A003,0.9173,match,top_scoring,1,22B Union Street,Google Partners,US,12345678
+B013,A004,1.0000,match,top_scoring,1,22B Union Street,Google Capital,US,12345678
+B014,A005,0.9500,match,top_scoring,1,228 Union Street,Google Corporation Enterprises,US,12345678
+B015,A019,1.0000,match,top_scoring,1,228 Union Street,Google Corporation Solutions,US,12345678
+B016,A007,0.9343,match,top_scoring,2,22B Union Street,The Google LLC,US,12345678
+B017,A009,0.8494,review,top_scoring,2,22B Union Street,Google Corporation Limited,US,12345678
+B018,A009,0.8259,review,top_scoring,1,22B Union Street,Google Corporation Limited,US,12345678
+B019,A008,0.8562,match,top_scoring,1,228 Union Street,Google Corp Global Corporation,US,12345678
+B020,A011,0.8073,review,top_scoring,1,22B Union Street,Google Corporation Systems Services,US,12345678

@@ -1,0 +1,16 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Microsoft Ireland Operations Enterprises,654987321,70 Sir John Rogerson's Quay,IE,888999111
+ENR_002,Northwind Solutions,321654987,88 Pine Rd,GB,777888999
+ENR_003,Global Bank LLC,456789123,20 Oak Ave,CA,555444333
+ENR_004,Deutsche Bank AG Corporation,369258147,Taunusanlage 12,DE,101112131
+ENR_005,Amazon Europe Sarl Limited,789321654,38 Avenue de l'Opera,FR,111222333
+ENR_006,HSBC Holdings Company,258963147,8 Canada Square,GB,333444555
+ENR_007,Shell International B.V. Company Services,147258369,Carel van Bylandtlaan 30,NL,141516171
+ENR_008,Johnson and Johnson,456123789,450 Park Ave,US,444555666
+ENR_009,The Bank of America,123456789,100 Main St,US,123456789
+ENR_010,Apple Group,987654321,1 Infinite Loop,US,999999999
+NEG_001,Northwind Logistics Group,456123789,450 Park Avenue,US,444555666
+NEG_002,Harbor & Pine Capital,789321654,38 Avenue de l'Opera,FR,111222333
+NEG_003,Summit Health Partners,456789123,20 Oak Ave,CA,555444333
+NEG_004,Blue Harbor Foods Ltd,321654987,88 Pine Rd,GB,777888999
+NEG_005,Crestview Telecom Holdings,123456789,100 Main St,US,123456789

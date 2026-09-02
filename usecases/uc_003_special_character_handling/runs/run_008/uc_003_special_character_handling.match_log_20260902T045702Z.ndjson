@@ -1,0 +1,61 @@
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"867638","entity_id":"A003","address_line1":"102 Main St.","company_name":"Acme, Inc.","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"321-54-8976","company_name":"Quotes 'Single' Co.","country_code":"US","entity_id":"A020","address_line1":"119 Quote Rd","duns":"867655"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"company_name":"Percent% Solutions","country_code":"US","duns":"867648","entity_id":"A013","ssn_tax_id":"321-54-8976","address_line1":"112 Percent Pl."}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"company_name":"Widget Co. (R&D)","entity_id":"A009","country_code":"US","address_line1":"108 Industry Blvd","duns":"867644","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"entity_id":"A015","ssn_tax_id":"321-54-8976","company_name":"Lawyers: O'Neil & Partners","country_code":"US","address_line1":"114 Legal Ave","duns":"867650"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A012","duns":"867647","address_line1":"111 Home Dr","ssn_tax_id":"321-54-8976","company_name":"Hello@Home Ventures"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"321-54-8976","company_name":"Slash/Back\\\\Corp","address_line1":"118 Path Ln","duns":"867654","entity_id":"A019","country_code":"US"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"Baker & McKenzie LLP","entity_id":"A006","duns":"867641","ssn_tax_id":"321-54-8976","address_line1":"105 Market St."}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A016","duns":"867651","address_line1":"115 Line Rd","company_name":"Two--Dash Industries","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"company_name":"Ellipsis Ltd...","duns":"867652","address_line1":"116 Dot St","country_code":"US","ssn_tax_id":"321-54-8976","entity_id":"A017"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"entity_id":"A010","ssn_tax_id":"321-54-8976","country_code":"US","duns":"867645","address_line1":"109 Corporate Way","company_name":"Mega—Corp International"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"321-54-8976","country_code":"US","duns":"867642","entity_id":"A007","company_name":"AT&T Services","address_line1":"106 Market St"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"entity_id":"A011","company_name":"Cafe & Co.","ssn_tax_id":"321-54-8976","country_code":"US","duns":"867646","address_line1":"110 Bistro Ln"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"company_name":"Trim & Go!","address_line1":"113 Auto Pkwy","duns":"867649","entity_id":"A014","ssn_tax_id":"321-54-8976","country_code":"US"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"duns":"867637","country_code":"US","entity_id":"A002","address_line1":"101 Main St.","company_name":"Smith-Jones Co.","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"address_line1":"107 Supply Rd.","country_code":"US","duns":"867643","ssn_tax_id":"321-54-8976","entity_id":"A008","company_name":"John's \"Quality\" Supplies"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"867653","entity_id":"A018","address_line1":"117 Bracket Way","ssn_tax_id":"321-54-8976","company_name":"Brackets [Global] Inc."}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"867636","company_name":"O'Connor & Sons, LLC","entity_id":"A001","ssn_tax_id":"321-54-8976","address_line1":"100 Main St."}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"entity_id":"A005","company_name":"Gamma+Delta Enterprises","address_line1":"104 Commerce Ave","duns":"867640","ssn_tax_id":"321-54-8976","country_code":"US"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"address_line1":"103 Commerce Ave","country_code":"US","ssn_tax_id":"321-54-8976","entity_id":"A004","company_name":"Foo/Bar Technologies","duns":"867639"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"company_name":"Foo-Bar Technologies","ssn_tax_id":"321-54-8976","country_code":"US","address_line1":"203 Commerce Ave","entity_id":"B004","duns":"867659"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","address_line1":"217 Bracket Way","company_name":"Brackets Global Inc","duns":"867673","entity_id":"B018","country_code":"US"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"entity_id":"B019","ssn_tax_id":"321-54-8976","address_line1":"218 Path Ln","country_code":"US","company_name":"Slash-BackCorp","duns":"867674"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","entity_id":"B011","address_line1":"210 Bistro Ln","duns":"867666","country_code":"US","company_name":"Cafe and Co"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"company_name":"Percent Solutions %","entity_id":"B013","address_line1":"212 Percent Pl.","country_code":"US","ssn_tax_id":"321-54-8976","duns":"867668"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"address_line1":"201 Main St.","country_code":"US","ssn_tax_id":"321-54-8976","duns":"867657","entity_id":"B002","company_name":"Smith Jones Company"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"entity_id":"B020","address_line1":"219 Quote Rd","ssn_tax_id":"321-54-8976","country_code":"US","duns":"867675","company_name":"Quotes Single Co"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"country_code":"US","address_line1":"208 Industry Blvd","entity_id":"B009","ssn_tax_id":"321-54-8976","company_name":"Widget Company (R&D)","duns":"867664"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","entity_id":"B003","address_line1":"202 Main St.","duns":"867658","company_name":"Acme Incorporated","country_code":"US"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"duns":"867672","company_name":"Ellipsis Limited...","ssn_tax_id":"321-54-8976","country_code":"US","entity_id":"B017","address_line1":"216 Dot St"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"entity_id":"B005","address_line1":"204 Commerce Ave","country_code":"US","company_name":"Gamma and Delta Enterprises","duns":"867660","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"company_name":"OConnor & Sons LLC","country_code":"US","ssn_tax_id":"321-54-8976","address_line1":"200 Main St.","entity_id":"B001","duns":"867656"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"company_name":"O'Neil & Partners","country_code":"US","duns":"867670","address_line1":"214 Legal Ave","ssn_tax_id":"321-54-8976","entity_id":"B015"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"duns":"867665","ssn_tax_id":"321-54-8976","company_name":"Mega-Corp Intnl","entity_id":"B010","address_line1":"209 Corporate Way","country_code":"US"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","entity_id":"B007","country_code":"US","company_name":"AT and T Services","address_line1":"206 Market St","duns":"867662"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"321-54-8976","address_line1":"205 Market St.","company_name":"Baker & McKenzie","entity_id":"B006","duns":"867661"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"company_name":"HelloAtHome Ventures","address_line1":"211 Home Dr","country_code":"US","entity_id":"B012","ssn_tax_id":"321-54-8976","duns":"867667"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"address_line1":"213 Auto Pkwy","country_code":"US","entity_id":"B014","duns":"867669","company_name":"Trim & Go","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","entity_id":"B016","company_name":"Two Dash Industries","address_line1":"215 Line Rd","country_code":"US","duns":"867671"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"321-54-8976","company_name":"Johns \"Quality\" Supplies","duns":"867663","address_line1":"207 Supply Rd.","entity_id":"B008"}}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B016","side":"b","candidate_id":"A016","score":0.8410357842078576,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B012","side":"b","candidate_id":"A012","score":0.7336770937992978,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B005","side":"b","candidate_id":"A005","score":0.8451798477172852,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":0.8881059401913693,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B007","side":"b","candidate_id":"A007","score":0.8132720184326172,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B018","side":"b","candidate_id":"A018","score":0.7965883976075708,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":0.8500343004862467,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B010","side":"b","candidate_id":"A010","score":0.7504673926453842,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B001","side":"b","candidate_id":"A001","score":0.7987869494839719,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B015","side":"b","candidate_id":"A015","score":0.7787877918675888,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B002","side":"b","candidate_id":"A002","score":0.7181041205630583,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":0.921541640565202,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":0.8539659261703492,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":0.8636734502656119,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B003","side":"b","candidate_id":"A003","score":0.7857901440726387,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B019","side":"b","candidate_id":"A019","score":0.7505163824558259,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B020","side":"b","candidate_id":"A020","score":0.7211345168522426,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"review_match","id":"B017","side":"b","candidate_id":"A017","score":0.8201803305569817,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":0.8806368679416423,"rank":1,"reason":"top_scoring"}

@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Boston Consulting Enterprises,111-22-3333,16 Hayward Avenue,US,2345697
+ENR_002,BCG Advisory Solutions,111-22-3333,16 Hayward Ave,US,2345683
+ENR_003,BCG LLC,111-22-3333,16 Hayward Ave,US,2345692
+ENR_004,Boston Consulting Corporation,111-22-3333,16 Hayward Avenue,US,2345682
+ENR_005,Boston Consulting Company Limited,111-22-3333,16 Hayward Ave,US,2345687
+ENR_006,Boston Consulting Company,111-22-3333,16 Hayward Avenue,US,2345691
+ENR_007,Boston Consulting Services,111-22-3333,16 Hayward Avenue,US,2345693
+ENR_008,BCG,111-22-3333,16 Hayward Avenue,US,2345696
+ENR_009,The Boston Consulting,111-22-3333,16 Hayward Ave,US,2345684
+ENR_010,The BCG Advisory Group,111-22-3333,16 Hayward Avenue,US,2345690
+ENR_011,Boston Consulting Holdings,111-22-3333,16 Hayward Ave,US,2345695
+ENR_012,BCG Partners,111-22-3333,16 Hayward Avenue,US,2345688
+ENR_013,Boston Consulting Capital,111-22-3333,16 Hayward Avenue,US,2345679
+ENR_014,Boston Consulting Enterprises,111-22-3333,16 Hayward Ave,US,2345689
+ENR_015,BCG Solutions,111-22-3333,16 Hayward Ave,US,2345680
+NEG_001,Northwind Logistics Group,111-22-3333,16 Hayward Avenue,US,2345687
+NEG_002,Harbor & Pine Capital,111-22-3333,16 Hayward Ave,US,2345694
+NEG_003,Summit Health Partners,111-22-3333,16 Hayward Ave,US,2345688
+NEG_004,Blue Harbor Foods Ltd,111-22-3333,16 Hayward Avenue,US,2345695
+NEG_005,Crestview Telecom Holdings,111-22-3333,16 Hayward Ave,US,2345696

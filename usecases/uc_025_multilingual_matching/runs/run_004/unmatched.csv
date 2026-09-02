@@ -1,0 +1,6 @@
+entity_id,address_line1,company_name,country_code,ssn_tax_id,best_score,best_a_id
+B008,15 Rue de l'Economie,French Bank,FR,557788,0.5006,
+B017,410 Real Street,Credit Bank Corporation,ES,998877,0.5934,
+B018,15 Rue de l'Economie,French Bank Limited,FR,557788,0.5388,
+B019,410 Real Street,Credit Bank Company,ES,998877,0.5996,
+B020,15 Rue de l'Economie,French Bank Services,FR,557788,0.4765,

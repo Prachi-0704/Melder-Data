@@ -1,0 +1,80 @@
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"234-56-7891","entity_id":"A015","country_code":"US","address_line1":"420 Clark Street","duns":"3451231","company_name":"Steven Financial Holdings"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A007","address_line1":"420 Clark Street","country_code":"US","ssn_tax_id":"234-56-7891","duns":"3451227","company_name":"Steven Financial LLC"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"address_line1":"420 Main Ave","ssn_tax_id":"112-34-8989","country_code":"US","duns":"1298349","entity_id":"A005","company_name":"Smith Consulting Enterprises"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"The Smith Consulting","ssn_tax_id":"112-34-8989","country_code":"US","entity_id":"A013","address_line1":"420 Main Ave","duns":"1298353"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A004","ssn_tax_id":"234-56-7891","duns":"3451226","address_line1":"420 Clarke Street","country_code":"US","company_name":"Stephen Financial Capital"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A019","ssn_tax_id":"234-56-7891","company_name":"Steven Financial Solutions","address_line1":"420 Clark Street","country_code":"US","duns":"3451233"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Smith Consulting Limited","duns":"1298351","country_code":"US","entity_id":"A009","ssn_tax_id":"112-34-8989","address_line1":"420 Main Ave"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"address_line1":"420 Clarke Street","ssn_tax_id":"234-56-7891","entity_id":"A016","company_name":"Stephen Financial Partners","country_code":"US","duns":"3451232"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A012","duns":"3451230","company_name":"Stephen Financial","address_line1":"420 Clarke Street","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A020","address_line1":"420 Clarke Street","company_name":"Stephen Financial LLC","country_code":"US","ssn_tax_id":"234-56-7891","duns":"3451234"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A001","duns":"1298347","ssn_tax_id":"112-34-8989","address_line1":"420 Main Ave","country_code":"US","company_name":"Smith Consulting Group"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Smyth Consulting Solutions","address_line1":"420 Mayne Ave","duns":"1298350","country_code":"US","entity_id":"A006","ssn_tax_id":"112-34-8989"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"234-56-7891","entity_id":"A011","address_line1":"420 Clark Street","country_code":"US","duns":"3451229","company_name":"Steven Financial Services"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"112-34-8989","entity_id":"A002","address_line1":"420 Mayne Ave","country_code":"US","duns":"1298348","company_name":"Smyth Consulting Holdings"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"3451228","entity_id":"A008","company_name":"Stephen Financial Corporation","ssn_tax_id":"234-56-7891","address_line1":"420 Clarke Street"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"420 Main Ave","entity_id":"A017","company_name":"Smith Consulting Capital","ssn_tax_id":"112-34-8989","duns":"1298355"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A010","country_code":"US","address_line1":"420 Mayne Ave","company_name":"Smyth Consulting Company","duns":"1298352","ssn_tax_id":"112-34-8989"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Smyth Consulting Group","ssn_tax_id":"112-34-8989","address_line1":"420 Mayne Ave","duns":"1298354","country_code":"US","entity_id":"A014"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"duns":"3451225","country_code":"US","address_line1":"420 Clark Street","company_name":"Steven Financial Partners","ssn_tax_id":"234-56-7891","entity_id":"A003"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"address_line1":"420 Mayne Ave","company_name":"Smyth Consulting Enterprises","country_code":"US","ssn_tax_id":"112-34-8989","duns":"1298356","entity_id":"A018"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234-56-7891","country_code":"US","entity_id":"B019","company_name":"Stephen Financial Company","duns":"3451233","address_line1":"420 Clarke Street"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"company_name":"Smyth Consulting Limited","ssn_tax_id":"112-34-8989","duns":"1298349","address_line1":"420 Mayne Ave","country_code":"US","entity_id":"B005"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Main Ave","company_name":"Smith Consulting Solutions","country_code":"US","duns":"1298348","entity_id":"B002","ssn_tax_id":"112-34-8989"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"company_name":"Steven Financial","ssn_tax_id":"234-56-7891","country_code":"US","entity_id":"B008","address_line1":"420 Clark Street","duns":"3451228"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"duns":"3451225","company_name":"Stephen Financial LLC","country_code":"US","address_line1":"420 Clarke Street","entity_id":"B003","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"The Smyth Consulting","duns":"1298351","entity_id":"B009","ssn_tax_id":"112-34-8989","address_line1":"420 Mayne Ave"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Main Ave","duns":"1298350","country_code":"US","entity_id":"B006","ssn_tax_id":"112-34-8989","company_name":"Smith Consulting Company"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B004","address_line1":"420 Clark Street","country_code":"US","company_name":"Steven Financial Corporation","ssn_tax_id":"234-56-7891","duns":"3451226"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"duns":"3451227","company_name":"Stephen Financial Services","address_line1":"420 Clarke Street","entity_id":"B007","ssn_tax_id":"234-56-7891","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","duns":"1298355","country_code":"US","company_name":"Smyth Consulting Corporation","ssn_tax_id":"112-34-8989","address_line1":"420 Mayne Ave"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Clark Street","country_code":"US","ssn_tax_id":"234-56-7891","entity_id":"B020","duns":"3451234","company_name":"Steven Financial Services"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"duns":"3451230","company_name":"Steven Financial Partners","ssn_tax_id":"234-56-7891","entity_id":"B012","address_line1":"420 Clark Street","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"company_name":"Smith Consulting Limited","ssn_tax_id":"112-34-8989","entity_id":"B018","address_line1":"420 Main Ave","duns":"1298356","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"company_name":"Stephen Financial Solutions","ssn_tax_id":"234-56-7891","entity_id":"B015","address_line1":"420 Clarke Street","country_code":"US","duns":"3451231"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","ssn_tax_id":"112-34-8989","address_line1":"420 Main Ave","country_code":"US","duns":"1298354","company_name":"Smith Consulting Enterprises"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B010","address_line1":"420 Main Ave","country_code":"US","duns":"1298352","company_name":"Smith Consulting Group","ssn_tax_id":"112-34-8989"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"duns":"1298347","company_name":"Smyth Consulting Enterprises","entity_id":"B001","ssn_tax_id":"112-34-8989","address_line1":"420 Mayne Ave","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B011","country_code":"US","company_name":"Stephen Financial Holdings","duns":"3451229","ssn_tax_id":"234-56-7891","address_line1":"420 Clarke Street"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B013","address_line1":"420 Mayne Ave","company_name":"Smyth Consulting Capital","country_code":"US","ssn_tax_id":"112-34-8989","duns":"1298353"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"3451232","company_name":"Steven Financial LLC","entity_id":"B016","address_line1":"420 Clark Street","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}

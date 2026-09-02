@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,RunFast Group,111-88-5555,23 Sports Drive,US,454556
+A002,Running Fast Holdings,111-88-5555,23 Sports Dr.,US,454557
+A003,RunFast Partners,111-88-5555,23 Sport Drive,US,454558
+A004,RunningFast Capital,111-88-5555,23 Sports Blvd,US,454559
+A005,Run & Go Enterprises,111-88-5555,24 Sports Drive,US,454560
+A006,Running Solutions,111-88-5555,24 Sports Dr,US,454561
+A007,Runners Corp LLC,111-88-5555,24 Sport Dr.,US,454562
+A008,RanFast Corporation,111-88-5555,25 Sports Drive,US,454563
+A009,Runner Limited,111-88-5555,25 Sports Blvd,US,454564
+A010,RunFast Company,111-88-5555,25 Sports Ln,US,454565
+A011,Joggers Services,111-88-5555,26 Sports Drive,US,454566
+A012,Jogging Co.,111-88-5555,26 Sports Dr.,US,454567
+A013,The Sprinting Group,111-88-5555,26 Sport Dr,US,454568
+A014,Sprint Corp Group,111-88-5555,27 Sports Drive,US,454569
+A015,Sprinter Holdings Ltd,111-88-5555,27 Sports Blvd,US,454570
+A016,Sprint Partners,111-88-5555,27 Sports Ln,US,454571
+A017,Great Cooking Co.,111-88-5555,28 Sports Drive,US,454572
+A018,Great Cookers Inc.,111-88-5555,28 Sports Dr,US,454573
+A019,Cooking Masters LLC,111-88-5555,28 Sport Ln,US,454574
+A020,Kitchen & Baking LLC,111-88-5555,29 Sports Drive,US,454575

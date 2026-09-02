@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,William Smith Group,234-22-3333,3 Pascal Avenue,US,567891
+A002,Robert Smith Holdings,234-22-3333,3 Pascal Avenue,US,567892
+A003,William Smith Partners,234-22-3333,3 Pascal Avenue,US,567893
+A004,Robert Smith Capital,234-22-3333,3 Pascal Avenue,US,567894
+A005,William Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567895
+A006,Robert Smith Solutions,234-22-3333,3 Pascal Avenue,US,567896
+A007,William Smith LLC,234-22-3333,3 Pascal Avenue,US,567897
+A008,Robert Smith Corporation,234-22-3333,3 Pascal Avenue,US,567898
+A009,William Smith Limited,234-22-3333,3 Pascal Avenue,US,567899
+A010,Robert Smith Company,234-22-3333,3 Pascal Avenue,US,567900
+A011,William Smith Services,234-22-3333,3 Pascal Avenue,US,567901
+A012,Robert Smith,234-22-3333,3 Pascal Avenue,US,567902
+A013,The William Smith,234-22-3333,3 Pascal Avenue,US,567903
+A014,Robert Smith Group,234-22-3333,3 Pascal Avenue,US,567904
+A015,William Smith Holdings,234-22-3333,3 Pascal Avenue,US,567905
+A016,Robert Smith Partners,234-22-3333,3 Pascal Avenue,US,567906
+A017,William Smith Capital,234-22-3333,3 Pascal Avenue,US,567907
+A018,Robert Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567908
+A019,William Smith Solutions,234-22-3333,3 Pascal Avenue,US,567909
+A020,Robert Smith LLC,234-22-3333,3 Pascal Avenue,US,567910

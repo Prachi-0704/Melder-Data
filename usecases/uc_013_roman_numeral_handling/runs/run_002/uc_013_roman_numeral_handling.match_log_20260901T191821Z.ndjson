@@ -1,0 +1,80 @@
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"77778888","address_line1":"Building V First Avenue","duns":"1122352","entity_id":"A019","country_code":"US","company_name":"Henry 4 Solutions"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"1122343","entity_id":"A010","company_name":"Henry IV Company","address_line1":"Building 5 First Avenue","ssn_tax_id":"77778888","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"1122347","ssn_tax_id":"77778888","company_name":"Henry IV Group","country_code":"US","entity_id":"A014","address_line1":"Building 5 First Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"1122338","ssn_tax_id":"77778888","entity_id":"A005","country_code":"US","company_name":"Henry 4 Enterprises","address_line1":"Building V First Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"1122341","address_line1":"Building 5 1st Ave","entity_id":"A008","company_name":"Henry IV Corporation","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"Building V First Avenue","ssn_tax_id":"77778888","duns":"1122348","country_code":"US","entity_id":"A015","company_name":"Henry 4 Holdings"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"1122349","ssn_tax_id":"77778888","address_line1":"Building 5 1st Ave","entity_id":"A016","country_code":"US","company_name":"Henry IV Partners"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"77778888","country_code":"US","duns":"1122345","entity_id":"A012","company_name":"Henry IV","address_line1":"Building 5 1st Ave"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"Henry IV Solutions","ssn_tax_id":"77778888","duns":"1122339","country_code":"US","entity_id":"A006","address_line1":"Building 5 First Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"Henry IV Group","entity_id":"A001","address_line1":"Building V First Avenue","country_code":"US","duns":"1122334","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"1122353","address_line1":"Building 5 1st Ave","ssn_tax_id":"77778888","company_name":"Henry IV LLC","country_code":"US","entity_id":"A020"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"1122336","company_name":"Henry 4 Partners","ssn_tax_id":"77778888","address_line1":"Building V First Avenue","entity_id":"A003"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A002","duns":"1122335","address_line1":"Building 5 First Avenue","ssn_tax_id":"77778888","country_code":"US","company_name":"Henry IV Holdings"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"77778888","entity_id":"A013","address_line1":"Building V First Avenue","company_name":"The Henry 4","country_code":"US","duns":"1122346"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"Henry 4 Capital","address_line1":"Building V First Avenue","entity_id":"A017","duns":"1122350","country_code":"US","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A011","ssn_tax_id":"77778888","duns":"1122344","address_line1":"Building V First Avenue","country_code":"US","company_name":"Henry 4 Services"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A009","ssn_tax_id":"77778888","company_name":"Henry 4 Limited","address_line1":"Building V First Avenue","country_code":"US","duns":"1122342"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"Henry IV Capital","address_line1":"Building 5 1st Ave","entity_id":"A004","country_code":"US","duns":"1122337","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"1122351","address_line1":"Building 5 First Avenue","ssn_tax_id":"77778888","company_name":"Henry IV Enterprises","entity_id":"A018"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"77778888","address_line1":"Building V First Avenue","company_name":"Henry 4 LLC","country_code":"US","entity_id":"A007","duns":"1122340"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Henry 4","duns":"1122341","address_line1":"Building V First Avenue","ssn_tax_id":"77778888","entity_id":"B008"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B003","company_name":"Henry IV LLC","address_line1":"Building 5 1st Ave","country_code":"US","ssn_tax_id":"77778888","duns":"1122336"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"Building V First Avenue","country_code":"US","duns":"1122337","entity_id":"B004","company_name":"Henry 4 Corporation","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"Building 5 1st Ave","country_code":"US","duns":"1122344","entity_id":"B011","company_name":"Henry IV Holdings","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"1122350","entity_id":"B017","company_name":"Henry IV Corporation","address_line1":"Building 5 First Avenue","ssn_tax_id":"77778888","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"Building 5 First Avenue","company_name":"Henry IV Capital","ssn_tax_id":"77778888","country_code":"US","entity_id":"B013","duns":"1122346"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B015","company_name":"Henry IV Solutions","ssn_tax_id":"77778888","address_line1":"Building 5 1st Ave","duns":"1122348"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"77778888","duns":"1122334","company_name":"Henry 4 Enterprises","entity_id":"B001","address_line1":"Building 5 First Avenue","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"Henry 4 Company","address_line1":"Building V First Avenue","country_code":"US","duns":"1122339","entity_id":"B006","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"77778888","company_name":"Henry 4 Solutions","address_line1":"Building V First Avenue","duns":"1122335","entity_id":"B002"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","duns":"1122347","ssn_tax_id":"77778888","company_name":"Henry 4 Enterprises","address_line1":"Building V First Avenue","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Henry IV Services","entity_id":"B007","ssn_tax_id":"77778888","duns":"1122340","address_line1":"Building 5 1st Ave"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B012","ssn_tax_id":"77778888","company_name":"Henry 4 Partners","address_line1":"Building V First Avenue","country_code":"US","duns":"1122345"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B005","address_line1":"Building 5 First Avenue","ssn_tax_id":"77778888","country_code":"US","company_name":"Henry IV Limited","duns":"1122338"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B018","company_name":"Henry 4 Limited","ssn_tax_id":"77778888","address_line1":"Building V First Avenue","duns":"1122351","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"Henry 4 LLC","country_code":"US","entity_id":"B016","ssn_tax_id":"77778888","duns":"1122349","address_line1":"Building V First Avenue"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"1122353","company_name":"Henry 4 Services","country_code":"US","entity_id":"B020","address_line1":"Building V First Avenue","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"Building 5 1st Ave","ssn_tax_id":"77778888","entity_id":"B019","country_code":"US","company_name":"Henry IV Company","duns":"1122352"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"entity_id":"B009","ssn_tax_id":"77778888","address_line1":"Building 5 First Avenue","company_name":"The Henry IV","country_code":"US","duns":"1122342"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"Henry 4 Group","country_code":"US","address_line1":"Building V First Avenue","entity_id":"B010","duns":"1122343","ssn_tax_id":"77778888"}}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}

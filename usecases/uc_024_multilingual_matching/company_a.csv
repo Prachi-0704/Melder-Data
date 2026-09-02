@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Wells Fargo Banco Group,111133,420 Banco Street,ES,458767
+A002,XYZ Groupe Bancaire Holdings,4545464,50 Financière Road,FR,6767679
+A003,Wells Fargo Banco Partners,111133,420 Banco Street,ES,458768
+A004,XYZ Groupe Bancaire Capital,4545464,50 Financière Road,FR,6767680
+A005,Wells Fargo Banco Enterprises,111133,420 Banco Street,ES,458769
+A006,XYZ Groupe Bancaire Solutions,4545464,50 Financière Road,FR,6767681
+A007,Wells Fargo Banco LLC,111133,420 Banco Street,ES,458770
+A008,XYZ Groupe Bancaire Corporation,4545464,50 Financière Road,FR,6767682
+A009,Wells Fargo Banco Limited,111133,420 Banco Street,ES,458771
+A010,XYZ Groupe Bancaire Company,4545464,50 Financière Road,FR,6767683
+A011,Wells Fargo Banco Services,111133,420 Banco Street,ES,458772
+A012,XYZ Groupe Bancaire,4545464,50 Financière Road,FR,6767684
+A013,The Wells Fargo Banco,111133,420 Banco Street,ES,458773
+A014,XYZ Groupe Bancaire Group,4545464,50 Financière Road,FR,6767685
+A015,Wells Fargo Banco Holdings,111133,420 Banco Street,ES,458774
+A016,XYZ Groupe Bancaire Partners,4545464,50 Financière Road,FR,6767686
+A017,Wells Fargo Banco Capital,111133,420 Banco Street,ES,458775
+A018,XYZ Groupe Bancaire Enterprises,4545464,50 Financière Road,FR,6767687
+A019,Wells Fargo Banco Solutions,111133,420 Banco Street,ES,458776
+A020,XYZ Groupe Bancaire LLC,4545464,50 Financière Road,FR,6767688

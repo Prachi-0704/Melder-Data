@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A018,0.8891,match,top_scoring,1,420 Montgomery Street,Infolease Technologies Enterprises,US,234-56-7891
+B002,A019,0.8787,match,top_scoring,1,420 Montgomery Street,Info Tech Technologies Solutions,US,234-56-7891
+B003,A011,,match,crossmap,,420 Montgomery Street,Info Tech Technologies Services,US,234-56-7891
+B004,A010,0.8342,review,top_scoring,2,420 Montgomery St,Infolease Tech Company,US,234-56-7891
+B005,A009,1.0000,match,top_scoring,1,420 Montgomery Street,Storelease Technologies Limited,US,234-56-7891
+B006,A010,0.9380,match,top_scoring,1,420 Montgomery St,Infolease Tech Company,US,234-56-7891
+B007,A019,0.8266,review,top_scoring,2,420 Montgomery Street,Info Tech Technologies Solutions,US,234-56-7891
+B008,A014,0.8625,match,top_scoring,1,420 Montgomery Street,Infolease Tech Group,US,123-46-7891
+B009,A013,1.0000,match,top_scoring,1,420 Montgomery Street,The Infolease Technologies,US,234-56-7891
+B010,A001,0.8918,match,top_scoring,1,420 Montgomery Street,Infolease Technologies Group,US,234-56-7891
+B011,A002,0.8916,match,top_scoring,1,420 Montgomery Street,Info Tech Technologies Holdings,US,234-56-7891
+B012,A014,0.7626,review,top_scoring,1,420 Montgomery Street,Infolease Tech Group,US,123-46-7891
+B013,A004,1.0000,match,top_scoring,1,420 Montgomery Street,Info Tech Technologies Capital,US,234-56-7891
+B014,A007,,match,crossmap,,420 Montgamery Street,Infolease Technologies LLC,US,123-46-7891
+B015,A006,0.8787,match,top_scoring,2,420 Montgomery Street,Info Tech Technologies Solutions,US,234-56-7891
+B016,A020,1.0000,match,top_scoring,1,420 Montgomery Street,Infolease Technologies LLC,US,123-46-7891
+B017,A008,1.0000,match,top_scoring,1,420 Montgomery Street,Info Tech Technologies Corporation,US,234-56-7891
+B018,A012,0.8748,match,top_scoring,2,420 Montgomery Street,Storelease Technologies,US,123-46-7891
+B019,A014,0.8165,review,top_scoring,2,420 Montgomery Street,Infolease Tech Group,US,123-46-7891
+B020,A019,0.8266,review,top_scoring,2,420 Montgomery Street,Info Tech Technologies Solutions,US,234-56-7891

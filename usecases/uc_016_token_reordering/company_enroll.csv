@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,India Bank of Union Enterprises,24242424,175 Bryan Lane,US,4433240
+ENR_002,Bank of India Union Solutions,24242424,175 Bryan Lane,US,4433226
+ENR_003,India Bank of Union LLC,24242424,175 Bryan Lane,US,4433235
+ENR_004,Union Bank of India Corporation,24242424,LAne 175 Bryan,US,4433225
+ENR_005,Bank of India Union Company Limited,24242424,175 Bryan Lane,US,4433230
+ENR_006,Union Bank of India Company,24242424,175 Bryan Lane,US,4433234
+ENR_007,Union Bank of India Services,24242424,175 Bryan Lane,US,4433236
+ENR_008,Union Bank of India,24242424,Bryan Lane 175,US,4433239
+ENR_009,The Union Bank of India,24242424,175 Bryan Lane,US,4433227
+ENR_010,The Bank of India Union Group,24242424,175 Bryan Lane,US,4433233
+ENR_011,Bank of India Union Holdings,24242424,175 Bryan Lane,US,4433238
+ENR_012,OF India Bank Union Partners,24242424,175 Bryan Lane,US,4433231
+ENR_013,India Bank of Union Capital,24242424,175 Bryan Lane,US,4433222
+ENR_014,Union Bank of India Enterprises,24242424,LAne 175 Bryan,US,4433232
+ENR_015,OF India Bank Union Solutions,24242424,175 Bryan Lane,US,4433223
+NEG_001,Northwind Logistics Group,24242424,175 Bryan Lane,US,4433230
+NEG_002,Harbor & Pine Capital,24242424,175 Bryan Lane,US,4433237
+NEG_003,Summit Health Partners,24242424,175 Bryan Lane,US,4433231
+NEG_004,Blue Harbor Foods Ltd,24242424,175 Bryan Lane,US,4433238
+NEG_005,Crestview Telecom Holdings,24242424,175 Bryan Lane,US,4433239

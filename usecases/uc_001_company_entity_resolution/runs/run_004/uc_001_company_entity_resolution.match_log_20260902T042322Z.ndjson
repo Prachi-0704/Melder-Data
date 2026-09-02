@@ -1,0 +1,37 @@
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"address_line1":"Carel van Bylandtlaan 30","country_code":"NL","duns":"141516171","company_name":"Shell International B.V. Company","entity_id":"A10","ssn_tax_id":"147258369"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A8","duns":"888999111","company_name":"Microsoft Ireland Operations Corporation","address_line1":"70 Sir John Rogerson's Quay","country_code":"IE","ssn_tax_id":"654987321"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"duns":"123456789","company_name":"Bank of America Group","ssn_tax_id":"123456789","address_line1":"100 Main St","entity_id":"A1","country_code":"US"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"258963147","entity_id":"A7","address_line1":"8 Canada Square","company_name":"HSBC Holdings LLC","country_code":"GB","duns":"333444555"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"456123789","company_name":"Johnson and Johnson Enterprises","country_code":"US","duns":"444555666","address_line1":"450 Park Ave","entity_id":"A5"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"company_name":"Northwind Capital","entity_id":"A4","ssn_tax_id":"321654987","address_line1":"88 Pine Rd","country_code":"GB","duns":"777888999"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"duns":"101112131","country_code":"DE","company_name":"Deutsche Bank AG Limited","ssn_tax_id":"369258147","entity_id":"A9","address_line1":"Taunusanlage 12"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A3","ssn_tax_id":"456789123","address_line1":"20 Oak Ave","country_code":"CA","company_name":"Global Bank Partners","duns":"555444333"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"company_name":"Amazon Europe Sarl Solutions","address_line1":"38 Avenue de l'Opera","ssn_tax_id":"789321654","entity_id":"A6","country_code":"FR","duns":"111222333"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A2","duns":"999999999","country_code":"US","address_line1":"1 Infinite Loop","ssn_tax_id":"987654321","company_name":"Apple Holdings"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"company_name":"apple Corporation","country_code":"US","duns":"999999999","entity_id":"B4","ssn_tax_id":"987654321","address_line1":"1 Infinite Loop"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"address_line1":"38 Avenue de l'Opera","country_code":"FR","duns":"111222333","entity_id":"B9","ssn_tax_id":"789321654","company_name":"The Amazon Europe SARL"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"456123789","company_name":"Johnson and Johnson","entity_id":"B8","address_line1":"450 Park Avenue","country_code":"US","duns":"444555666"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"company_name":"America Bank Of LLC","address_line1":"100 Main St","country_code":"US","ssn_tax_id":"123456789","entity_id":"B3","duns":"123456789"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111222333","country_code":"US","duns":"777888999","address_line1":"88 Pine Rd","company_name":"Other Company Company","entity_id":"B6"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"country_code":"GB","duns":"333444555","company_name":"HSBC Group","ssn_tax_id":"258963147","address_line1":"8 Canada Square","entity_id":"B10"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"company_name":"Northwind Capital Services","ssn_tax_id":"321654987","country_code":"GB","entity_id":"B7","address_line1":"88 Pine Rd","duns":"777888999"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"123456789","company_name":"Bank of America Solutions","entity_id":"B2","ssn_tax_id":"123456789","address_line1":"100 Main St"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"company_name":"Global Bank Limited","address_line1":"20 Oak Ave","country_code":"CA","duns":"555444333","entity_id":"B5","ssn_tax_id":"456789123"}}
+{"ts":"2026-09-02T04:23:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"123456789","company_name":"BANK OF AMERICA Enterprises","address_line1":"100 Main St","entity_id":"B1","duns":"123456789"}}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A2","b_id":"B4","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A6","b_id":"B9","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A5","b_id":"B8","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A1","b_id":"B3","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A7","b_id":"B10","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A4","b_id":"B7","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A3","b_id":"B5","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A2","b_id":"B4","reason":"crossmap"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A6","b_id":"B9","reason":"crossmap"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A5","b_id":"B8","reason":"crossmap"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A1","b_id":"B3","reason":"crossmap"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A7","b_id":"B10","reason":"crossmap"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A4","b_id":"B7","reason":"crossmap"}
+{"ts":"2026-09-02T04:23:22Z","type":"crossmap_confirm","a_id":"A3","b_id":"B5","reason":"crossmap"}
+{"ts":"2026-09-02T04:23:22Z","type":"review_match","id":"B2","side":"b","candidate_id":"A1","score":0.7553056260813839,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T04:23:22Z","type":"no_match_below","query_id":"B6","query_side":"b","best_score":0.4626251096908863}
+{"ts":"2026-09-02T04:23:22Z","type":"review_match","id":"B1","side":"b","candidate_id":"A1","score":0.7929044485092164,"rank":1,"reason":"top_scoring"}

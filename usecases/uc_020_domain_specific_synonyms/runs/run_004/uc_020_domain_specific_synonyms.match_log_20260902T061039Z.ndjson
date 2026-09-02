@@ -1,0 +1,62 @@
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A005","company_name":"56789 ABC DBA Enterprises","duns":"909092","address_line1":"1 Pascal Avenue","ssn_tax_id":"234576","country_code":"US"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A007","country_code":"US","duns":"367701","address_line1":"220 Redwood Street","company_name":"Global Financial LLC","ssn_tax_id":"31031034"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"367703","company_name":"Global Financial Services","country_code":"US","ssn_tax_id":"31031034","entity_id":"A011","address_line1":"220 Redwood Street"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"909094","address_line1":"1 Pascal Avenue","country_code":"US","company_name":"56789 ABC DBA Limited","ssn_tax_id":"234576","entity_id":"A009"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"Global Finance LLC","entity_id":"A020","address_line1":"220 Redwood St","duns":"367708","ssn_tax_id":"31031034"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"367706","entity_id":"A016","ssn_tax_id":"31031034","company_name":"Global Finance Partners","address_line1":"220 Redwood St","country_code":"US"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"367705","entity_id":"A015","company_name":"Global Financial Holdings","ssn_tax_id":"31031034","address_line1":"220 Redwood Street"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"31031034","address_line1":"220 Redwood St","entity_id":"A008","country_code":"US","company_name":"Global Finance Corporation","duns":"367702"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"company_name":"ABC Trade Name Enterprises","ssn_tax_id":"234576","country_code":"US","address_line1":"1 Pascal Ave","entity_id":"A018","duns":"909099"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"909090","company_name":"56789 ABC DBA Group","entity_id":"A001","address_line1":"1 Pascal Avenue","ssn_tax_id":"234576","country_code":"US"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"company_name":"ABC Trade Name Solutions","entity_id":"A006","ssn_tax_id":"234576","address_line1":"1 Pascal Ave","country_code":"US","duns":"909093"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A002","country_code":"US","duns":"909091","address_line1":"1 Pascal Ave","company_name":"ABC Trade Name Holdings","ssn_tax_id":"234576"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"909098","company_name":"56789 ABC DBA Capital","ssn_tax_id":"234576","entity_id":"A017","address_line1":"1 Pascal Avenue"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"234576","address_line1":"1 Pascal Ave","entity_id":"A014","country_code":"US","duns":"909097","company_name":"ABC Trade Name Group"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"367700","country_code":"US","entity_id":"A004","address_line1":"220 Redwood St","ssn_tax_id":"31031034","company_name":"Global Finance Capital"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"address_line1":"1 Pascal Avenue","entity_id":"A013","ssn_tax_id":"234576","duns":"909096","country_code":"US","company_name":"The 56789 ABC DBA"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"address_line1":"220 Redwood Street","company_name":"Global Financial Partners","ssn_tax_id":"31031034","duns":"367699","country_code":"US","entity_id":"A003"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A010","ssn_tax_id":"234576","address_line1":"1 Pascal Ave","company_name":"ABC Trade Name Company","duns":"909095"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"address_line1":"220 Redwood St","company_name":"Global Finance","ssn_tax_id":"31031034","country_code":"US","entity_id":"A012","duns":"367704"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"31031034","entity_id":"A019","company_name":"Global Financial Solutions","duns":"367707","address_line1":"220 Redwood Street","country_code":"US"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"56789 ABC DBA Company","country_code":"US","entity_id":"B006","address_line1":"1 Pascal Avenue","ssn_tax_id":"234576","duns":"909093"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"220 Redwood Street","company_name":"Global Financial LLC","ssn_tax_id":"31031034","country_code":"US","entity_id":"B016","duns":"367706"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"entity_id":"B004","address_line1":"220 Redwood Street","duns":"367700","ssn_tax_id":"31031034","country_code":"US","company_name":"Global Financial Corporation"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"entity_id":"B019","company_name":"Global Finance Company","ssn_tax_id":"31031034","address_line1":"220 Redwood St","duns":"367707","country_code":"US"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"duns":"367703","country_code":"US","ssn_tax_id":"31031034","entity_id":"B011","address_line1":"220 Redwood St","company_name":"Global Finance Holdings"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"duns":"367708","country_code":"US","address_line1":"220 Redwood Street","ssn_tax_id":"31031034","entity_id":"B020","company_name":"Global Financial Services"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"duns":"367702","entity_id":"B008","company_name":"Global Financial","country_code":"US","address_line1":"220 Redwood Street","ssn_tax_id":"31031034"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"duns":"367705","entity_id":"B015","address_line1":"220 Redwood St","country_code":"US","company_name":"Global Finance Solutions","ssn_tax_id":"31031034"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234576","duns":"909094","entity_id":"B009","address_line1":"1 Pascal Ave","company_name":"The ABC Trade Name","country_code":"US"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"220 Redwood Street","country_code":"US","ssn_tax_id":"31031034","entity_id":"B012","company_name":"Global Financial Partners","duns":"367704"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234576","address_line1":"1 Pascal Ave","country_code":"US","duns":"909092","entity_id":"B005","company_name":"ABC Trade Name Limited"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234576","entity_id":"B013","address_line1":"1 Pascal Ave","country_code":"US","duns":"909096","company_name":"ABC Trade Name Capital"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"56789 ABC DBA Limited","address_line1":"1 Pascal Avenue","duns":"909099","country_code":"US","entity_id":"B018","ssn_tax_id":"234576"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"31031034","country_code":"US","company_name":"Global Finance Services","entity_id":"B007","duns":"367701","address_line1":"220 Redwood St"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"Global Finance LLC","duns":"367699","entity_id":"B003","address_line1":"220 Redwood St","ssn_tax_id":"31031034","country_code":"US"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"56789 ABC DBA Enterprises","address_line1":"1 Pascal Avenue","entity_id":"B014","ssn_tax_id":"234576","country_code":"US","duns":"909097"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"entity_id":"B001","address_line1":"1 Pascal Ave","duns":"909090","company_name":"ABC Trade Name Enterprises","country_code":"US","ssn_tax_id":"234576"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"ABC Trade Name Corporation","ssn_tax_id":"234576","country_code":"US","address_line1":"1 Pascal Ave","duns":"909098","entity_id":"B017"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"56789 ABC DBA Group","ssn_tax_id":"234576","address_line1":"1 Pascal Avenue","country_code":"US","duns":"909095","entity_id":"B010"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234576","country_code":"US","company_name":"56789 ABC DBA Solutions","entity_id":"B002","address_line1":"1 Pascal Avenue","duns":"909091"}}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A010","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A019","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A010","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A019","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A011","b_id":"B007","score":0.8747942673789797,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B015","side":"b","candidate_id":"A012","score":0.8487323887962818,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B013","side":"b","candidate_id":"A010","score":0.8326185884662893,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A020","b_id":"B003","score":0.9999999642372132,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A008","b_id":"B004","score":0.8887592135606656,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A009","b_id":"B018","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A007","b_id":"B008","score":0.8892355057981784,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A003","b_id":"B012","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B009","side":"b","candidate_id":"A010","score":0.8141040337929387,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A005","b_id":"B014","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A015","b_id":"B011","score":0.8829021570552428,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B005","side":"b","candidate_id":"A010","score":0.8165815060548878,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A018","b_id":"B017","score":0.8577657119971084,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B001","side":"b","candidate_id":"A002","score":0.8235197065077012,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B020","side":"b","candidate_id":"A019","score":0.8088086841353819,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A001","b_id":"B010","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B002","side":"b","candidate_id":"A009","score":0.8203045495393846,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B019","side":"b","candidate_id":"A020","score":0.8332024860115248,"rank":2,"reason":"top_scoring"}

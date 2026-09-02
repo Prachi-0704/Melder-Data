@@ -1,0 +1,13 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Target Enterprises,111222333,1000 Nicollet Mall,US,654321987
+ENR_002,Bank of America Solutions,333444555,100 N Tryon St,US,888777666
+ENR_003,Uber Technologies LLC,222333444,1515 3rd St,US,765432109
+ENR_004,Wells Fargo Corporation,123456789,36A Wabeno Avenue,US,781436
+ENR_005,Citigroup Limited,777888999,388 Greenwich St,US,222333444
+ENR_006,Goldman Sachs Company,555666777,200 West Street,US,444555666
+ENR_007,JPMorgan Chase Services,987654321,270 Park Avenue,US,999111222
+NEG_001,Northwind Logistics Group,555444333,745 Seventh Ave,US,987654321
+NEG_002,Harbor & Pine Capital,987654321,270 Park Avenue,US,999111222
+NEG_003,Summit Health Partners,111222333,1000 Nicollet Mall,US,654321987
+NEG_004,Blue Harbor Foods Ltd,444555666,8 Canada Square,GB,321654987
+NEG_005,Crestview Telecom Holdings,555666777,200 West Street,US,444555666

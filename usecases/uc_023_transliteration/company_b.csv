@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Sao Paulo Enterprises,23456789,Sao Paulo Street,BR,121212
+B002,Zurich Investments AG Solutions,121213,Zurich Avenue,CH,121013
+B003,Sao Paulo LLC,23456789,Sao Paulo Street,BR,121214
+B004,Zurich Investments AG Corporation,121213,Zurich Avenue,CH,121014
+B005,Sao Paulo Limited,23456789,Sao Paulo Street,BR,121215
+B006,Zurich Investments AG Company,121213,Zurich Avenue,CH,121015
+B007,Sao Paulo Services,23456789,Sao Paulo Street,BR,121216
+B008,Zurich Investments AG,121213,Zurich Avenue,CH,121016
+B009,The Sao Paulo,23456789,Sao Paulo Street,BR,121217
+B010,Zurich Investments AG Group,121213,Zurich Avenue,CH,121017
+B011,Sao Paulo Holdings,23456789,Sao Paulo Street,BR,121218
+B012,Zurich Investments AG Partners,121213,Zurich Avenue,CH,121018
+B013,Sao Paulo Capital,23456789,Sao Paulo Street,BR,121219
+B014,Zurich Investments AG Enterprises,121213,Zurich Avenue,CH,121019
+B015,Sao Paulo Solutions,23456789,Sao Paulo Street,BR,121220
+B016,Zurich Investments AG LLC,121213,Zurich Avenue,CH,121020
+B017,Sao Paulo Corporation,23456789,Sao Paulo Street,BR,121221
+B018,Zurich Investments AG Limited,121213,Zurich Avenue,CH,121021
+B019,Sao Paulo Company,23456789,Sao Paulo Street,BR,121222
+B020,Zurich Investments AG Services,121213,Zurich Avenue,CH,121022

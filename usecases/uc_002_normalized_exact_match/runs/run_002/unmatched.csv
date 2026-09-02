@@ -1,0 +1,8 @@
+entity_id,address_line1,company_name,country_code,duns,ssn_tax_id,best_score,best_a_id
+B1,8 Canada Square,HSBC Holdings Enterprises,GB,321654987,444555666,,
+B2,388 Greenwich St,Citigroup Solutions,US,222333444,777888999,,
+B3,36A WABENO AVENUE,WELLS FARGO LLC,US,781436,123456789,,
+B4,1000 Nicollet Mall,Target Corporation,US,654321987,111222333,,
+B5,270 Park Avenue,JPMorgan Chase and Co. Limited,US,999111222,987654321,,
+B6,745 Seventh Ave,Barclays Company,US,987654321,555444333,,
+B7,200 West Street,Goldman Sachs Services,US,444555666,555666777,,

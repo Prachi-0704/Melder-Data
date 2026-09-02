@@ -1,0 +1,41 @@
+job:
+  name: uc_001_company_entity_resolution
+
+dataset:
+  path: usecases/uc_001_company_entity_resolution/company_enroll.csv
+  id_field: entity_id
+
+embeddings:
+  model: all-MiniLM-L6-v2
+  cache_dir: usecases/uc_001_company_entity_resolution/cache
+
+blocking:
+  enabled: true
+  operator: and
+  fields:
+    - field: country_code
+
+vector_backend: flat
+top_n: 10
+
+match_fields:
+  - field: company_name
+    method: embedding
+    weight: 0.55
+  - field: company_name
+    method: fuzzy
+    scorer: partial_ratio
+    weight: 0.20
+  - field: country_code
+    method: exact
+    weight: 0.20
+  - field: ssn_tax_id
+    method: exact
+    weight: 0.05
+
+thresholds:
+  auto_match: 0.85
+  review_floor: 0.60
+
+performance:
+  encoder_pool_size: 2

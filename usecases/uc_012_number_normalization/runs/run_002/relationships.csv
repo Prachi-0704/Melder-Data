@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,100 Second Avenue,First National Bank Group,US,2345678,666-77-9991
+B002,A002,,match,crossmap,,100 2nd Ave,1st National Bank Holdings,US,2345679,666-77-9991
+B003,A003,,match,crossmap,,100 2nd Avenue,First National Bank Partners,US,2345680,666-77-9991
+B004,A004,,match,crossmap,,100 2nd Avenue,1st National Trust Capital,US,2345681,666-77-9991
+B005,A005,,match,crossmap,,100 Second Avenue,First National Bank Enterprises,US,2345682,666-77-9991
+B006,A006,,match,crossmap,,100 2nd Avenue,1st National Bank Solutions,US,2345683,666-77-9991
+B007,A007,,match,crossmap,,100 Second Avenue,First National Bank LLC,US,2345684,666-77-9991
+B008,A008,,match,crossmap,,100 2nd Avenue,First National Trust Corporation,US,2345685,666-77-9991
+B009,A009,,match,crossmap,,100 2nd Avenue,1st National Bank Limited,US,2345686,666-77-9991
+B010,A010,,match,crossmap,,100 Second Avenue,First National Bank Company,US,2345687,666-77-9991
+B011,A011,,match,crossmap,,100 Second Avenue,1st National Trust Services,US,2345688,666-77-9991
+B012,A012,,match,crossmap,,100 2nd Avenue,First National Bank,US,2345689,666-77-9991
+B013,A013,,match,crossmap,,100 Second Avenue,The 1st National Bank,US,2345690,666-77-9991
+B014,A014,,match,crossmap,,100 2nd Avenue,First National Trust Group,US,2345691,666-77-9991
+B015,A015,,match,crossmap,,100 2nd Avenue,1st National Bank Holdings,US,2345692,666-77-9991
+B016,A016,,match,crossmap,,100 Second Ave,First National Bank Partners,US,2345693,666-77-9991
+B017,A017,,match,crossmap,,100 Second Avenue,First National Trust Capital,US,2345694,666-77-9991
+B018,A018,,match,crossmap,,100 2nd Avenue,1st National Bank Enterprises,US,2345695,666-77-9991
+B019,A019,,match,crossmap,,100 Second Avenue,First National Bank Solutions,US,2345696,666-77-9991
+B020,A020,,match,crossmap,,100 Second Avenue,1st National Trust LLC,US,2345697,666-77-9991

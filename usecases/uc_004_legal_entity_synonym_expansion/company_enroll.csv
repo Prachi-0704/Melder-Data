@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,ACME Holdings Enterprises,23242526,Paseo Padre Pkwy,US,121333
+ENR_002,A Holdings Solutions,23242526,Paseo Padre Parkway,US,121319
+ENR_003,Acme Holdings LLC,23242526,Paseo Padre Parkway,US,121328
+ENR_004,Acme Holdings Corporation,23242526,Paseo Padre Pkwy,US,121318
+ENR_005,A Holdings Company Limited,23242526,Paseo Padre Pkwy,US,121323
+ENR_006,A Holdings Company,23242526,Paseo Padre Pkwy,US,121327
+ENR_007,Acme Services,23242526,Paseo Padre Pkwy,US,121329
+ENR_008,Acme Holdings,23242526,Paseo Padre Parkway,US,121332
+ENR_009,The ACME,23242526,Paseo Padre Pkwy,US,121320
+ENR_010,The Acme Group,23242526,Paseo Padre Parkway,US,121326
+ENR_011,A Holdings Holdings,23242526,Paseo Padre Pkwy,US,121331
+ENR_012,Acme Holdings Partners,23242526,Paseo Padre Parkway,US,121324
+ENR_013,Acme Capital,23242526,Paseo Padre Parkway,US,121315
+ENR_014,ACME Enterprises,23242526,Paseo Padre Pkwy,US,121325
+ENR_015,acme Holdings Solutions,23242526,Paseo Padre Pkwy,US,121316
+NEG_001,Northwind Logistics Group,23242526,Paseo Padre Parkway,US,121323
+NEG_002,Harbor & Pine Capital,23242526,Paseo Padre Pkwy,US,121330
+NEG_003,Summit Health Partners,23242526,Paseo Padre Pkwy,US,121324
+NEG_004,Blue Harbor Foods Ltd,23242526,Paseo Padre Parkway,US,121331
+NEG_005,Crestview Telecom Holdings,23242526,Paseo Padre Pkwy,US,121332

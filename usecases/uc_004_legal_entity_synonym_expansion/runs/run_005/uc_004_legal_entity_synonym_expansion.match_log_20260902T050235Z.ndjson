@@ -1,0 +1,61 @@
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"23242526","address_line1":"Paseo Padre Parkway","country_code":"US","duns":"121319","entity_id":"A006","company_name":"A Holdings Solutions"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A007","ssn_tax_id":"23242526","company_name":"ACME LLC","address_line1":"Paseo Padre Pkwy","duns":"121320"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"23242526","company_name":"Acme Holdings","entity_id":"A002","country_code":"US","duns":"121315","address_line1":"Paseo Padre Parkway"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"121330","entity_id":"A017","address_line1":"Paseo Padre Parkway","ssn_tax_id":"23242526","company_name":"ACME Holdings Capital"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"entity_id":"A020","ssn_tax_id":"23242526","country_code":"US","company_name":"ACME Holdings LLC","address_line1":"Paseo Padre Pkwy","duns":"121333"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"company_name":"Acme Partners","ssn_tax_id":"23242526","entity_id":"A016","address_line1":"Paseo Padre Pkwy","duns":"121329","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"entity_id":"A005","company_name":"Acme Holdings Enterprises","address_line1":"Paseo Padre Pkwy","country_code":"US","duns":"121318","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"company_name":"A Holdings Group","address_line1":"Paseo Padre Pkwy","duns":"121327","country_code":"US","entity_id":"A014","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"entity_id":"A001","address_line1":"Paseo Padre Pkwy","country_code":"US","ssn_tax_id":"23242526","duns":"121314","company_name":"ACME Holdings Group"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"duns":"121325","address_line1":"Paseo Padre Pkwy","company_name":"ACME","country_code":"US","ssn_tax_id":"23242526","entity_id":"A012"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"company_name":"ACME Holdings Limited","duns":"121322","ssn_tax_id":"23242526","entity_id":"A009","address_line1":"Paseo Padre Parkway","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"company_name":"A Holdings Company","duns":"121323","address_line1":"Paseo Padre Pkwy","entity_id":"A010","country_code":"US","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"address_line1":"Paseo Padre Parkway","entity_id":"A004","duns":"121317","company_name":"ACME Holdings Capital","country_code":"US","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"company_name":"Acme Holdings Solutions","country_code":"US","ssn_tax_id":"23242526","address_line1":"Paseo Padre Parkway","entity_id":"A019","duns":"121332"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"duns":"121331","entity_id":"A018","company_name":"A Holdings Enterprises","address_line1":"Paseo Padre Pkwy","ssn_tax_id":"23242526","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"duns":"121324","company_name":"Acme Holdings Services","entity_id":"A011","address_line1":"Paseo Padre Parkway","ssn_tax_id":"23242526","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"company_name":"Acme Holdings Corporation","duns":"121321","entity_id":"A008","ssn_tax_id":"23242526","address_line1":"Paseo Padre Pkwy","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A003","duns":"121316","company_name":"acme Holdings Partners","ssn_tax_id":"23242526","address_line1":"Paseo Padre Pkwy"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"entity_id":"A013","company_name":"The Acme Holdings","ssn_tax_id":"23242526","country_code":"US","duns":"121326","address_line1":"Paseo Padre Parkway"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"a","record":{"entity_id":"A015","address_line1":"Paseo Padre Parkway","ssn_tax_id":"23242526","company_name":"Acme Holdings Holdings","country_code":"US","duns":"121328"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"121333","address_line1":"Paseo Padre Parkway","entity_id":"B020","company_name":"Acme Holdings Services","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"company_name":"Acme Limited","duns":"121318","ssn_tax_id":"23242526","entity_id":"B005","address_line1":"Paseo Padre Pkwy","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"121332","entity_id":"B019","company_name":"A Holdings Company","ssn_tax_id":"23242526","address_line1":"Paseo Padre Pkwy"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"entity_id":"B015","country_code":"US","ssn_tax_id":"23242526","address_line1":"Paseo Padre Pkwy","duns":"121328","company_name":"A Holdings Solutions"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"entity_id":"B012","company_name":"A Holdings Partners","duns":"121325","country_code":"US","address_line1":"Paseo Padre Parkway","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"address_line1":"Paseo Padre Pkwy","company_name":"The Acme","ssn_tax_id":"23242526","duns":"121322","country_code":"US","entity_id":"B009"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"address_line1":"Paseo Padre Pkwy","country_code":"US","entity_id":"B011","ssn_tax_id":"23242526","duns":"121324","company_name":"Acme Holdings Holdings"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"duns":"121330","ssn_tax_id":"23242526","address_line1":"Paseo Padre Pkwy","company_name":"Acme Corporation","entity_id":"B017","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"entity_id":"B008","address_line1":"Paseo Padre Parkway","duns":"121321","ssn_tax_id":"23242526","country_code":"US","company_name":"A Holdings"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"address_line1":"Paseo Padre Parkway","duns":"121316","entity_id":"B003","company_name":"A Holdings LLC","country_code":"US","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","ssn_tax_id":"23242526","company_name":"Acme Enterprises","duns":"121327","address_line1":"Paseo Padre Parkway","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"address_line1":"Paseo Padre Pkwy","company_name":"ACME Holdings Capital","country_code":"US","duns":"121326","entity_id":"B013","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"23242526","company_name":"ACME Holdings Company","country_code":"US","entity_id":"B006","address_line1":"Paseo Padre Pkwy","duns":"121319"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"23242526","country_code":"US","duns":"121329","company_name":"ACME Holdings LLC","address_line1":"Paseo Padre Parkway","entity_id":"B016"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"duns":"121317","country_code":"US","address_line1":"Paseo Padre Pkwy","entity_id":"B004","company_name":"Acme Holdings Corporation","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"23242526","address_line1":"Paseo Padre Parkway","country_code":"US","company_name":"Acme Holdings Services","entity_id":"B007","duns":"121320"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"address_line1":"Paseo Padre Parkway","company_name":"Acme Enterprises","duns":"121314","ssn_tax_id":"23242526","entity_id":"B001","country_code":"US"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B018","ssn_tax_id":"23242526","company_name":"ACME Holdings Limited","address_line1":"Paseo Padre Parkway","duns":"121331"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B010","duns":"121323","company_name":"ACME Holdings Group","address_line1":"Paseo Padre Parkway","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"upsert_record","side":"b","record":{"duns":"121315","address_line1":"Paseo Padre Pkwy","company_name":"acme Holdings Solutions","country_code":"US","entity_id":"B002","ssn_tax_id":"23242526"}}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A015","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A015","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A011","b_id":"B007","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B009","side":"b","candidate_id":"A012","score":0.8495929718017579,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A009","b_id":"B018","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A001","b_id":"B010","score":0.9499998450279237,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B001","side":"b","candidate_id":"A005","score":0.8474727598632255,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B014","side":"b","candidate_id":"A005","score":0.8474727598632255,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B012","side":"b","candidate_id":"A006","score":0.7536516377559076,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A008","b_id":"B017","score":0.9006774035895744,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A006","b_id":"B015","score":0.95,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A020","b_id":"B006","score":0.8831068239713971,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B008","side":"b","candidate_id":"A014","score":0.7849954385023851,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A019","b_id":"B002","score":0.9499999046325684,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A005","b_id":"B011","score":0.8775276665991926,"rank":5,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A017","b_id":"B013","score":0.9499996662139893,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A002","b_id":"B016","score":0.9347238397598268,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B003","side":"b","candidate_id":"A010","score":0.751245129108429,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"crossmap_confirm","a_id":"A010","b_id":"B019","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B004","side":"b","candidate_id":"A015","score":0.8426815649296375,"rank":5,"reason":"top_scoring"}
+{"ts":"2026-09-02T05:02:35Z","type":"review_match","id":"B005","side":"b","candidate_id":"A012","score":0.7534618973731996,"rank":1,"reason":"top_scoring"}

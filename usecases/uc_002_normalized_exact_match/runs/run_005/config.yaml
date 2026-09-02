@@ -1,0 +1,56 @@
+job:
+  name: uc_002_normalized_exact_match
+
+datasets:
+  a:
+    path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_002_normalized_exact_match/company_a.csv
+    id_field: entity_id
+  b:
+    path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_002_normalized_exact_match/company_b.csv
+    id_field: entity_id
+
+exact_prefilter:
+  enabled: true
+  fields:
+    - field_a: ssn_tax_id
+      field_b: ssn_tax_id
+
+match_fields:
+  - field_a: company_name
+    field_b: company_name
+    method: embedding
+    weight: 0.60
+
+  - field_a: company_name
+    field_b: company_name
+    method: fuzzy
+    scorer: token_sort_ratio
+    weight: 0.30
+
+  - field_a: address_line1
+    field_b: address_line1
+    method: exact
+    weight: 0.05
+
+  - field_a: country_code
+    field_b: country_code
+    method: exact
+    weight: 0.05
+    weight: 0.40
+
+  - field_a: address_line1
+    field_b: address_line1
+    method: exact
+    weight: 0.05
+
+  - field_a: country_code
+    field_b: country_code
+    method: exact
+    weight: 0.05
+
+thresholds:
+  auto_match: 0.85
+  review_floor: 0.60
+
+output:
+  csv_dir_path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_002_normalized_exact_match/runs/run_005

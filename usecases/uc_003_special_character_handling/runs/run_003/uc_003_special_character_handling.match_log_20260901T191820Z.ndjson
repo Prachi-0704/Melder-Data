@@ -1,0 +1,80 @@
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"321-54-8976","address_line1":"100 Tyron Street","country_code":"US","duns":"867652","company_name":"JP Morgan Chase and Co Capital","entity_id":"A017"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"321-54-8976","country_code":"US","address_line1":"100 Tyrone Street","company_name":"JP Morgan Chase and Co. Corporation","duns":"867643","entity_id":"A008"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"entity_id":"A003","company_name":"JP Morgan and Chase Co Partners","address_line1":"100 Tyron Street","country_code":"US","duns":"867638","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","address_line1":"100 Tyron Street","country_code":"US","duns":"867653","ssn_tax_id":"321-54-8976","company_name":"J.P. Morgan Chase Enterprises"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"duns":"867642","entity_id":"A007","country_code":"US","ssn_tax_id":"321-54-8976","company_name":"J.P. Morgan and Chase Co LLC","address_line1":"100 Tyron Street"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"address_line1":"100 Tyron St","duns":"867648","entity_id":"A013","country_code":"US","company_name":"The J.P. Morgan Chase Co.","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"321-54-8976","entity_id":"A004","address_line1":"100 Tyrone St","duns":"867639","country_code":"US","company_name":"J.P. Morgan Chase Capital"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"duns":"867651","entity_id":"A016","company_name":"J.P. Morgan Chase Co. Partners","ssn_tax_id":"321-54-8976","address_line1":"100 Tyron Street","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"entity_id":"A006","address_line1":"100 Tyron St","duns":"867641","country_code":"US","ssn_tax_id":"321-54-8976","company_name":"JP Morgan Chase Co Solutions"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A009","address_line1":"100 Tyron Street","ssn_tax_id":"321-54-8976","duns":"867644","company_name":"J.P. Morgan Chase Limited"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"duns":"867645","address_line1":"100 Tyron Street","ssn_tax_id":"321-54-8976","country_code":"US","company_name":"J.P. Morgan Chase Co. Company","entity_id":"A010"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"JP Morgan Chase Co","ssn_tax_id":"321-54-8976","address_line1":"100 Tyron St.","duns":"867647","entity_id":"A012"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"JP Morgan and Chase Services","duns":"867646","address_line1":"100 Tyrone Street","entity_id":"A011","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"321-54-8976","duns":"867650","entity_id":"A015","country_code":"US","company_name":"J.P. Morgan and Chase Co Holdings","address_line1":"100 Tyron St"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A019","duns":"867654","company_name":"JP Morgan Chase Co Solutions","address_line1":"100 Tyron Street","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"entity_id":"A014","ssn_tax_id":"321-54-8976","company_name":"JP Morgan Chase and Co. Group","duns":"867649","address_line1":"100 Tyron Street","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"entity_id":"A002","ssn_tax_id":"321-54-8976","company_name":"J.P. Morgan Chase Co. Holdings","address_line1":"100 Tyron St.","country_code":"US","duns":"867637"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"address_line1":"100 Tyron Street","duns":"867655","entity_id":"A020","company_name":"J.P. Morgan Chase and Co. LLC","country_code":"US","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"duns":"867636","entity_id":"A001","country_code":"US","company_name":"J.P. Morgan Chase and Co. Group","ssn_tax_id":"321-54-8976","address_line1":"100 Tyron Street"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"duns":"867640","address_line1":"100 Tyron Street","entity_id":"A005","country_code":"US","ssn_tax_id":"321-54-8976","company_name":"J.P. Morgan Chase and Co. Enterprises"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"J.P. Morgan and Chase Holdings","duns":"867646","entity_id":"B011","address_line1":"100 Tyron Street","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","entity_id":"B018","address_line1":"100 Tyron St.","company_name":"JP Morgan Chase Limited","country_code":"US","duns":"867653"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"company_name":"J.P. Morgan Chase and Co Corporation","duns":"867652","ssn_tax_id":"321-54-8976","entity_id":"B017","country_code":"US","address_line1":"100 Tyron Street"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"address_line1":"100 Tyron Street","entity_id":"B016","company_name":"J.P. Morgan Chase Co LLC","duns":"867651","ssn_tax_id":"321-54-8976","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"company_name":"J.P. Morgan Chase and Co. LLC","country_code":"US","duns":"867638","entity_id":"B003","ssn_tax_id":"321-54-8976","address_line1":"100 Tyron St."}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"address_line1":"100 Tyrone Street","entity_id":"B009","company_name":"The JP Morgan Chase","country_code":"US","duns":"867644","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"address_line1":"100 Tyron St.","country_code":"US","entity_id":"B015","company_name":"JP Morgan Chase Co Solutions","duns":"867650","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"address_line1":"100 Tyron Street","company_name":"JP Morgan Chase Services","country_code":"US","duns":"867655","ssn_tax_id":"321-54-8976","entity_id":"B020"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"entity_id":"B007","company_name":"JP Morgan and Chase Co Services","ssn_tax_id":"321-54-8976","address_line1":"100 Tyron St.","duns":"867642","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"entity_id":"B012","ssn_tax_id":"321-54-8976","duns":"867647","country_code":"US","address_line1":"100 Tyron St","company_name":"J.P. Morgan Chase Co. Partners"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"duns":"867645","company_name":"J.P. Morgan Chase Co Group","country_code":"US","ssn_tax_id":"321-54-8976","entity_id":"B010","address_line1":"100 Tyron Street"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"entity_id":"B013","address_line1":"100 Tyron Street","country_code":"US","duns":"867648","ssn_tax_id":"321-54-8976","company_name":"JP Morgan Chase and Co. Capital"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"company_name":"J.P. Morgan Chase and Co.","duns":"867643","entity_id":"B008","country_code":"US","address_line1":"100 Tyron St","ssn_tax_id":"321-54-8976"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","address_line1":"100 Tyrone Street","country_code":"US","entity_id":"B001","company_name":"JP Morgan Chase Co Enterprises","duns":"867636"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"321-54-8976","entity_id":"B004","duns":"867639","company_name":"JP Morgan Chase Corporation","country_code":"US","address_line1":"100 Tyron St."}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"entity_id":"B006","duns":"867641","country_code":"US","company_name":"J.P. Morgan Chase Co. Company","ssn_tax_id":"321-54-8976","address_line1":"100 Tyron Street"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"duns":"867640","ssn_tax_id":"321-54-8976","country_code":"US","company_name":"JP Morgan Chase Co Limited","entity_id":"B005","address_line1":"100 Tyron Street"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"duns":"867649","entity_id":"B014","company_name":"JP Morgan Chase Co Enterprises","country_code":"US","ssn_tax_id":"321-54-8976","address_line1":"100 Tyron Street"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"entity_id":"B019","duns":"867654","ssn_tax_id":"321-54-8976","company_name":"J.P. Morgan Chase and Co. Company","address_line1":"100 Tyron Street","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"867637","address_line1":"100 Tyron Street","company_name":"JP Morgan Chase Co Solutions","ssn_tax_id":"321-54-8976","entity_id":"B002"}}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:20Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}

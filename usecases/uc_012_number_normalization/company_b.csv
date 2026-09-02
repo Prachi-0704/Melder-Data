@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,1st National Bank Enterprises,666-77-9991,100 2nd Avenue,US,2345678
+B002,First National Bank Solutions,666-77-9991,100 Second Avenue,US,2345679
+B003,First National Bank LLC,666-77-9991,100 Second Avenue,US,2345680
+B004,First National Trust Corporation,666-77-9991,100 Second Avenue,US,2345681
+B005,1st National Bank Limited,666-77-9991,100 2nd Avenue,US,2345682
+B006,First National Bank Company,666-77-9991,100 Second Avenue,US,2345683
+B007,1st National Bank Services,666-77-9991,100 2nd Avenue,US,2345684
+B008,1st National Trust,666-77-9991,100 Second Avenue,US,2345685
+B009,The First National Bank,666-77-9991,100 Second Avenue,US,2345686
+B010,1st National Bank Group,666-77-9991,100 2nd Avenue,US,2345687
+B011,First National Trust Holdings,666-77-9991,100 2nd Avenue,US,2345688
+B012,First National Bank Partners,666-77-9991,100 Second Avenue,US,2345689
+B013,First National Bank Capital,666-77-9991,100 2nd Ave,US,2345690
+B014,1st National Trust Enterprises,666-77-9991,100 Second Avenue,US,2345691
+B015,First National Bank Solutions,666-77-9991,100 Second Avenue,US,2345692
+B016,1st National Bank LLC,666-77-9991,100 2nd Avenue,US,2345693
+B017,First National Bank Corporation,666-77-9991,100 2nd Avenue,US,2345694
+B018,First National Trust Limited,666-77-9991,100 Second Avenue,US,2345695
+B019,1st National Bank Company,666-77-9991,100 2nd Avenue,US,2345696
+B020,First National Trust Services,666-77-9991,100 2nd Ave,US,2345697

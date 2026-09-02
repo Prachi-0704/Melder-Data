@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,XYZ Groupe Bancaire Enterprises,4545464,50 Financière Road,FR,6767688
+ENR_002,XYZ Groupe Bancaire Solutions,4545464,50 Financière Road,FR,6767681
+ENR_003,Wells Fargo Banco LLC,111133,420 Banco Street,ES,458774
+ENR_004,Wells Fargo Banco Corporation,111133,420 Banco Street,ES,458769
+ENR_005,XYZ Groupe Bancaire Company Limited,4545464,50 Financière Road,FR,6767683
+ENR_006,XYZ Groupe Bancaire Company,4545464,50 Financière Road,FR,6767685
+ENR_007,XYZ Groupe Bancaire Services,4545464,50 Financière Road,FR,6767686
+ENR_008,Wells Fargo Banco,111133,420 Banco Street,ES,458776
+ENR_009,The Wells Fargo Banco,111133,420 Banco Street,ES,458770
+ENR_010,The Wells Fargo Banco Group,111133,420 Banco Street,ES,458773
+ENR_011,XYZ Groupe Bancaire Holdings,4545464,50 Financière Road,FR,6767687
+ENR_012,Wells Fargo Banco Partners,111133,420 Banco Street,ES,458772
+ENR_013,XYZ Groupe Bancaire Capital,4545464,50 Financière Road,FR,6767679
+ENR_014,XYZ Groupe Bancaire Enterprises,4545464,50 Financière Road,FR,6767684
+ENR_015,Wells Fargo Banco Solutions,111133,420 Banco Street,ES,458768
+NEG_001,Northwind Logistics Group,4545464,50 Financial Road,FR,6767683
+NEG_002,Harbor & Pine Capital,111133,420 Banco Street,ES,458775
+NEG_003,Summit Health Partners,111133,420 Banco Street,ES,458772
+NEG_004,Blue Harbor Foods Ltd,4545464,50 Financial Road,FR,6767687
+NEG_005,Crestview Telecom Holdings,111133,420 Banco Street,ES,458776

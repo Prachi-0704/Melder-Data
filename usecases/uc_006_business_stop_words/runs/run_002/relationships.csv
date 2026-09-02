@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,22B Union Street,Google Group,US,123406,12345678
+B002,A002,,match,crossmap,,22B Union Street,The Google Holdings,US,123407,12345678
+B003,A003,,match,crossmap,,22B Union Street,Google Partners,US,123408,12345678
+B004,A004,,match,crossmap,,22B Union Street,Google Capital,US,123409,12345678
+B005,A005,,match,crossmap,,228 Union Street,Google Corporation Enterprises,US,123410,12345678
+B006,A006,,match,crossmap,,22B Union Street,Google Solutions,US,123411,12345678
+B007,A007,,match,crossmap,,22B Union Street,The Google LLC,US,123412,12345678
+B008,A008,,match,crossmap,,228 Union Street,Google Corp Global Corporation,US,123413,12345678
+B009,A009,,match,crossmap,,22B Union Street,Google Corporation Limited,US,123414,12345678
+B010,A010,,match,crossmap,,22B Union Street,Google Company,US,123415,12345678
+B011,A011,,match,crossmap,,22B Union Street,Google Corporation Systems Services,US,123416,12345678
+B012,A012,,match,crossmap,,22B Union Street,Google,US,123417,12345678
+B013,A013,,match,crossmap,,228 Union Street,The Google Corp Global,US,123418,12345678
+B014,A014,,match,crossmap,,228 Union Street,Google Corporation Group,US,123419,12345678
+B015,A015,,match,crossmap,,22B Union Street,Google Holdings,US,123420,12345678
+B016,A016,,match,crossmap,,22B Union Street,Google Corporation Systems Partners,US,123421,12345678
+B017,A017,,match,crossmap,,22B Union Street,The Google Capital,US,123422,12345678
+B018,A018,,match,crossmap,,228 Union Street,Google Corporations Enterprises,US,123423,12345678
+B019,A019,,match,crossmap,,228 Union Street,Google Corporation Solutions,US,123424,12345678
+B020,A020,,match,crossmap,,22B Union Street,Google LLC,US,123425,12345678

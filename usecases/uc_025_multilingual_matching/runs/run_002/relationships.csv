@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,410 Calle Real,Banco de Crédito Group,ES,775511,998877
+B002,A002,,match,crossmap,,15 Rue de l'Économie,Banque de France Holdings,FR,775512,557788
+B003,A003,,match,crossmap,,410 Calle Real,Banco de Crédito Partners,ES,775513,998877
+B004,A004,,match,crossmap,,15 Rue de l'Économie,Banque de France Capital,FR,775514,557788
+B005,A005,,match,crossmap,,410 Calle Real,Banco de Crédito Enterprises,ES,775515,998877
+B006,A006,,match,crossmap,,15 Rue de l'Économie,Banque de France Solutions,FR,775516,557788
+B007,A007,,match,crossmap,,410 Calle Real,Banco de Crédito LLC,ES,775517,998877
+B008,A008,,match,crossmap,,15 Rue de l'Économie,Banque de France Corporation,FR,775518,557788
+B009,A009,,match,crossmap,,410 Calle Real,Banco de Crédito Limited,ES,775519,998877
+B010,A010,,match,crossmap,,15 Rue de l'Économie,Banque de France Company,FR,775520,557788
+B011,A011,,match,crossmap,,410 Calle Real,Banco de Crédito Services,ES,775521,998877
+B012,A012,,match,crossmap,,15 Rue de l'Économie,Banque de France,FR,775522,557788
+B013,A013,,match,crossmap,,410 Calle Real,The Banco de Crédito,ES,775523,998877
+B014,A014,,match,crossmap,,15 Rue de l'Économie,Banque de France Group,FR,775524,557788
+B015,A015,,match,crossmap,,410 Calle Real,Banco de Crédito Holdings,ES,775525,998877
+B016,A016,,match,crossmap,,15 Rue de l'Économie,Banque de France Partners,FR,775526,557788
+B017,A017,,match,crossmap,,410 Calle Real,Banco de Crédito Capital,ES,775527,998877
+B018,A018,,match,crossmap,,15 Rue de l'Économie,Banque de France Enterprises,FR,775528,557788
+B019,A019,,match,crossmap,,410 Calle Real,Banco de Crédito Solutions,ES,775529,998877
+B020,A020,,match,crossmap,,15 Rue de l'Économie,Banque de France LLC,FR,775530,557788

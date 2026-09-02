@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A002,0.8235,review,top_scoring,3,1 Pascal Ave,ABC Trade Name Holdings,US,234576
+B002,A009,0.8203,review,top_scoring,1,1 Pascal Avenue,56789 ABC DBA Limited,US,234576
+B003,A020,1.0000,match,top_scoring,1,220 Redwood St,Global Finance LLC,US,31031034
+B004,A008,0.8888,match,top_scoring,1,220 Redwood St,Global Finance Corporation,US,31031034
+B005,A010,0.8166,review,top_scoring,1,1 Pascal Ave,ABC Trade Name Company,US,234576
+B006,A010,,match,crossmap,,1 Pascal Ave,ABC Trade Name Company,US,234576
+B007,A011,0.8748,match,top_scoring,1,220 Redwood Street,Global Financial Services,US,31031034
+B008,A007,0.8892,match,top_scoring,1,220 Redwood Street,Global Financial LLC,US,31031034
+B009,A010,0.8141,review,top_scoring,1,1 Pascal Ave,ABC Trade Name Company,US,234576
+B010,A001,1.0000,match,top_scoring,1,1 Pascal Avenue,56789 ABC DBA Group,US,234576
+B011,A015,0.8829,match,top_scoring,1,220 Redwood Street,Global Financial Holdings,US,31031034
+B012,A003,1.0000,match,top_scoring,1,220 Redwood Street,Global Financial Partners,US,31031034
+B013,A010,0.8326,review,top_scoring,1,1 Pascal Ave,ABC Trade Name Company,US,234576
+B014,A005,1.0000,match,top_scoring,1,1 Pascal Avenue,56789 ABC DBA Enterprises,US,234576
+B015,A012,0.8487,review,top_scoring,2,220 Redwood St,Global Finance,US,31031034
+B016,A019,,match,crossmap,,220 Redwood Street,Global Financial Solutions,US,31031034
+B017,A018,0.8578,match,top_scoring,2,1 Pascal Ave,ABC Trade Name Enterprises,US,234576
+B018,A009,1.0000,match,top_scoring,1,1 Pascal Avenue,56789 ABC DBA Limited,US,234576
+B019,A020,0.8332,review,top_scoring,2,220 Redwood St,Global Finance LLC,US,31031034
+B020,A019,0.8088,review,top_scoring,2,220 Redwood Street,Global Financial Solutions,US,31031034

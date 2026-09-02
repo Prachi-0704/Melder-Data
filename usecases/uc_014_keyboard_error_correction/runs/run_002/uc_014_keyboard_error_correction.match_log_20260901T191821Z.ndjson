@@ -1,0 +1,80 @@
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"33331111","address_line1":"300 Main Street","country_code":"US","duns":"5566778","entity_id":"A001","company_name":"Amazon Group"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"5566788","company_name":"Amaxon Services","ssn_tax_id":"33331111","country_code":"US","entity_id":"A011","address_line1":"300 Mian Street"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Main Street","company_name":"Amaxon LLC","entity_id":"A007","ssn_tax_id":"33331111","duns":"5566784","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Main Street","ssn_tax_id":"33331111","duns":"5566781","country_code":"US","entity_id":"A004","company_name":"Amazon Capital"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"Amdspo Limited","entity_id":"A009","country_code":"US","ssn_tax_id":"33331111","address_line1":"300 Mulo Street","duns":"5566786"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"Amazon Partners","duns":"5566793","ssn_tax_id":"33331111","entity_id":"A016","country_code":"US","address_line1":"300 Main Street"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A020","company_name":"Amazon LLC","ssn_tax_id":"33331111","duns":"5566797","address_line1":"300 Main Street","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Mulo Street","company_name":"Amdspo Holdings","entity_id":"A015","country_code":"US","duns":"5566792","ssn_tax_id":"33331111"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"company_name":"Amazon Corporation","address_line1":"300 Main Street","country_code":"US","duns":"5566785","ssn_tax_id":"33331111","entity_id":"A008"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"33331111","address_line1":"300 Main Street","country_code":"US","entity_id":"A006","company_name":"Amazon Solutions","duns":"5566783"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"33331111","company_name":"Amaxon Solutions","entity_id":"A019","address_line1":"300 Mian Street","duns":"5566796","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"5566787","company_name":"Amazon Company","ssn_tax_id":"33331111","address_line1":"300 Main Street","entity_id":"A010","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A012","company_name":"Amazon","ssn_tax_id":"33331111","address_line1":"300 Main Street","country_code":"US","duns":"5566789"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A005","country_code":"US","duns":"5566782","address_line1":"300 Mian Street","company_name":"Amaxon Enterprises","ssn_tax_id":"33331111"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"duns":"5566791","ssn_tax_id":"33331111","country_code":"US","company_name":"Amazon Group","entity_id":"A014","address_line1":"300 Main Street"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"entity_id":"A013","country_code":"US","company_name":"The Amaxon","ssn_tax_id":"33331111","address_line1":"300 Main Street","duns":"5566790"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Mian Street","country_code":"US","ssn_tax_id":"33331111","entity_id":"A017","duns":"5566794","company_name":"Amaxon Capital"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"300 Main Street","ssn_tax_id":"33331111","duns":"5566779","company_name":"Amaxon Holdings","entity_id":"A002"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Mulo Street","country_code":"US","duns":"5566780","entity_id":"A003","company_name":"Amdspo Partners","ssn_tax_id":"33331111"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Main Street","duns":"5566795","country_code":"US","entity_id":"A018","ssn_tax_id":"33331111","company_name":"Amazon Enterprises"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"Amazon Solutions","address_line1":"300 Main Street","entity_id":"B015","duns":"5566792","country_code":"US","ssn_tax_id":"33331111"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"Amazon Holdings","address_line1":"300 Main Street","entity_id":"B011","duns":"5566788","ssn_tax_id":"33331111","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Amaxon Enterprises","ssn_tax_id":"33331111","entity_id":"B014","address_line1":"300 Mian Street","duns":"5566791"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"5566793","ssn_tax_id":"33331111","entity_id":"B016","address_line1":"300 Main Street","country_code":"US","company_name":"Amaxon LLC"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"5566779","company_name":"Amazon Solutions","ssn_tax_id":"33331111","entity_id":"B002","address_line1":"300 Mian Street"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"33331111","company_name":"Amazon Services","address_line1":"300 Main Street","country_code":"US","duns":"5566797","entity_id":"B020"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"300 Main Street","entity_id":"B017","duns":"5566794","company_name":"Amazon Corporation","country_code":"US","ssn_tax_id":"33331111"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"5566786","entity_id":"B009","country_code":"US","company_name":"The Amazon","ssn_tax_id":"33331111","address_line1":"300 Main Street"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"33331111","company_name":"Amazon LLC","address_line1":"300 Main Street","country_code":"US","duns":"5566780","entity_id":"B003"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"33331111","country_code":"US","address_line1":"300 Main Street","duns":"5566781","entity_id":"B004","company_name":"Amaxon Corporation"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"33331111","company_name":"Amaxon Group","entity_id":"B010","address_line1":"300 Main Street","country_code":"US","duns":"5566787"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Amdspo Partners","entity_id":"B012","duns":"5566789","address_line1":"300 Mulo Street","ssn_tax_id":"33331111"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"300 Main Street","duns":"5566784","ssn_tax_id":"33331111","entity_id":"B007","country_code":"US","company_name":"Amazon Services"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"5566782","ssn_tax_id":"33331111","address_line1":"300 Main Street","entity_id":"B005","company_name":"Amazon Limited"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"duns":"5566778","company_name":"Amaxon Enterprises","entity_id":"B001","ssn_tax_id":"33331111","address_line1":"300 Main Street","country_code":"US"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"address_line1":"300 Main Street","company_name":"Amazon Capital","duns":"5566790","ssn_tax_id":"33331111","country_code":"US","entity_id":"B013"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B019","company_name":"Amdspo Company","ssn_tax_id":"33331111","address_line1":"300 Mulo Street","duns":"5566796"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B018","address_line1":"300 Mulo Street","duns":"5566795","company_name":"Amdspo Limited","ssn_tax_id":"33331111"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"33331111","company_name":"Amdspo Company","address_line1":"300 Mulo Street","duns":"5566783","country_code":"US","entity_id":"B006"}}
+{"ts":"2026-09-01T19:18:21Z","type":"upsert_record","side":"b","record":{"company_name":"Amaxon","ssn_tax_id":"33331111","entity_id":"B008","address_line1":"300 Mian Street","country_code":"US","duns":"5566785"}}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:21Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}

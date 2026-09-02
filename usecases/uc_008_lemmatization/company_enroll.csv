@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Nike Running Enterprises,111-88-5555,23 Sports Drive,US,454575
+ENR_002,Nike Running Solutions,111-88-5555,23 Sports Drive,US,454561
+ENR_003,Nike Run LLC,111-88-5555,23 Sports Drive,US,454570
+ENR_004,Nike Run Corporation,111-88-5555,23 Sports Drive,US,454560
+ENR_005,Nike Run Company Limited,111-88-5555,23 Sports Drive,US,454565
+ENR_006,Nike Running Corporations Company,111-88-5555,23 Sports Drive,US,454569
+ENR_007,Nike Running Services,111-88-5555,23 Sports Drive,US,454571
+ENR_008,Nike Running,111-88-5555,23 Sports Drive,US,454574
+ENR_009,The Nike Running Corporations,111-88-5555,23 Sports Drive,US,454562
+ENR_010,The Nike Ran Group,111-88-5555,23 Sports Drive,US,454568
+ENR_011,Nike Run Holdings,111-88-5555,23 Sports Drive,US,454573
+ENR_012,Nike Running Partners,111-88-5555,23 Sports Drive,US,454566
+ENR_013,Nike Run Capital,111-88-5555,23 Sports Drive,US,454557
+ENR_014,Nike Running Enterprises,111-88-5555,23 Sports Drive,US,454567
+ENR_015,Nike Running Solutions,111-88-5555,23 Sports Drive,US,454558
+NEG_001,Northwind Logistics Group,111-88-5555,23 Sports Drive,US,454565
+NEG_002,Harbor & Pine Capital,111-88-5555,23 Sports Drive,US,454572
+NEG_003,Summit Health Partners,111-88-5555,23 Sports Drive,US,454566
+NEG_004,Blue Harbor Foods Ltd,111-88-5555,23 Sports Drive,US,454573
+NEG_005,Crestview Telecom Holdings,111-88-5555,23 Sports Drive,US,454574

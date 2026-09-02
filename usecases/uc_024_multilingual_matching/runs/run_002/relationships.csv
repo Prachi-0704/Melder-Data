@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,420 Banco Street,Wells Fargo Banco Group,ES,458767,111133
+B002,A002,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Holdings,FR,6767679,4545464
+B003,A003,,match,crossmap,,420 Banco Street,Wells Fargo Banco Partners,ES,458768,111133
+B004,A004,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Capital,FR,6767680,4545464
+B005,A005,,match,crossmap,,420 Banco Street,Wells Fargo Banco Enterprises,ES,458769,111133
+B006,A006,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Solutions,FR,6767681,4545464
+B007,A007,,match,crossmap,,420 Banco Street,Wells Fargo Banco LLC,ES,458770,111133
+B008,A008,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Corporation,FR,6767682,4545464
+B009,A009,,match,crossmap,,420 Banco Street,Wells Fargo Banco Limited,ES,458771,111133
+B010,A010,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Company,FR,6767683,4545464
+B011,A011,,match,crossmap,,420 Banco Street,Wells Fargo Banco Services,ES,458772,111133
+B012,A012,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire,FR,6767684,4545464
+B013,A013,,match,crossmap,,420 Banco Street,The Wells Fargo Banco,ES,458773,111133
+B014,A014,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Group,FR,6767685,4545464
+B015,A015,,match,crossmap,,420 Banco Street,Wells Fargo Banco Holdings,ES,458774,111133
+B016,A016,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Partners,FR,6767686,4545464
+B017,A017,,match,crossmap,,420 Banco Street,Wells Fargo Banco Capital,ES,458775,111133
+B018,A018,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire Enterprises,FR,6767687,4545464
+B019,A019,,match,crossmap,,420 Banco Street,Wells Fargo Banco Solutions,ES,458776,111133
+B020,A020,,match,crossmap,,50 Financière Road,XYZ Groupe Bancaire LLC,FR,6767688,4545464

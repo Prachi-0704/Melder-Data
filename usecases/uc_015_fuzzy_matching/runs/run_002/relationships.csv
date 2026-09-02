@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,150 Future Street,Amazon Group,US,1155779,13131313
+B002,A002,,match,crossmap,,150 Future Street,Amazan Holdings,US,1155780,13131313
+B003,A003,,match,crossmap,,150 Future Street,Amazoon Partners,US,1155781,13131313
+B004,A004,,match,crossmap,,150 Eutare Street,Amazxyo Capital,US,1155782,13131313
+B005,A005,,match,crossmap,,150 Future Street,Amazon Enterprises,US,1155783,13131313
+B006,A006,,match,crossmap,,150 Future Street,Amazaan Solutions,US,1155784,13131313
+B007,A007,,match,crossmap,,150 Eutare Street,Amazoon LLC,US,1155785,13131313
+B008,A008,,match,crossmap,,150 Future Street,Amazan Corporation,US,1155786,13131313
+B009,A009,,match,crossmap,,150 Future Street,Amazon Limited,US,1155787,13131313
+B010,A010,,match,crossmap,,150 Eutare Street,Amazoon Company,US,1155788,13131313
+B011,A011,,match,crossmap,,150 Future Street,Amazaan Services,US,1155789,13131313
+B012,A012,,match,crossmap,,150 Eutucce St,Amazxyo,US,1155790,13131313
+B013,A013,,match,crossmap,,150 Future Street,The Amazon,US,1155791,13131313
+B014,A014,,match,crossmap,,150 Future Street,Amazan Group,US,1155792,13131313
+B015,A015,,match,crossmap,,150 Eutare Street,Amazoon Holdings,US,1155793,13131313
+B016,A016,,match,crossmap,,150 Eutucce St,Amazxyo Partners,US,1155794,13131313
+B017,A017,,match,crossmap,,150 Future Street,Amazon Capital,US,1155795,13131313
+B018,A018,,match,crossmap,,150 Future Street,Amazaan Enterprises,US,1155796,13131313
+B019,A019,,match,crossmap,,150 Eutucce St,Amazxyo Solutions,US,1155797,13131313
+B020,A020,,match,crossmap,,150 Eutare Street,Amazoon LLC,US,1155798,13131313

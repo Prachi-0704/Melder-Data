@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Stephen Financial Enterprises,234-56-7891,420 Clarke Street,US,3451234
+ENR_002,Smyth Consulting Solutions,112-34-8989,420 Mayne Ave,US,1298350
+ENR_003,Steven Financial LLC,234-56-7891,420 Clark Street,US,3451231
+ENR_004,Smith Consulting Corporation,112-34-8989,420 Main Ave,US,1298349
+ENR_005,Smyth Consulting Company Limited,112-34-8989,420 Mayne Ave,US,1298352
+ENR_006,Smyth Consulting Company,112-34-8989,420 Mayne Ave,US,1298354
+ENR_007,Stephen Financial Services,234-56-7891,420 Clarke Street,US,3451232
+ENR_008,Steven Financial,234-56-7891,420 Clark Street,US,3451233
+ENR_009,The Steven Financial,234-56-7891,420 Clark Street,US,3451227
+ENR_010,The Smith Consulting Group,112-34-8989,420 Main Ave,US,1298353
+ENR_011,Smyth Consulting Holdings,112-34-8989,420 Mayne Ave,US,1298356
+ENR_012,Steven Financial Partners,234-56-7891,420 Clark Street,US,3451229
+ENR_013,Smyth Consulting Capital,112-34-8989,420 Mayne Ave,US,1298348
+ENR_014,Stephen Financial Enterprises,234-56-7891,420 Clarke Street,US,3451230
+ENR_015,Steven Financial Solutions,234-56-7891,420 Clark Street,US,3451225
+NEG_001,Northwind Logistics Group,112-34-8989,420 Main Ave,US,1298352
+NEG_002,Harbor & Pine Capital,112-34-8989,420 Mayne Ave,US,1298355
+NEG_003,Summit Health Partners,234-56-7891,420 Clarke Street,US,3451229
+NEG_004,Blue Harbor Foods Ltd,112-34-8989,420 Main Ave,US,1298356
+NEG_005,Crestview Telecom Holdings,234-56-7891,420 Clarke Street,US,3451233

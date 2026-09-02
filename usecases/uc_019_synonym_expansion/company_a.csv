@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,ABC Company Group,2309091,300 Oslo Avenue,US,1111111
+A002,ABC Firm Holdings,2309091,300 Oslo Ave,US,1111112
+A003,Global Financial Partners,31031034,220 Redwood Street,US,367689
+A004,Global Finance Holding Capital,31031034,220 Redwood St,US,367690
+A005,ABC Company Enterprises,2309091,300 Oslo Avenue,US,1111113
+A006,ABC Firm Solutions,2309091,300 Oslo Ave,US,1111114
+A007,Global Financial LLC,31031034,220 Redwood Street,US,367691
+A008,Global Finance Holding Corporation,31031034,220 Redwood St,US,367692
+A009,ABC Company Limited,2309091,300 Oslo Avenue,US,1111115
+A010,ABC Firm Company,2309091,300 Oslo Ave,US,1111116
+A011,Global Financial Services,31031034,220 Redwood Street,US,367693
+A012,Global Finance Holding,31031034,220 Redwood St,US,367694
+A013,The ABC Company,2309091,300 Oslo Avenue,US,1111117
+A014,ABC Firm Group,2309091,300 Oslo Ave,US,1111118
+A015,Global Financial Holdings,31031034,220 Redwood Street,US,367695
+A016,Global Finance Holding Partners,31031034,220 Redwood St,US,367696
+A017,ABC Company Capital,2309091,300 Oslo Avenue,US,1111119
+A018,ABC Firm Enterprises,2309091,300 Oslo Ave,US,1111120
+A019,Global Financial Solutions,31031034,220 Redwood Street,US,367697
+A020,Global Finance Holding LLC,31031034,220 Redwood St,US,367698

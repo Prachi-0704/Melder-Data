@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Google Group,12345678,22B Union Street,US,123406
+A002,The Google Holdings,12345678,22B Union Street,US,123407
+A003,Google Partners,12345678,22B Union Street,US,123408
+A004,Google Capital,12345678,22B Union Street,US,123409
+A005,Google Corporation Enterprises,12345678,228 Union Street,US,123410
+A006,Google Solutions,12345678,22B Union Street,US,123411
+A007,The Google LLC,12345678,22B Union Street,US,123412
+A008,Google Corp Global Corporation,12345678,228 Union Street,US,123413
+A009,Google Corporation Limited,12345678,22B Union Street,US,123414
+A010,Google Company,12345678,22B Union Street,US,123415
+A011,Google Corporation Systems Services,12345678,22B Union Street,US,123416
+A012,Google,12345678,22B Union Street,US,123417
+A013,The Google Corp Global,12345678,228 Union Street,US,123418
+A014,Google Corporation Group,12345678,228 Union Street,US,123419
+A015,Google Holdings,12345678,22B Union Street,US,123420
+A016,Google Corporation Systems Partners,12345678,22B Union Street,US,123421
+A017,The Google Capital,12345678,22B Union Street,US,123422
+A018,Google Corporations Enterprises,12345678,228 Union Street,US,123423
+A019,Google Corporation Solutions,12345678,228 Union Street,US,123424
+A020,Google LLC,12345678,22B Union Street,US,123425

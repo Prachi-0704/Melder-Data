@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,Building V First Avenue,Henry IV Group,US,1122334,77778888
+B002,A002,,match,crossmap,,Building 5 First Avenue,Henry IV Holdings,US,1122335,77778888
+B003,A003,,match,crossmap,,Building V First Avenue,Henry 4 Partners,US,1122336,77778888
+B004,A004,,match,crossmap,,Building 5 1st Ave,Henry IV Capital,US,1122337,77778888
+B005,A005,,match,crossmap,,Building V First Avenue,Henry 4 Enterprises,US,1122338,77778888
+B006,A006,,match,crossmap,,Building 5 First Avenue,Henry IV Solutions,US,1122339,77778888
+B007,A007,,match,crossmap,,Building V First Avenue,Henry 4 LLC,US,1122340,77778888
+B008,A008,,match,crossmap,,Building 5 1st Ave,Henry IV Corporation,US,1122341,77778888
+B009,A009,,match,crossmap,,Building V First Avenue,Henry 4 Limited,US,1122342,77778888
+B010,A010,,match,crossmap,,Building 5 First Avenue,Henry IV Company,US,1122343,77778888
+B011,A011,,match,crossmap,,Building V First Avenue,Henry 4 Services,US,1122344,77778888
+B012,A012,,match,crossmap,,Building 5 1st Ave,Henry IV,US,1122345,77778888
+B013,A013,,match,crossmap,,Building V First Avenue,The Henry 4,US,1122346,77778888
+B014,A014,,match,crossmap,,Building 5 First Avenue,Henry IV Group,US,1122347,77778888
+B015,A015,,match,crossmap,,Building V First Avenue,Henry 4 Holdings,US,1122348,77778888
+B016,A016,,match,crossmap,,Building 5 1st Ave,Henry IV Partners,US,1122349,77778888
+B017,A017,,match,crossmap,,Building V First Avenue,Henry 4 Capital,US,1122350,77778888
+B018,A018,,match,crossmap,,Building 5 First Avenue,Henry IV Enterprises,US,1122351,77778888
+B019,A019,,match,crossmap,,Building V First Avenue,Henry 4 Solutions,US,1122352,77778888
+B020,A020,,match,crossmap,,Building 5 1st Ave,Henry IV LLC,US,1122353,77778888

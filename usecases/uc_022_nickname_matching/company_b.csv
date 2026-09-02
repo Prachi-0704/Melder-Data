@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Bill Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567891
+B002,Bob Smith Solutions,234-22-3333,3 Pascal Avenue,US,567892
+B003,Bill Smith LLC,234-22-3333,3 Pascal Avenue,US,567893
+B004,Bob Smith Corporation,234-22-3333,3 Pascal Avenue,US,567894
+B005,Bill Smith Limited,234-22-3333,3 Pascal Avenue,US,567895
+B006,Bob Smith Company,234-22-3333,3 Pascal Avenue,US,567896
+B007,Bill Smith Services,234-22-3333,3 Pascal Avenue,US,567897
+B008,Bob Smith,234-22-3333,3 Pascal Avenue,US,567898
+B009,The Bill Smith,234-22-3333,3 Pascal Avenue,US,567899
+B010,Bob Smith Group,234-22-3333,3 Pascal Avenue,US,567900
+B011,Bill Smith Holdings,234-22-3333,3 Pascal Avenue,US,567901
+B012,Bob Smith Partners,234-22-3333,3 Pascal Avenue,US,567902
+B013,Bill Smith Capital,234-22-3333,3 Pascal Avenue,US,567903
+B014,Bob Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567904
+B015,Bill Smith Solutions,234-22-3333,3 Pascal Avenue,US,567905
+B016,Bob Smith LLC,234-22-3333,3 Pascal Avenue,US,567906
+B017,Bill Smith Corporation,234-22-3333,3 Pascal Avenue,US,567907
+B018,Bob Smith Limited,234-22-3333,3 Pascal Avenue,US,567908
+B019,Bill Smith Company,234-22-3333,3 Pascal Avenue,US,567909
+B020,Bob Smith Services,234-22-3333,3 Pascal Avenue,US,567910
