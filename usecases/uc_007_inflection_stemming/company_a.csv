@@ -1,21 +1,21 @@
 entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
-A001,Boston Managing Holdings Resolution Group,222-33-444,22B Processing Center,US,121212
-A002,Boston Managing Holdings,222-33-444,22B Processing Center,US,121213
-A003,Boston Manage Partners,222-33-444,22B Process Center,US,121214
-A004,Boston Holding Resolution Capital,222-33-444,22B Processing Center,US,121215
-A005,Boston Manage Enterprises,222-33-444,22B Process Center,US,121216
-A006,Boston Managing Solutions,222-33-444,22B Processing Center,US,121217
-A007,Boston Management LLC,222-33-444,22B Process Center,US,121218
-A008,Boston Managed Corporation,222-33-444,22B Processing Center,US,121219
-A009,Boston Managing Holdings Resolution Limited,222-33-444,22B Processing Center,US,121220
-A010,Boston Hold Resolve Company,222-33-444,22B Processing Center,US,121221
-A011,Boston Managing Services,222-33-444,22B Process Center,US,121222
-A012,Boston Managed,222-33-444,22B Process Center,US,121223
-A013,The Boston Manage,222-33-444,22B Processing Center,US,121224
-A014,Boston Managing Holdings Resolution Group,222-33-444,22B Processing Center,US,121225
-A015,Boston Hold Resolve Holdings,222-33-444,22B Process Center,US,121226
-A016,Boston Manage Partners,222-33-444,22B Process Center,US,121227
-A017,Boston Managing Capital,222-33-444,22B Processing Center,US,121228
-A018,Boston Marketing Enterprises,222-33-444,22B Process Center,US,121229
-A019,Boston Hold Resolve Solutions,222-33-444,22B Processing Center,US,121230
-A020,Boston Managing LLC,222-33-444,22B Processing Center,US,121231
+A001,Global Data Management Incorporated,123456781,101 Market Street,US,987654321
+A002,Enterprise Entity Resolution Corporation,123456782,205 Technology Avenue,US,987654322
+A003,Advanced Risk Analytics Limited,123456783,310 Finance Boulevard,GB,987654323
+A004,Customer Relationship Optimization LLC,123456784,415 Business Road,US,987654324
+A005,Digital Process Integration Group,123456785,520 Innovation Drive,US,987654325
+A006,Cloud Infrastructure Operations Inc.,123456786,625 Enterprise Avenue,US,987654326
+A007,Financial Transaction Processing Holdings,123456787,730 Finance Street,US,987654327
+A008,Supply Chain Planning Solutions Ltd.,123456788,835 Logistics Road,GB,987654328
+A009,Customer Service Automation Corporation,123456789,940 Service Avenue,US,987654329
+A010,Enterprise Security Monitoring Company,223456781,1045 Cyber Park,US,987654330
+A011,Data Quality Improvement Technologies,223456782,115 Data Center Drive,US,987654331
+A012,Business Intelligence Reporting Services LLP,223456783,220 Analytics Boulevard,US,987654332
+A013,Product Information Management Systems,223456784,325 Commerce Street,US,987654333
+A014,Document Workflow Automation Incorporated,223456785,430 Workflow Avenue,US,987654334
+A015,Revenue Forecasting and Planning Group,223456786,535 Finance Drive,US,987654335
+A016,Identity Verification Solutions Private Limited,223456787,640 Security Road,IN,987654336
+A017,Vendor Relationship Management Corporation,223456788,745 Procurement Avenue,US,987654337
+A018,Payment Reconciliation Services Limited,223456789,850 Payment Street,GB,987654338
+A019,Enterprise Data Governance Holdings LLC,323456781,955 Governance Boulevard,US,987654339
+A020,Operational Performance Improvement Inc.,323456782,1060 Operations Drive,US,987654340

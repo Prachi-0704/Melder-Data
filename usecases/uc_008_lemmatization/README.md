@@ -10,6 +10,15 @@ This dataset contains 20 records on each side, modeled as a realistic enterprise
 - `company_b.csv` — source B dataset
 - `config.yaml` — example Melder config for this case
 
+| Identifier Pattern                 | Records                                                    |
+| ---------------------------------- | ---------------------------------------------------------- |
+| **Same SSN + Same DUNS**           | A001, A007, A011, A015, A017, A019                         |
+| **Same SSN + Different DUNS**      | A003, A005, A009, A013                                     |
+| **Different SSN + Same DUNS**      | A002, A004, A006, A008, A010, A012, A014, A016, A018, A020 |
+| **Different SSN + Different DUNS** | None                                                       |
+| **Total**                          | A001–A020                                                  |
+
+
 ## Run
 Use the shared runner from the repository root:
 

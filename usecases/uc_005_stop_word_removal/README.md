@@ -9,6 +9,29 @@ This dataset contains 20 records on each side, modeled as a realistic enterprise
 - `company_a.csv` — source A dataset
 - `company_b.csv` — source B dataset
 - `config.yaml` — example Melder config for this case
+| Dataset A | Dataset B | SSN/Tax ID | DUNS      | Address   | Scenario                |
+| --------- | --------- | ---------- | --------- | --------- | ----------------------- |
+| A001      | B001      | Same       | Same      | Same      | Strong identifier match |
+| A002      | B002      | Different  | Same      | Same      | DUNS match              |
+| A003      | B003      | Same       | Different | Variation | SSN match               |
+| A004      | B004      | Different  | Same      | Variation | DUNS match              |
+| A005      | B005      | Same       | Different | Same      | SSN match               |
+| A006      | B006      | Different  | Same      | Variation | DUNS match              |
+| A007      | B007      | Same       | Same      | Same      | Strong identifier match |
+| A008      | B008      | Different  | Same      | Same      | DUNS match              |
+| A009      | B009      | Same       | Different | Same      | SSN match               |
+| A010      | B010      | Different  | Same      | Variation | DUNS match              |
+| A011      | B011      | Same       | Same      | Same      | Strong identifier match |
+| A012      | B012      | Different  | Same      | Variation | DUNS match              |
+| A013      | B013      | Same       | Different | Variation | SSN match               |
+| A014      | B014      | Different  | Same      | Same      | DUNS match              |
+| A015      | B015      | Same       | Different | Same      | SSN match               |
+| A016      | B016      | Different  | Same      | Same      | DUNS match              |
+| A017      | B017      | Same       | Same      | Same      | Strong identifier match |
+| A018      | B018      | Different  | Same      | Variation | DUNS match              |
+| A019      | B019      | Same       | Same      | Same      | Strong identifier match |
+| A020      | B020      | Different  | Same      | Variation | DUNS match              |
+
 
 ## Run
 Use the shared runner from the repository root:

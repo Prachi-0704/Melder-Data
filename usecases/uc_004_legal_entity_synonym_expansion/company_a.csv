@@ -1,7 +1,7 @@
 entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
-A001,ACME Holdings Group,23242526,Paseo Padre Pkwy,US,121314
-A002,Acme Holdings,23242526,Paseo Padre Parkway,US,121315
-A003,acme Holdings Partners,23242526,Paseo Padre Pkwy,US,121316
+A001,ACME Holdings Group,23239526,Paseo Padre Pkwy,US,121314
+A002,Acme Holdings,55242526,Paseo Padre Parkway,US,121315
+A003,acme Holdings Partners,63242526,Paseo Padre Pkwy,US,121316
 A004,ACME Holdings Capital,23242526,Paseo Padre Parkway,US,121317
 A005,Acme Holdings Enterprises,23242526,Paseo Padre Pkwy,US,121318
 A006,A Holdings Solutions,23242526,Paseo Padre Parkway,US,121319

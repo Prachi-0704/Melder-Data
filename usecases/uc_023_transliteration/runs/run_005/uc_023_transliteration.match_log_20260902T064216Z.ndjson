@@ -1,0 +1,62 @@
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"121017","address_line1":"Zürich Avenue","company_name":"Zürich Investments AG Company","country_code":"CH","ssn_tax_id":"121213","entity_id":"A010"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"The São Paulo","country_code":"BR","duns":"121219","entity_id":"A013","ssn_tax_id":"23456789","address_line1":"São Paulo Street"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"Zürich Investments AG Holdings","ssn_tax_id":"121213","entity_id":"A002","duns":"121013","country_code":"CH","address_line1":"Zürich Avenue"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"São Paulo Street","company_name":"São Paulo Enterprises","country_code":"BR","duns":"121215","ssn_tax_id":"23456789","entity_id":"A005"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A006","country_code":"CH","ssn_tax_id":"121213","company_name":"Zürich Investments AG Solutions","address_line1":"Zürich Avenue","duns":"121015"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"121217","address_line1":"São Paulo Street","ssn_tax_id":"23456789","company_name":"São Paulo Limited","entity_id":"A009","country_code":"BR"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"121020","address_line1":"Zürich Avenue","company_name":"Zürich Investments AG Partners","entity_id":"A016","country_code":"CH","ssn_tax_id":"121213"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"Zürich Avenue","duns":"121022","ssn_tax_id":"121213","country_code":"CH","entity_id":"A020","company_name":"Zürich Investments AG LLC"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"São Paulo Group","ssn_tax_id":"23456789","address_line1":"São Paulo Street","duns":"121212","entity_id":"A001","country_code":"BR"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","duns":"121021","company_name":"Zürich Investments AG Enterprises","address_line1":"Zürich Avenue","ssn_tax_id":"121213","country_code":"CH"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A012","ssn_tax_id":"121213","company_name":"Zürich Investments AG","country_code":"CH","address_line1":"Zürich Avenue","duns":"121018"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"country_code":"CH","address_line1":"Zürich Avenue","duns":"121014","company_name":"Zürich Investments AG Capital","ssn_tax_id":"121213","entity_id":"A004"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A014","ssn_tax_id":"121213","country_code":"CH","duns":"121019","company_name":"Zürich Investments AG Group","address_line1":"Zürich Avenue"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"country_code":"BR","duns":"121216","entity_id":"A007","company_name":"São Paulo LLC","ssn_tax_id":"23456789","address_line1":"São Paulo Street"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A015","address_line1":"São Paulo Street","company_name":"São Paulo Holdings","country_code":"BR","ssn_tax_id":"23456789","duns":"121220"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"121218","country_code":"BR","ssn_tax_id":"23456789","entity_id":"A011","company_name":"São Paulo Services","address_line1":"São Paulo Street"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A008","address_line1":"Zürich Avenue","company_name":"Zürich Investments AG Corporation","ssn_tax_id":"121213","country_code":"CH","duns":"121016"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"country_code":"BR","company_name":"São Paulo Capital","entity_id":"A017","ssn_tax_id":"23456789","duns":"121221","address_line1":"São Paulo Street"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"121214","country_code":"BR","entity_id":"A003","address_line1":"São Paulo Street","company_name":"São Paulo Partners","ssn_tax_id":"23456789"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"São Paulo Solutions","address_line1":"São Paulo Street","ssn_tax_id":"23456789","entity_id":"A019","duns":"121222","country_code":"BR"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"BR","duns":"121219","entity_id":"B013","ssn_tax_id":"23456789","address_line1":"Sao Paulo Street","company_name":"Sao Paulo Capital"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"23456789","address_line1":"Sao Paulo Street","entity_id":"B005","duns":"121215","country_code":"BR","company_name":"Sao Paulo Limited"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B009","ssn_tax_id":"23456789","address_line1":"Sao Paulo Street","country_code":"BR","duns":"121217","company_name":"The Sao Paulo"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"CH","ssn_tax_id":"121213","entity_id":"B008","company_name":"Zurich Investments AG","address_line1":"Zurich Avenue","duns":"121016"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Zurich Investments AG Solutions","address_line1":"Zurich Avenue","country_code":"CH","duns":"121013","entity_id":"B002","ssn_tax_id":"121213"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"address_line1":"Sao Paulo Street","country_code":"BR","ssn_tax_id":"23456789","duns":"121214","entity_id":"B003","company_name":"Sao Paulo LLC"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"121220","address_line1":"Sao Paulo Street","company_name":"Sao Paulo Solutions","country_code":"BR","entity_id":"B015","ssn_tax_id":"23456789"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"121020","entity_id":"B016","company_name":"Zurich Investments AG LLC","ssn_tax_id":"121213","address_line1":"Zurich Avenue","country_code":"CH"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"23456789","company_name":"Sao Paulo Company","duns":"121222","address_line1":"Sao Paulo Street","entity_id":"B019","country_code":"BR"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B006","address_line1":"Zurich Avenue","country_code":"CH","ssn_tax_id":"121213","company_name":"Zurich Investments AG Company","duns":"121015"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B011","ssn_tax_id":"23456789","company_name":"Sao Paulo Holdings","address_line1":"Sao Paulo Street","country_code":"BR","duns":"121218"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"address_line1":"Zurich Avenue","country_code":"CH","entity_id":"B012","ssn_tax_id":"121213","company_name":"Zurich Investments AG Partners","duns":"121018"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","ssn_tax_id":"23456789","address_line1":"Sao Paulo Street","company_name":"Sao Paulo Corporation","country_code":"BR","duns":"121221"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"23456789","country_code":"BR","entity_id":"B007","duns":"121216","company_name":"Sao Paulo Services","address_line1":"Sao Paulo Street"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B004","address_line1":"Zurich Avenue","country_code":"CH","duns":"121014","company_name":"Zurich Investments AG Corporation","ssn_tax_id":"121213"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Sao Paulo Enterprises","address_line1":"Sao Paulo Street","country_code":"BR","ssn_tax_id":"23456789","duns":"121212","entity_id":"B001"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Zurich Investments AG Limited","duns":"121021","entity_id":"B018","address_line1":"Zurich Avenue","ssn_tax_id":"121213","country_code":"CH"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Zurich Investments AG Services","entity_id":"B020","duns":"121022","country_code":"CH","address_line1":"Zurich Avenue","ssn_tax_id":"121213"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Zurich Investments AG Enterprises","address_line1":"Zurich Avenue","country_code":"CH","duns":"121019","entity_id":"B014","ssn_tax_id":"121213"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B010","country_code":"CH","ssn_tax_id":"121213","address_line1":"Zurich Avenue","company_name":"Zurich Investments AG Group","duns":"121017"}}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A019","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A019","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A011","b_id":"B007","score":0.9055555555555556,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B015","side":"b","candidate_id":"A011","score":0.666677089176729,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A009","b_id":"B005","score":0.9382350795409259,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A007","b_id":"B003","score":0.9346153846153846,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A018","b_id":"B014","score":0.943939393939394,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B020","side":"b","candidate_id":"A006","score":0.7970379329523408,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B018","side":"b","candidate_id":"A012","score":0.8195074623057592,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A016","b_id":"B012","score":0.9433332379659017,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A006","b_id":"B002","score":0.9435478744968292,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A020","b_id":"B016","score":0.9420000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A005","b_id":"B001","score":0.9404761904761905,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B019","side":"b","candidate_id":"A007","score":0.761231035302854,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A014","b_id":"B010","score":0.9425925925925926,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B017","side":"b","candidate_id":"A005","score":0.7609978613648294,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A015","b_id":"B011","score":0.9388888888888889,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A010","b_id":"B006","score":0.943103233699141,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B004","side":"b","candidate_id":"A010","score":0.8427507577934815,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A013","b_id":"B009","score":0.9346146932015053,"rank":1,"reason":"top_scoring"}

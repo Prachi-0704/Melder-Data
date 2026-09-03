@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,,match,crossmap,,101 Market Street,Global Data Management Incorporated,US,123456781
+B002,A002,0.8491,review,top_scoring,1,205 Technology Avenue,Enterprise Entity Resolution Corporation,US,123456782
+B003,A003,,match,crossmap,,310 Finance Boulevard,Advanced Risk Analytics Limited,GB,123456783
+B004,A004,0.7986,review,top_scoring,1,415 Business Road,Customer Relationship Optimization LLC,US,123456784
+B005,A005,,match,crossmap,,520 Innovation Drive,Digital Process Integration Group,US,123456785
+B006,A006,0.8461,review,top_scoring,1,625 Enterprise Avenue,Cloud Infrastructure Operations Inc.,US,123456786
+B007,A007,,match,crossmap,,730 Finance Street,Financial Transaction Processing Holdings,US,123456787
+B008,A008,0.9258,match,top_scoring,1,835 Logistics Road,Supply Chain Planning Solutions Ltd.,GB,123456788
+B009,A009,,match,crossmap,,940 Service Avenue,Customer Service Automation Corporation,US,123456789
+B010,A010,0.9328,match,top_scoring,1,1045 Cyber Park,Enterprise Security Monitoring Company,US,223456781
+B011,A011,,match,crossmap,,115 Data Center Drive,Data Quality Improvement Technologies,US,223456782
+B012,A012,0.9239,match,top_scoring,1,220 Analytics Boulevard,Business Intelligence Reporting Services LLP,US,223456783
+B013,A013,,match,crossmap,,325 Commerce Street,Product Information Management Systems,US,223456784
+B014,A014,0.8191,review,top_scoring,1,430 Workflow Avenue,Document Workflow Automation Incorporated,US,223456785
+B015,A015,,match,crossmap,,535 Finance Drive,Revenue Forecasting and Planning Group,US,223456786
+B016,A016,0.6805,review,top_scoring,1,640 Security Road,Identity Verification Solutions Private Limited,IN,223456787
+B017,A017,,match,crossmap,,745 Procurement Avenue,Vendor Relationship Management Corporation,US,223456788
+B018,A018,0.7318,review,top_scoring,1,850 Payment Street,Payment Reconciliation Services Limited,GB,223456789
+B019,A019,,match,crossmap,,955 Governance Boulevard,Enterprise Data Governance Holdings LLC,US,323456781
+B020,A020,0.9064,match,top_scoring,1,1060 Operations Drive,Operational Performance Improvement Inc.,US,323456782

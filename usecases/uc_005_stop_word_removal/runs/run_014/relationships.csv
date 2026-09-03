@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,0.9103,match,top_scoring,3,301 Tyvola Street,The Goldman Sachs Group,US,89786759
+B002,A003,1.0000,match,top_scoring,1,301 Tyvola Street,Goldman and Sachs Group,US,89786759
+B003,A002,,match,crossmap,,301 Tyvola Street,Goldman Sachs Group,US,89786759
+B004,A005,0.9244,match,top_scoring,5,301 Tyvola Street,The Goldman and Sachs Group,US,89786759
+B005,A004,0.9277,match,top_scoring,2,301 Tyvola Street,Goldman & Sachs Group,US,89786759
+B006,A007,0.9500,match,top_scoring,1,302 Tyvola Street,The Goldman Sachs Holdings,US,89786760
+B007,A006,1.0000,match,top_scoring,1,302 Tyvola Street,Goldman Sachs Holdings,US,89786760
+B008,A009,,match,crossmap,,302 Tyvola Street,Goldman Sachs and Holdings,US,89786760
+B009,A010,0.9675,match,top_scoring,2,302 Tyvola Street,The Goldman and Sachs Holdings,US,89786760
+B010,A008,0.9500,match,top_scoring,1,302 Tyvola Street,Goldman and Sachs Holdings,US,89786760
+B011,A011,0.9184,match,top_scoring,2,100 Main Street,Bank of America Corporation,US,89786761
+B012,A012,1.0000,match,top_scoring,1,100 Main Street,Bank America Corporation,US,89786761
+B013,A013,,match,crossmap,,100 Main Street,The Bank of America Corporation,US,89786761
+B014,A015,0.9422,match,top_scoring,4,100 Main Street,Bank America and Corporation,US,89786761
+B015,A014,0.9079,match,top_scoring,3,100 Main Street,Bank and America Corporation,US,89786761
+B016,A018,,match,crossmap,,1 Market Street,The Johnson Johnson Holdings,US,89786762
+B017,A020,0.9320,match,top_scoring,5,1 Market Street,The Johnson and Johnson Holdings,US,89786762
+B018,A019,0.9135,match,top_scoring,3,1 Market Street,Johnson of Johnson Holdings,US,89786762
+B019,A017,0.9627,match,top_scoring,4,1 Market Street,Johnson and Johnson Holdings,US,89786762
+B020,A016,0.9279,match,top_scoring,1,1 Market Street,Johnson & Johnson Holdings,US,89786762
