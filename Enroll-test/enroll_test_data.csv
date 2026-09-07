@@ -1,0 +1,66 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+N001,Acme Technologies Inc,482915637,1200 Market Street San Francisco CA 94102,US,102938475
+N002,Acme Technologies,482915637,1200 Market St San Francisco CA 94102,US,102938475
+N003,Acme Technology Incorporated,482915637,1200 Market Street San Francisco CA 94102,US,102938475
+N004,Acme Tech Inc,482915637,1200 Market St., San Francisco CA 94102,US,102938475
+N005,Acme Technologies Inc.,482915637,1200 Market Street, San Francisco CA 94102,US,102938475
+
+N006,Northstar Financial Services LLC,571826394,450 Madison Avenue New York NY 10022,US,203948576
+N007,Northstar Financial Svcs LLC,571826394,450 Madison Ave New York NY 10022,US,203948576
+N008,Northstar Financial Services,571826394,450 Madison Ave., New York NY 10022,US,203948576
+N009,Northstar Financial Services Inc,571826394,450 Madison Avenue New York NY 10022,US,203948576
+N010,Northstar Financial,571826394,450 Madison Avenue New York NY 10022,US,203948576
+
+N011,Greenfield Manufacturing Corporation,693817245,800 Industrial Drive Chicago IL 60607,US,304958617
+N012,Greenfield Manufacturing Corp,693817245,800 Industrial Dr Chicago IL 60607,US,304958617
+N013,Greenfield Mfg Corporation,693817245,800 Industrial Drive Chicago IL 60607,US,304958617
+N014,Greenfield Manufacturing Co,693817245,800 Industrial Dr., Chicago IL 60607,US,304958617
+N015,Greenfield Mfg,693817245,800 Industrial Drive Chicago IL 60607,US,304958617
+
+N016,Vertex Software Solutions Inc,824615937,500 Technology Parkway Austin TX 78701,US,506978839
+N017,Vertex Software Solutions,824615937,500 Technology Pkwy Austin TX 78701,US,506978839
+N018,Vertex Software Solutions Incorporated,824615937,500 Technology Parkway Austin TX 78701,US,506978839
+N019,Vertex Software Solutions Inc.,824615937,500 Technology Pkwy, Austin TX 78701,US,506978839
+N020,Vertex Software Solutions,824615937,500 Technology Parkway, Austin TX 78701,US,506978839
+
+N021,Pacific Logistics Limited,715293846,220 Harbor Boulevard Seattle WA 98101,US,405968728
+N022,Pacific Logistics Ltd,715293846,220 Harbor Blvd Seattle WA 98101,US,405968728
+N023,Pacific Logistics,715293846,220 Harbor Blvd., Seattle WA 98101,US,405968728
+
+N024,Pacific Logistics LLC,815293846,220 Harbor Boulevard Seattle WA 98101,US,405968728
+N025,Pacific Logistics LLP,915293846,220 Harbor Boulevard Seattle WA 98101,US,405968728
+
+N026,Silverline Property Management Inc,259374861,310 Park Avenue New York NY 10017,US,809109162
+N027,Silverline Property Mgmt Inc,259374861,310 Park Ave New York NY 10017,US,809109162
+N028,Silverline Property Management,259374861,310 Park Avenue New York NY 10017,US,809109162
+N029,Silverline Properties Management Inc,259374861,310 Park Avenue New York NY 10017,US,809109162
+
+N030,Bluewater Energy Corporation,148263759,900 Energy Plaza Houston TX 77002,US,708999051
+N031,Bluewater Energy Corp,148263759,900 Energy Plaza Houston TX 77002,US,708999051
+N032,Bluewater Energy,148263759,900 Energy Plaza Houston TX 77002,US,708999051
+
+N033,Bluewater Energy Holdings,748263759,900 Energy Plaza Houston TX 77002,US,777888999
+N034,Bluewater Energy Partners,848263759,900 Energy Plaza Houston TX 77002,US,666555444
+
+N035,Metro Transportation Corporation,361485972,100 Transit Way Denver CO 80202,US,910219273
+N036,Metro Transportation Corp,361485972,100 Transit Way Denver CO 80202,US,910219273
+N037,Metro Transportation Company,361485972,100 Transit Way Denver CO 80202,US,910219273
+
+N038,Metro Transit Corporation,461485972,100 Transit Way Denver CO 80202,US,111222333
+N039,Metro Transport Services Inc,561485972,100 Transit Way Denver CO 80202,US,444555666
+
+N040,Evergreen Healthcare Services LLC,936174825,75 Medical Center Drive Boston MA 02115,US,607988940
+N041,Evergreen Healthcare Services,936174825,75 Medical Center Dr Boston MA 02115,US,607988940
+N042,Evergreen Health Services LLC,936174825,75 Medical Center Drive Boston MA 02115,US,607988940
+
+N043,Evergreen Healthcare Partners,736174825,75 Medical Center Drive Boston MA 02115,US,123456789
+N044,Evergreen Medical Services,836174825,75 Medical Center Drive Boston MA 02115,US,987654321
+
+N045,Capital Investment Management LLC,472596183,600 Financial Center Charlotte NC 28202,US,112329384
+N046,Capital Investment Mgmt LLC,472596183,600 Financial Center Charlotte NC 28202,US,112329384
+N047,Capital Investment Management,472596183,600 Financial Ctr Charlotte NC 28202,US,112329384
+
+N048,Capital Investment Partners,672596183,600 Financial Center Charlotte NC 28202,US,333222111
+N049,Capital Investment Group,772596183,600 Financial Center Charlotte NC 28202,US,999888777
+
+N050,Capital Investment Management Inc,472596183,600 Financial Center Charlotte NC 28202,US,112329384

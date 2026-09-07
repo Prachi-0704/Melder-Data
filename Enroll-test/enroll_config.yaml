@@ -1,0 +1,44 @@
+job:
+  name: enterprise_enroll_demo
+  description: Enroll mode on synthetic enterprise client duplicate data
+
+embeddings:
+  model: all-MiniLM-L6-v2
+  cache_dir: test-data/Enroll-test/enterprise_enroll_cache
+
+blocking:
+  enabled: true
+  operator: and
+  fields:
+    - field: country_code
+
+vector_backend: flat
+top_n: 5
+
+match_fields:
+  - field: company_name
+    method: embedding
+    weight: 0.55
+
+  - field: address_line1
+    method: fuzzy
+    scorer: partial_ratio
+    weight: 0.20
+
+  - field: country_code
+    method: exact
+    weight: 0.20
+
+  - field: ssn_tax_id
+    method: exact
+    weight: 0.05
+
+thresholds:
+  auto_match: 0.85
+  review_floor: 0.60
+
+performance:
+  encoder_pool_size: 2
+
+output:
+  csv_dir_path: test-data/Enroll-test/output
