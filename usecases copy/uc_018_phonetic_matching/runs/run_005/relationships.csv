@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A018,1.0000,match,top_scoring,1,420 Mayne Ave,Smyth Consulting Enterprises,US,112-34-8989
+B002,A013,0.8179,review,top_scoring,1,420 Main Ave,The Smith Consulting,US,112-34-8989
+B003,A020,1.0000,match,top_scoring,1,420 Clarke Street,Stephen Financial LLC,US,234-56-7891
+B004,A007,0.8436,review,top_scoring,1,420 Clark Street,Steven Financial LLC,US,234-56-7891
+B005,A002,0.8647,match,top_scoring,1,420 Mayne Ave,Smyth Consulting Holdings,US,112-34-8989
+B006,A017,0.8497,review,top_scoring,1,420 Main Ave,Smith Consulting Capital,US,112-34-8989
+B007,A012,0.8501,match,top_scoring,1,420 Clarke Street,Stephen Financial,US,234-56-7891
+B008,A003,0.8867,match,top_scoring,3,420 Clark Street,Steven Financial Partners,US,234-56-7891
+B009,A009,,match,crossmap,,420 Main Ave,Smith Consulting Limited,US,112-34-8989
+B010,A001,1.0000,match,top_scoring,1,420 Main Ave,Smith Consulting Group,US,112-34-8989
+B011,A016,,match,crossmap,,420 Clarke Street,Stephen Financial Partners,US,234-56-7891
+B012,A007,0.8265,review,top_scoring,2,420 Clark Street,Steven Financial LLC,US,234-56-7891
+B013,A002,0.8329,review,top_scoring,2,420 Mayne Ave,Smyth Consulting Holdings,US,112-34-8989
+B014,A005,1.0000,match,top_scoring,1,420 Main Ave,Smith Consulting Enterprises,US,112-34-8989
+B015,A012,0.8216,review,top_scoring,1,420 Clarke Street,Stephen Financial,US,234-56-7891
+B016,A007,1.0000,match,top_scoring,1,420 Clark Street,Steven Financial LLC,US,234-56-7891
+B017,A010,0.8586,match,top_scoring,3,420 Mayne Ave,Smyth Consulting Company,US,112-34-8989
+B018,A013,0.8405,review,top_scoring,3,420 Main Ave,The Smith Consulting,US,112-34-8989
+B019,A008,0.8942,match,top_scoring,1,420 Clarke Street,Stephen Financial Corporation,US,234-56-7891
+B020,A011,1.0000,match,top_scoring,1,420 Clark Street,Steven Financial Services,US,234-56-7891

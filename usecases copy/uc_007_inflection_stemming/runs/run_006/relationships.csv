@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A005,1.0000,match,top_scoring,1,22B Process Center,Boston Manage Enterprises,US,222-33-444
+B002,A019,0.9500,match,top_scoring,1,22B Processing Center,Boston Hold Resolve Solutions,US,222-33-444
+B003,A020,1.0000,match,top_scoring,1,22B Processing Center,Boston Managing LLC,US,222-33-444
+B004,A005,0.8422,review,top_scoring,2,22B Process Center,Boston Manage Enterprises,US,222-33-444
+B005,A020,0.8038,review,top_scoring,1,22B Processing Center,Boston Managing LLC,US,222-33-444
+B006,A010,0.9500,match,top_scoring,1,22B Processing Center,Boston Hold Resolve Company,US,222-33-444
+B007,A011,0.9500,match,top_scoring,1,22B Process Center,Boston Managing Services,US,222-33-444
+B008,A002,,match,crossmap,,22B Processing Center,Boston Managing Holdings,US,222-33-444
+B009,A013,0.9500,match,top_scoring,1,22B Processing Center,The Boston Manage,US,222-33-444
+B010,A011,0.7570,review,top_scoring,1,22B Process Center,Boston Managing Services,US,222-33-444
+B011,A007,0.8024,review,top_scoring,2,22B Process Center,Boston Management LLC,US,222-33-444
+B012,A010,0.8497,review,top_scoring,1,22B Processing Center,Boston Hold Resolve Company,US,222-33-444
+B013,A017,0.8405,review,top_scoring,1,22B Processing Center,Boston Managing Capital,US,222-33-444
+B014,A020,0.8027,review,top_scoring,2,22B Processing Center,Boston Managing LLC,US,222-33-444
+B015,A006,0.8666,match,top_scoring,1,22B Processing Center,Boston Managing Solutions,US,222-33-444
+B016,A009,0.9036,match,top_scoring,1,22B Processing Center,Boston Managing Holdings Resolution Limited,US,222-33-444
+B017,A008,0.8728,match,top_scoring,1,22B Processing Center,Boston Managed Corporation,US,222-33-444
+B018,A013,0.7770,review,top_scoring,1,22B Processing Center,The Boston Manage,US,222-33-444
+B019,A007,0.8782,match,top_scoring,1,22B Process Center,Boston Management LLC,US,222-33-444
+B020,A010,0.7668,review,top_scoring,1,22B Processing Center,Boston Hold Resolve Company,US,222-33-444

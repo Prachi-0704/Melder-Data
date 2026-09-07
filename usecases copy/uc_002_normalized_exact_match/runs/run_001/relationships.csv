@@ -1,0 +1,6 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B2,A7,,match,crossmap,,388 Greenwich St,Citigroup LLC,US,222333444,777888999
+B3,A3,,match,crossmap,,36A Wabeno Avenue,Wells Fargo Partners,US,781436,123456789
+B4,A2,,match,crossmap,,1000 Nicollet Mall,Target Holdings,US,654321987,111222333
+B5,A6,,match,crossmap,,270 Park Avenue,JPMorgan Chase Solutions,US,999111222,987654321
+B7,A1,,match,crossmap,,200 West Street,Goldman Sachs Group,US,444555666,555666777

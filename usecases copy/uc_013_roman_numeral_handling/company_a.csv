@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Apollo IV Technologies,123456781,101 Innovation Boulevard,US,987654321
+A002,Vertex V Holdings Limited,123456782,205 Market Avenue,US,987654322
+A003,Century IX Financial Services,123456783,310 Finance Street,US,987654323
+A004,Quantum X Solutions Incorporated,123456784,415 Technology Park,US,987654324
+A005,Orion XI Consulting Group,123456785,520 Enterprise Drive,US,987654325
+A006,Atlas XII Industries Corporation,123456786,625 Industrial Road,US,987654326
+A007,Meridian XV Capital Partners,123456787,730 Finance Boulevard,US,987654327
+A008,Pacific XX Trading Company,123456788,835 Harbor Avenue,US,987654328
+A009,Everest XL Logistics Limited,123456789,940 Logistics Drive,US,987654329
+A010,Summit L Manufacturing Incorporated,223456781,1045 Production Road,US,987654330
+A011,Nova XC Digital Systems,223456782,115 Technology Avenue,US,987654331
+A012,Heritage C Investment Group,223456783,220 Wall Street,US,987654332
+A013,Phoenix III Energy Corporation,223456784,325 Energy Drive,US,987654333
+A014,Bluewater VI Marine Services,223456785,430 Ocean Boulevard,US,987654334
+A015,Ironwood VII Construction Limited,223456786,535 Builder Road,US,987654335
+A016,Redstone VIII Infrastructure Group,223456787,640 Development Avenue,US,987654336
+A017,Silverline XIII Healthcare Solutions,223456788,745 Medical Park Drive,US,987654337
+A018,Greenfield XIV Agricultural Corporation,223456789,850 Farm Road,US,987654338
+A019,Westbridge XVI Real Estate Holdings,323456781,955 Property Avenue,US,987654339
+A020,Northstar XXI Retail Group,323456782,1060 Commerce Drive,US,987654340

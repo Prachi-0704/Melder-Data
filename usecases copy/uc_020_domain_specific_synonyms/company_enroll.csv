@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Global Finance Enterprises,31031034,220 Redwood St,US,367708
+ENR_002,ABC Trade Name Solutions,234576,1 Pascal Ave,US,909093
+ENR_003,Global Financial LLC,31031034,220 Redwood Street,US,367705
+ENR_004,56789 ABC DBA Corporation,234576,1 Pascal Avenue,US,909092
+ENR_005,ABC Trade Name Company Limited,234576,1 Pascal Ave,US,909095
+ENR_006,ABC Trade Name Company,234576,1 Pascal Ave,US,909097
+ENR_007,Global Finance Services,31031034,220 Redwood St,US,367706
+ENR_008,Global Financial,31031034,220 Redwood Street,US,367707
+ENR_009,The Global Financial,31031034,220 Redwood Street,US,367701
+ENR_010,The 56789 ABC DBA Group,234576,1 Pascal Avenue,US,909096
+ENR_011,ABC Trade Name Holdings,234576,1 Pascal Ave,US,909099
+ENR_012,Global Financial Partners,31031034,220 Redwood Street,US,367703
+ENR_013,ABC Trade Name Capital,234576,1 Pascal Ave,US,909091
+ENR_014,Global Finance Enterprises,31031034,220 Redwood St,US,367704
+ENR_015,Global Financial Solutions,31031034,220 Redwood Street,US,367699
+NEG_001,Northwind Logistics Group,234576,1 Pascal Avenue,US,909095
+NEG_002,Harbor & Pine Capital,234576,1 Pascal Ave,US,909098
+NEG_003,Summit Health Partners,31031034,220 Redwood St,US,367703
+NEG_004,Blue Harbor Foods Ltd,234576,1 Pascal Avenue,US,909099
+NEG_005,Crestview Telecom Holdings,31031034,220 Redwood St,US,367707

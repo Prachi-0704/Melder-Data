@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Goldman Sachs Enterprises,89786759,301 Tyvola Street,US,454666
+ENR_002,Goldman Sachs Solutions,89786759,301 Tyvola Street,US,454652
+ENR_003,Goldman and Sachs LLC,89786759,301 Tyvola Street,US,454661
+ENR_004,Goldman and Sachs Corporation,89786759,301 Tyvola Street,US,454651
+ENR_005,Goldman Sachs Company Limited,89786759,301 Tyvola Street,US,454656
+ENR_006,The Goldman Sachs Company,89786759,301 Tyvola Street,US,454660
+ENR_007,Goldman or Sachs Services,89786759,301 Tyvola Street,US,454662
+ENR_008,The Goldman Sachs,89786759,301 Tyvola Street,US,454665
+ENR_009,The Goldman Sachs,89786759,301 Tyvola Street,US,454653
+ENR_010,The Goldman Sachs Group,89786759,301 Tyvola Street,US,454659
+ENR_011,Goldman Sach Holdings,89786759,301 Tyvola Street,US,454664
+ENR_012,Goldman or Sachs Partners,89786759,301 Tyvola St,US,454657
+ENR_013,The Goldman Sachs Capital,89786759,301 Tyvola Street,US,454648
+ENR_014,Goldman Sach Enterprises,89786759,301 Tyvola Street,US,454658
+ENR_015,Goldman and Sachs Solutions,89786759,301 Tyvola Street,US,454649
+NEG_001,Northwind Logistics Group,89786759,301 Tyvola Street,US,454656
+NEG_002,Harbor & Pine Capital,89786759,301 Tyvola Street,US,454663
+NEG_003,Summit Health Partners,89786759,301 Tyvola Street,US,454657
+NEG_004,Blue Harbor Foods Ltd,89786759,301 Livola Street,US,454664
+NEG_005,Crestview Telecom Holdings,89786759,301 Tyvola Street,US,454665

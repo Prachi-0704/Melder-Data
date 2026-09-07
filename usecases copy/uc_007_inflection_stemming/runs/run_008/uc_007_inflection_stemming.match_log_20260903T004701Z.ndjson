@@ -1,0 +1,70 @@
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"duns":"987654329","ssn_tax_id":"123456789","address_line1":"940 Service Avenue","country_code":"US","company_name":"Customer Service Automation Corporation","entity_id":"A009"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"223456786","duns":"987654335","company_name":"Revenue Forecasting and Planning Group","address_line1":"535 Finance Drive","country_code":"US","entity_id":"A015"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"address_line1":"310 Finance Boulevard","entity_id":"A003","duns":"987654323","company_name":"Advanced Risk Analytics Limited","country_code":"GB","ssn_tax_id":"123456783"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"Document Workflow Automation Incorporated","address_line1":"430 Workflow Avenue","entity_id":"A014","duns":"987654334","ssn_tax_id":"223456785"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"duns":"987654332","entity_id":"A012","address_line1":"220 Analytics Boulevard","country_code":"US","company_name":"Business Intelligence Reporting Services LLP","ssn_tax_id":"223456783"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"address_line1":"745 Procurement Avenue","country_code":"US","company_name":"Vendor Relationship Management Corporation","ssn_tax_id":"223456788","entity_id":"A017","duns":"987654337"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"entity_id":"A011","address_line1":"115 Data Center Drive","ssn_tax_id":"223456782","duns":"987654331","company_name":"Data Quality Improvement Technologies","country_code":"US"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"101 Market Street","duns":"987654321","ssn_tax_id":"123456781","entity_id":"A001","company_name":"Global Data Management Incorporated"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"223456787","entity_id":"A016","address_line1":"640 Security Road","duns":"987654336","country_code":"IN","company_name":"Identity Verification Solutions Private Limited"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"entity_id":"A004","ssn_tax_id":"123456784","country_code":"US","company_name":"Customer Relationship Optimization LLC","address_line1":"415 Business Road","duns":"987654324"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"duns":"987654340","address_line1":"1060 Operations Drive","country_code":"US","entity_id":"A020","company_name":"Operational Performance Improvement Inc.","ssn_tax_id":"323456782"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"company_name":"Supply Chain Planning Solutions Ltd.","address_line1":"835 Logistics Road","duns":"987654328","ssn_tax_id":"123456788","entity_id":"A008","country_code":"GB"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"entity_id":"A013","country_code":"US","ssn_tax_id":"223456784","address_line1":"325 Commerce Street","duns":"987654333","company_name":"Product Information Management Systems"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"address_line1":"850 Payment Street","ssn_tax_id":"223456789","entity_id":"A018","company_name":"Payment Reconciliation Services Limited","country_code":"GB","duns":"987654338"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"address_line1":"520 Innovation Drive","country_code":"US","duns":"987654325","entity_id":"A005","ssn_tax_id":"123456785","company_name":"Digital Process Integration Group"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"entity_id":"A006","country_code":"US","address_line1":"625 Enterprise Avenue","duns":"987654326","company_name":"Cloud Infrastructure Operations Inc.","ssn_tax_id":"123456786"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"company_name":"Financial Transaction Processing Holdings","entity_id":"A007","ssn_tax_id":"123456787","country_code":"US","duns":"987654327","address_line1":"730 Finance Street"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"address_line1":"205 Technology Avenue","company_name":"Enterprise Entity Resolution Corporation","country_code":"US","entity_id":"A002","duns":"987654322","ssn_tax_id":"123456782"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"Enterprise Security Monitoring Company","duns":"987654330","address_line1":"1045 Cyber Park","ssn_tax_id":"223456781","entity_id":"A010"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"a","record":{"company_name":"Enterprise Data Governance Holdings LLC","entity_id":"A019","address_line1":"955 Governance Boulevard","country_code":"US","duns":"987654339","ssn_tax_id":"323456781"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"country_code":"GB","duns":"987654328","company_name":"Supply Chain Planning Solution Ltd","entity_id":"B008","ssn_tax_id":"888888888","address_line1":"835 Logistics Rd"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"company_name":"Operational Performance Improving Inc.","address_line1":"1060 Operations Dr","country_code":"US","entity_id":"B020","ssn_tax_id":"999999990","duns":"987654340"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"duns":"987654321","ssn_tax_id":"123456781","entity_id":"B001","company_name":"Global Data Managing Inc.","address_line1":"101 Market St","country_code":"US"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","duns":"987654334","address_line1":"430 Workflow Ave","country_code":"US","ssn_tax_id":"999999994","company_name":"Document Workflow Automating Inc."}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"entity_id":"B009","company_name":"Customer Service Automating Corp.","ssn_tax_id":"123456789","country_code":"US","duns":"444444449","address_line1":"940 Service Ave"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"888888886","company_name":"Cloud Infrastructure Operating Inc","entity_id":"B006","country_code":"US","duns":"987654326","address_line1":"625 Enterprise Ave"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"223456788","country_code":"US","address_line1":"745 Procurement Ave","entity_id":"B017","duns":"888888887","company_name":"Vendor Relationship Managing Corp."}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"entity_id":"B019","company_name":"Enterprise Data Governing Holdings LLC","address_line1":"955 Governance Blvd","duns":"999999999","ssn_tax_id":"323456781","country_code":"US"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"company_name":"Enterprise Security Monitoring Co.","entity_id":"B010","country_code":"US","duns":"987654330","ssn_tax_id":"999999991","address_line1":"1045 Cyber Park"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"entity_id":"B004","company_name":"Customer Relationship Optimizing L.L.C.","ssn_tax_id":"888888884","address_line1":"415 Business Rd","country_code":"US","duns":"987654324"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"country_code":"GB","address_line1":"310 Finance Blvd","entity_id":"B003","duns":"111111113","company_name":"Advanced Risk Analysis Ltd.","ssn_tax_id":"123456783"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"duns":"666666663","ssn_tax_id":"223456784","entity_id":"B013","company_name":"Product Information Managing Systems","address_line1":"325 Commerce St","country_code":"US"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"999999996","address_line1":"640 Security Rd","entity_id":"B016","country_code":"IN","duns":"987654336","company_name":"Identity Verifying Solutions Pvt. Ltd."}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"company_name":"Digital Process Integrating Grp.","country_code":"US","duns":"222222225","entity_id":"B005","ssn_tax_id":"123456785","address_line1":"520 Innovation Dr"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"company_name":"Business Intelligence Reporting Service LLP","ssn_tax_id":"999999992","entity_id":"B012","address_line1":"220 Analytics Blvd","country_code":"US","duns":"987654332"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B002","ssn_tax_id":"888888882","company_name":"Enterprise Entity Resolving Corp.","duns":"987654322","address_line1":"205 Technology Ave"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"country_code":"GB","entity_id":"B018","company_name":"Payment Reconciliating Services Ltd.","address_line1":"850 Payment St","duns":"987654338","ssn_tax_id":"999999998"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"entity_id":"B015","company_name":"Revenue Forecasting and Planning Grp","ssn_tax_id":"223456786","address_line1":"535 Finance Dr","duns":"777777775","country_code":"US"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"entity_id":"B007","company_name":"Financial Transaction Processing Holdings","address_line1":"730 Finance St","ssn_tax_id":"123456787","country_code":"US","duns":"333333337"}}
+{"ts":"2026-09-03T00:47:01Z","type":"upsert_record","side":"b","record":{"duns":"555555551","ssn_tax_id":"223456782","address_line1":"115 Data Center Dr","company_name":"Data Quality Improving Technologies","entity_id":"B011","country_code":"US"}}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":0.9328181823094687,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"review_match","id":"B006","side":"b","candidate_id":"A006","score":0.846091388974871,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"review_match","id":"B004","side":"b","candidate_id":"A004","score":0.798626977747137,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"review_match","id":"B002","side":"b","candidate_id":"A002","score":0.8491097045271364,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":0.9064228287109962,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"review_match","id":"B018","side":"b","candidate_id":"A018","score":0.7317647191123534,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"review_match","id":"B014","side":"b","candidate_id":"A014","score":0.8190980682595774,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":0.9239239077184394,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"review_match","id":"B016","side":"b","candidate_id":"A016","score":0.6805062236749349,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:47:01Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":0.9258299347332546,"rank":1,"reason":"top_scoring"}

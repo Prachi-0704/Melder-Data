@@ -1,0 +1,80 @@
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A017","ssn_tax_id":"234-56-7891","company_name":"Infolease Tech Capital","address_line1":"420 Montgomery Street","country_code":"US","duns":"3451253"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Infolease Technologies Enterprises","address_line1":"420 Montgomery Street","country_code":"US","duns":"3451254","entity_id":"A018","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"234-56-7891","company_name":"Storelease Technologies Partners","duns":"3451239","address_line1":"420 Montgomery Street","entity_id":"A003"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A012","address_line1":"420 Montgomery Street","country_code":"US","duns":"3451248","ssn_tax_id":"123-46-7891","company_name":"Storelease Technologies"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Infolease Tech Group","address_line1":"420 Montgomery Street","entity_id":"A014","ssn_tax_id":"123-46-7891","country_code":"US","duns":"3451250"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"duns":"3451252","entity_id":"A016","country_code":"US","ssn_tax_id":"234-56-7891","address_line1":"420 Montgomery Street","company_name":"Storelease Technologies Partners"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Infolease Tech Company","ssn_tax_id":"234-56-7891","address_line1":"420 Montgomery St","duns":"3451246","country_code":"US","entity_id":"A010"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"duns":"3451240","ssn_tax_id":"234-56-7891","country_code":"US","entity_id":"A004","company_name":"Info Tech Technologies Capital","address_line1":"420 Montgomery Street"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Info Tech Technologies Corporation","ssn_tax_id":"234-56-7891","address_line1":"420 Montgomery Street","duns":"3451244","country_code":"US","entity_id":"A008"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"address_line1":"420 Montgomery Street","duns":"3451238","country_code":"US","entity_id":"A002","ssn_tax_id":"234-56-7891","company_name":"Info Tech Technologies Holdings"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"3451247","address_line1":"420 Montgomery Street","ssn_tax_id":"234-56-7891","entity_id":"A011","company_name":"Info Tech Technologies Services"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"address_line1":"420 Montgomery Street","duns":"3451255","ssn_tax_id":"234-56-7891","entity_id":"A019","country_code":"US","company_name":"Info Tech Technologies Solutions"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"entity_id":"A001","country_code":"US","duns":"3451237","ssn_tax_id":"234-56-7891","company_name":"Infolease Technologies Group","address_line1":"420 Montgomery Street"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Info Tech Technologies Solutions","address_line1":"420 Montgomery Street","entity_id":"A006","country_code":"US","duns":"3451242","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"420 Montgomery St","duns":"3451251","entity_id":"A015","company_name":"Info Tech Technologies Holdings","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"234-56-7891","address_line1":"420 Montgomery Street","company_name":"The Infolease Technologies","country_code":"US","entity_id":"A013","duns":"3451249"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"234-56-7891","entity_id":"A009","address_line1":"420 Montgomery Street","company_name":"Storelease Technologies Limited","duns":"3451245"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Infolease Technologies LLC","duns":"3451256","ssn_tax_id":"123-46-7891","address_line1":"420 Montgomery Street","country_code":"US","entity_id":"A020"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"3451243","address_line1":"420 Montgamery Street","entity_id":"A007","company_name":"Infolease Technologies LLC","ssn_tax_id":"123-46-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"a","record":{"company_name":"Infolease Technologies Enterprises","ssn_tax_id":"234-56-7891","address_line1":"420 Montgomery Street","duns":"3451241","entity_id":"A005","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"The Infolease Technologies","address_line1":"420 Montgomery Street","duns":"3451245","ssn_tax_id":"234-56-7891","entity_id":"B009"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B014","ssn_tax_id":"123-46-7891","company_name":"Storelease Technologies Enterprises","address_line1":"420 Montgomery Street","duns":"3451250"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B013","address_line1":"420 Montgomery Street","country_code":"US","duns":"3451249","company_name":"Info Tech Technologies Capital","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"3451252","ssn_tax_id":"234-56-7891","company_name":"Infolease Technologies LLC","entity_id":"B016","address_line1":"420 Montgomery Street"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Montgomery Street","duns":"3451239","entity_id":"B003","country_code":"US","company_name":"Infolease Technologies LLC","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"company_name":"Storelease Technologies Limited","country_code":"US","duns":"3451254","address_line1":"420 Montgomery Street","ssn_tax_id":"234-56-7891","entity_id":"B018"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","address_line1":"420 Montgomery Street","entity_id":"B011","ssn_tax_id":"234-56-7891","duns":"3451247","company_name":"Infolease Technologies Holdings"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234-56-7891","address_line1":"420 Montgomery St","country_code":"US","duns":"3451242","entity_id":"B006","company_name":"Infolease Technologies Company"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Infolease Tech Partners","address_line1":"420 Montgomery Street","duns":"3451248","entity_id":"B012","ssn_tax_id":"123-46-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Montgomery Street","company_name":"Infolease Technologies Solutions","duns":"3451251","entity_id":"B015","ssn_tax_id":"234-56-7891","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"company_name":"Info Tech Technologies Enterprises","entity_id":"B001","country_code":"US","address_line1":"420 Montgomery Street","duns":"3451237","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234-56-7891","address_line1":"420 Montgomery Street","duns":"3451241","entity_id":"B005","company_name":"Storelease Technologies Limited","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Info Tech Technologies Services","ssn_tax_id":"123-46-7891","address_line1":"420 Montgomery Street","duns":"3451243","entity_id":"B007"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","country_code":"US","address_line1":"420 Montgomery Street","company_name":"Info Tech Technologies Corporation","duns":"3451253","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"234-56-7891","country_code":"US","entity_id":"B002","company_name":"Infolease Technologies Solutions","address_line1":"420 Montgomery Street","duns":"3451238"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B019","address_line1":"420 Montgomery Street","ssn_tax_id":"234-56-7891","country_code":"US","duns":"3451255","company_name":"Infolease Tech Company"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"duns":"3451246","ssn_tax_id":"234-56-7891","company_name":"Info Tech Technologies Group","address_line1":"420 Montgomery Street","entity_id":"B010","country_code":"US"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"entity_id":"B020","address_line1":"420 Montgomery Street","ssn_tax_id":"123-46-7891","country_code":"US","company_name":"Info Tech Technologies Services","duns":"3451256"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Montgomery Street","duns":"3451244","country_code":"US","company_name":"Infolease Tech","ssn_tax_id":"234-56-7891","entity_id":"B008"}}
+{"ts":"2026-09-01T19:18:22Z","type":"upsert_record","side":"b","record":{"company_name":"Infolease Tech Corporation","duns":"3451240","entity_id":"B004","address_line1":"420 Montgomery Street","country_code":"US","ssn_tax_id":"234-56-7891"}}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:22Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}

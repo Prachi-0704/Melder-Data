@@ -1,0 +1,31 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Credit Bank Enterprises,998877,410 Real Street,ES,775511
+B002,French Bank Solutions,557788,15 Rue de l'Economie,FR,775512
+B003,Credit Bank LLC,998877,410 Real Street,ES,775513
+B004,French Bank Corporation,557788,15 Rue de l'Economie,FR,775514
+B005,Credit Bank Limited,998877,410 Real Street,ES,775515
+B006,French Bank Company,557788,15 Rue de l'Economie,FR,775516
+B007,Credit Bank Services,998877,410 Real Street,ES,775517
+B008,French Bank,557788,15 Rue de l'Economie,FR,775518
+B009,The Credit Bank,998877,410 Real Street,ES,775519
+B010,French Bank Group,557788,15 Rue de l'Economie,FR,775520
+B011,Credit Bank Holdings,998877,410 Real Street,ES,775521
+B012,French Bank Partners,557788,15 Rue de l'Economie,FR,775522
+B013,Credit Bank Capital,998877,410 Real Street,ES,775523
+B014,French Bank Enterprises,557788,15 Rue de l'Economie,FR,775524
+B015,Credit Bank Solutions,998877,410 Real Street,ES,775525
+B016,French Bank LLC,557788,15 Rue de l'Economie,FR,775526
+B017,Credit Bank Corporation,998877,410 Real Street,ES,775527
+B018,French Bank Limited,557788,15 Rue de l'Economie,FR,775528
+B019,Credit Bank Company,998877,410 Real Street,ES,775529
+B020,French Bank Services,557788,15 Rue de l'Economie,FR,775530
+B021,Deutsche Kreditbank GmbH,662233,12 Berner Strasse,DE,775531
+B022,Banco Brasiliero SA,998999,410 Rua Real,BR,775532
+B023,Banca Italiana SRL,663344,5 Via Roma,IT,775533
+B024,Bank van Nederland BV,664455,3 Amsterdamweg,NL,775534
+B025,Banque Suedoise AB,665566,7 Stockholmsgatan,SE,775535
+B026,Banco Portugues Lda,666677,22 Rua de Lisboa,PT,775536
+B027,Banca Repubblica SPA,667788,8 Via Milano,IT,775537
+B028,Deutsche Bank AG,668899,9 Hauptstrasse,DE,775538
+B029,Banco Central do Brasil,669900,11 Avenida Central,BR,775539
+B030,Banque Internationale SARL,670011,14 Rue Internationale,FR,775540

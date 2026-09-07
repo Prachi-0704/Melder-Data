@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Acme Technologies Incorporated,123456781,101 Innovation Boulevard,US,987654321
+A002,Global Finance Holdings Limited,123456782,205 Wall Street,US,987654322
+A003,North Star Consulting LLC,123456783,310 Harbor Avenue,US,987654323
+A004,Blue Ocean Enterprises Corporation,123456784,415 Market Street,US,987654324
+A005,Alpha Beta Solutions Private Limited,123456785,520 Technology Park,IN,987654325
+A006,Sunrise Manufacturing Company,123456786,625 Industrial Road,US,987654326
+A007,Greenfield International Group Incorporated,123456787,730 Corporate Avenue,US,987654327
+A008,Müller & Söhne,123456788,835 Berliner Straße,DE,987654328
+A009,García Servicios Sociedad Limitada,123456789,940 Gran Via,ES,987654329
+A010,Nippon Trading Kabushiki Kaisha,223456781,1040 Sakura Avenue,JP,987654330
+A011,Johnson & Johnson Corporation,223456782,115 Healthcare Drive,US,987654331
+A012,Everest Capital Partners LLP,223456783,220 Finance Boulevard,US,987654332
+A013,Metro Urban Development Company Limited,223456784,325 City Center Road,GB,987654333
+A014,Société Nouvelle de Technologie SA,223456785,430 Rue de Paris,FR,987654334
+A015,Golden Eagle Industries Incorporated,223456786,535 Industrial Avenue,US,987654335
+A016,Pacific Rim Trading Corporation,223456787,640 Ocean Drive,US,987654336
+A017,Silverline Ventures Private Limited,223456788,745 Venture Road,IN,987654337
+A018,United Business Services Company,223456789,850 Commerce Avenue,US,987654338
+A019,Diamond Pearl Holdings LLC,323456781,955 Pearl Street,US,987654339
+A020,Future Systems International Incorporated,323456782,1060 Technology Drive,US,987654340

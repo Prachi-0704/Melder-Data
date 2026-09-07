@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,,match,crossmap,,300 Main Street,Amazon Group,US,33331111
+B002,A016,0.6411,review,top_scoring,2,300 Main Street,Amazon Partners,US,33331111
+B003,A020,1.0000,match,top_scoring,1,300 Main Street,Amazon LLC,US,33331111
+B004,A007,0.8103,review,top_scoring,1,300 Main Street,Amaxon LLC,US,33331111
+B005,A012,0.7369,review,top_scoring,1,300 Main Street,Amazon,US,33331111
+B006,A003,0.8192,review,top_scoring,1,300 Mulo Street,Amdspo Partners,US,33331111
+B007,A006,0.7369,review,top_scoring,1,300 Main Street,Amazon Solutions,US,33331111
+B008,A013,0.8271,review,top_scoring,1,300 Main Street,The Amaxon,US,33331111
+B009,A012,0.8354,review,top_scoring,1,300 Main Street,Amazon,US,33331111
+B010,A013,0.7415,review,top_scoring,1,300 Main Street,The Amaxon,US,33331111
+B011,A008,0.7530,review,top_scoring,1,300 Main Street,Amazon Corporation,US,33331111
+B012,A003,1.0000,match,top_scoring,1,300 Mulo Street,Amdspo Partners,US,33331111
+B013,A004,1.0000,match,top_scoring,1,300 Main Street,Amazon Capital,US,33331111
+B014,A005,1.0000,match,top_scoring,1,300 Mian Street,Amaxon Enterprises,US,33331111
+B015,A006,1.0000,match,top_scoring,1,300 Main Street,Amazon Solutions,US,33331111
+B016,A007,1.0000,match,top_scoring,1,300 Main Street,Amaxon LLC,US,33331111
+B017,A008,1.0000,match,top_scoring,1,300 Main Street,Amazon Corporation,US,33331111
+B018,A009,1.0000,match,top_scoring,1,300 Mulo Street,Amdspo Limited,US,33331111
+B019,A003,0.8192,review,top_scoring,1,300 Mulo Street,Amdspo Partners,US,33331111
+B020,A006,0.7369,review,top_scoring,1,300 Main Street,Amazon Solutions,US,33331111

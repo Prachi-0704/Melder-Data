@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Banque de France Enterprises,557788,15 Rue de l'Économie,FR,775530
+ENR_002,Banque de France Solutions,557788,15 Rue de l'Économie,FR,775516
+ENR_003,Banco de Crédito LLC,998877,410 Calle Real,ES,775525
+ENR_004,Banco de Crédito Corporation,998877,410 Calle Real,ES,775515
+ENR_005,Banque de France Company Limited,557788,15 Rue de l'Économie,FR,775520
+ENR_006,Banque de France Company,557788,15 Rue de l'Économie,FR,775524
+ENR_007,Banque de France Services,557788,15 Rue de l'Économie,FR,775526
+ENR_008,Banco de Crédito,998877,410 Calle Real,ES,775529
+ENR_009,The Banco de Crédito,998877,410 Calle Real,ES,775517
+ENR_010,The Banco de Crédito Group,998877,410 Calle Real,ES,775523
+ENR_011,Banque de France Holdings,557788,15 Rue de l'Économie,FR,775528
+ENR_012,Banco de Crédito Partners,998877,410 Calle Real,ES,775521
+ENR_013,Banque de France Capital,557788,15 Rue de l'Économie,FR,775512
+ENR_014,Banque de France Enterprises,557788,15 Rue de l'Économie,FR,775522
+ENR_015,Banco de Crédito Solutions,998877,410 Calle Real,ES,775513
+NEG_001,Northwind Logistics Group,557788,15 Rue de l'Economie,FR,775520
+NEG_002,Harbor & Pine Capital,998877,410 Real Street,ES,775527
+NEG_003,Summit Health Partners,998877,410 Real Street,ES,775521
+NEG_004,Blue Harbor Foods Ltd,557788,15 Rue de l'Economie,FR,775528
+NEG_005,Crestview Telecom Holdings,998877,410 Real Street,ES,775529

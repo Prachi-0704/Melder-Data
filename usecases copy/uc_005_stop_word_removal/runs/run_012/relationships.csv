@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A018,0.8162,review,top_scoring,3,301 Tyvola Street,Goldman Sach Enterprises,US,89786759
+B002,A006,0.9500,match,top_scoring,1,301 Tyvola Street,Goldman Sachs Solutions,US,89786759
+B003,A007,0.8458,review,top_scoring,1,301 Tyvola Street,Goldman Sachs LLC,US,89786759
+B004,A018,0.8600,match,top_scoring,1,301 Tyvola Street,Goldman Sach Enterprises,US,89786759
+B005,A013,0.8369,review,top_scoring,2,301 Tyvola Street,The Goldman Sachs,US,89786759
+B006,A010,0.8470,review,top_scoring,1,301 Tyvola Street,Goldman Sachs Company,US,89786759
+B007,A012,0.8130,review,top_scoring,1,301 Tyvola Street,Goldman Sach,US,89786759
+B008,A013,0.9393,match,top_scoring,1,301 Tyvola Street,The Goldman Sachs,US,89786759
+B009,A008,0.8553,match,top_scoring,2,301 Tyvola Street,Goldman and Sachs Corporation,US,89786759
+B010,A001,0.9297,match,top_scoring,1,301 Tyvola Street,Goldman Sachs Group,US,89786759
+B011,A002,1.0000,match,top_scoring,1,301 Tyvola Street,The Goldman Sachs Holdings,US,89786759
+B012,A003,0.9588,match,top_scoring,1,301 Tyvola Street,Goldman and Sachs Partners,US,89786759
+B013,A004,0.9101,match,top_scoring,1,301 Tyvola Street,Goldman Sachs Capital,US,89786759
+B014,A005,0.9048,match,top_scoring,1,301 Tyvola Street,Goldman and Sachs Enterprises,US,89786759
+B015,A006,0.8494,review,top_scoring,1,301 Tyvola Street,Goldman Sachs Solutions,US,89786759
+B016,A007,0.9500,match,top_scoring,1,301 Tyvola Street,Goldman Sachs LLC,US,89786759
+B017,A010,0.8278,review,top_scoring,3,301 Tyvola Street,Goldman Sachs Company,US,89786759
+B018,A015,0.7678,review,top_scoring,2,301 Tyvola Street,Goldman and Sachs Holdings,US,89786759
+B019,A010,0.8970,match,top_scoring,1,301 Tyvola Street,Goldman Sachs Company,US,89786759
+B020,A009,,match,crossmap,,301 Livola Street,The Goldman Sachs Limited,US,89786759

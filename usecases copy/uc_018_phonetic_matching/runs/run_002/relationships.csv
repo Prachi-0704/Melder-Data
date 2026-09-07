@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,420 Main Ave,Smith Consulting Group,US,1298347,112-34-8989
+B002,A002,,match,crossmap,,420 Mayne Ave,Smyth Consulting Holdings,US,1298348,112-34-8989
+B003,A003,,match,crossmap,,420 Clark Street,Steven Financial Partners,US,3451225,234-56-7891
+B004,A004,,match,crossmap,,420 Clarke Street,Stephen Financial Capital,US,3451226,234-56-7891
+B005,A005,,match,crossmap,,420 Main Ave,Smith Consulting Enterprises,US,1298349,112-34-8989
+B006,A006,,match,crossmap,,420 Mayne Ave,Smyth Consulting Solutions,US,1298350,112-34-8989
+B007,A007,,match,crossmap,,420 Clark Street,Steven Financial LLC,US,3451227,234-56-7891
+B008,A008,,match,crossmap,,420 Clarke Street,Stephen Financial Corporation,US,3451228,234-56-7891
+B009,A009,,match,crossmap,,420 Main Ave,Smith Consulting Limited,US,1298351,112-34-8989
+B010,A010,,match,crossmap,,420 Mayne Ave,Smyth Consulting Company,US,1298352,112-34-8989
+B011,A011,,match,crossmap,,420 Clark Street,Steven Financial Services,US,3451229,234-56-7891
+B012,A012,,match,crossmap,,420 Clarke Street,Stephen Financial,US,3451230,234-56-7891
+B013,A013,,match,crossmap,,420 Main Ave,The Smith Consulting,US,1298353,112-34-8989
+B014,A014,,match,crossmap,,420 Mayne Ave,Smyth Consulting Group,US,1298354,112-34-8989
+B015,A015,,match,crossmap,,420 Clark Street,Steven Financial Holdings,US,3451231,234-56-7891
+B016,A016,,match,crossmap,,420 Clarke Street,Stephen Financial Partners,US,3451232,234-56-7891
+B017,A017,,match,crossmap,,420 Main Ave,Smith Consulting Capital,US,1298355,112-34-8989
+B018,A018,,match,crossmap,,420 Mayne Ave,Smyth Consulting Enterprises,US,1298356,112-34-8989
+B019,A019,,match,crossmap,,420 Clark Street,Steven Financial Solutions,US,3451233,234-56-7891
+B020,A020,,match,crossmap,,420 Clarke Street,Stephen Financial LLC,US,3451234,234-56-7891

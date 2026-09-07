@@ -1,0 +1,6 @@
+entity_id,address_line1,company_name,country_code,duns,ssn_tax_id,best_score,best_a_id
+B1,100 Main St,BANK OF AMERICA Enterprises,US,123456789,123456789,,
+B14,5 Market Street,Contoso Financial Group,US,222333444,999888777,,
+B15,12 Regent Street,Global Capital Partners,GB,666777888,555666777,,
+B2,100 Main St,Bank of America Solutions,US,123456789,123456789,,
+B6,88 Pine Rd,Other Company Company,US,777888999,111222333,,

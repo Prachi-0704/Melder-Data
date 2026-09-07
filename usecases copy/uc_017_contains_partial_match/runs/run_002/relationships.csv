@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,420 Montgomery Street,Infolease Technologies Group,US,3451237,234-56-7891
+B002,A002,,match,crossmap,,420 Montgomery Street,Info Tech Technologies Holdings,US,3451238,234-56-7891
+B003,A003,,match,crossmap,,420 Montgomery Street,Storelease Technologies Partners,US,3451239,234-56-7891
+B004,A004,,match,crossmap,,420 Montgomery Street,Info Tech Technologies Capital,US,3451240,234-56-7891
+B005,A005,,match,crossmap,,420 Montgomery Street,Infolease Technologies Enterprises,US,3451241,234-56-7891
+B006,A006,,match,crossmap,,420 Montgomery Street,Info Tech Technologies Solutions,US,3451242,234-56-7891
+B007,A007,,match,crossmap,,420 Montgamery Street,Infolease Technologies LLC,US,3451243,123-46-7891
+B008,A008,,match,crossmap,,420 Montgomery Street,Info Tech Technologies Corporation,US,3451244,234-56-7891
+B009,A009,,match,crossmap,,420 Montgomery Street,Storelease Technologies Limited,US,3451245,234-56-7891
+B010,A010,,match,crossmap,,420 Montgomery St,Infolease Tech Company,US,3451246,234-56-7891
+B011,A011,,match,crossmap,,420 Montgomery Street,Info Tech Technologies Services,US,3451247,234-56-7891
+B012,A012,,match,crossmap,,420 Montgomery Street,Storelease Technologies,US,3451248,123-46-7891
+B013,A013,,match,crossmap,,420 Montgomery Street,The Infolease Technologies,US,3451249,234-56-7891
+B014,A014,,match,crossmap,,420 Montgomery Street,Infolease Tech Group,US,3451250,123-46-7891
+B015,A015,,match,crossmap,,420 Montgomery St,Info Tech Technologies Holdings,US,3451251,234-56-7891
+B016,A016,,match,crossmap,,420 Montgomery Street,Storelease Technologies Partners,US,3451252,234-56-7891
+B017,A017,,match,crossmap,,420 Montgomery Street,Infolease Tech Capital,US,3451253,234-56-7891
+B018,A018,,match,crossmap,,420 Montgomery Street,Infolease Technologies Enterprises,US,3451254,234-56-7891
+B019,A019,,match,crossmap,,420 Montgomery Street,Info Tech Technologies Solutions,US,3451255,234-56-7891
+B020,A020,,match,crossmap,,420 Montgomery Street,Infolease Technologies LLC,US,3451256,123-46-7891

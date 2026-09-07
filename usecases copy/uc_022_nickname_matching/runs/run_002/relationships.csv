@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,3 Pascal Avenue,William Smith Group,US,567891,234-22-3333
+B002,A002,,match,crossmap,,3 Pascal Avenue,Robert Smith Holdings,US,567892,234-22-3333
+B003,A003,,match,crossmap,,3 Pascal Avenue,William Smith Partners,US,567893,234-22-3333
+B004,A004,,match,crossmap,,3 Pascal Avenue,Robert Smith Capital,US,567894,234-22-3333
+B005,A005,,match,crossmap,,3 Pascal Avenue,William Smith Enterprises,US,567895,234-22-3333
+B006,A006,,match,crossmap,,3 Pascal Avenue,Robert Smith Solutions,US,567896,234-22-3333
+B007,A007,,match,crossmap,,3 Pascal Avenue,William Smith LLC,US,567897,234-22-3333
+B008,A008,,match,crossmap,,3 Pascal Avenue,Robert Smith Corporation,US,567898,234-22-3333
+B009,A009,,match,crossmap,,3 Pascal Avenue,William Smith Limited,US,567899,234-22-3333
+B010,A010,,match,crossmap,,3 Pascal Avenue,Robert Smith Company,US,567900,234-22-3333
+B011,A011,,match,crossmap,,3 Pascal Avenue,William Smith Services,US,567901,234-22-3333
+B012,A012,,match,crossmap,,3 Pascal Avenue,Robert Smith,US,567902,234-22-3333
+B013,A013,,match,crossmap,,3 Pascal Avenue,The William Smith,US,567903,234-22-3333
+B014,A014,,match,crossmap,,3 Pascal Avenue,Robert Smith Group,US,567904,234-22-3333
+B015,A015,,match,crossmap,,3 Pascal Avenue,William Smith Holdings,US,567905,234-22-3333
+B016,A016,,match,crossmap,,3 Pascal Avenue,Robert Smith Partners,US,567906,234-22-3333
+B017,A017,,match,crossmap,,3 Pascal Avenue,William Smith Capital,US,567907,234-22-3333
+B018,A018,,match,crossmap,,3 Pascal Avenue,Robert Smith Enterprises,US,567908,234-22-3333
+B019,A019,,match,crossmap,,3 Pascal Avenue,William Smith Solutions,US,567909,234-22-3333
+B020,A020,,match,crossmap,,3 Pascal Avenue,Robert Smith LLC,US,567910,234-22-3333

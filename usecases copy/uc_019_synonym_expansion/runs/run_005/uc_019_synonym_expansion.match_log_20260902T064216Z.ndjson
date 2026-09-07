@@ -1,0 +1,62 @@
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A012","company_name":"Global Finance Holding","ssn_tax_id":"31031034","country_code":"US","duns":"367694","address_line1":"220 Redwood St"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"220 Redwood Street","ssn_tax_id":"31031034","entity_id":"A003","company_name":"Global Financial Partners","country_code":"US","duns":"367689"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A011","company_name":"Global Financial Services","address_line1":"220 Redwood Street","ssn_tax_id":"31031034","country_code":"US","duns":"367693"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"Global Financial Solutions","entity_id":"A019","address_line1":"220 Redwood Street","country_code":"US","ssn_tax_id":"31031034","duns":"367697"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Oslo Avenue","ssn_tax_id":"2309091","entity_id":"A013","company_name":"The ABC Company","duns":"1111117","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"31031034","country_code":"US","duns":"367696","entity_id":"A016","company_name":"Global Finance Holding Partners","address_line1":"220 Redwood St"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"Global Finance Holding Capital","duns":"367690","ssn_tax_id":"31031034","entity_id":"A004","address_line1":"220 Redwood St","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A006","duns":"1111114","address_line1":"300 Oslo Ave","company_name":"ABC Firm Solutions","ssn_tax_id":"2309091"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"2309091","duns":"1111115","company_name":"ABC Company Limited","address_line1":"300 Oslo Avenue","entity_id":"A009","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"31031034","company_name":"Global Finance Holding Corporation","address_line1":"220 Redwood St","entity_id":"A008","country_code":"US","duns":"367692"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"220 Redwood St","country_code":"US","company_name":"Global Finance Holding LLC","ssn_tax_id":"31031034","entity_id":"A020","duns":"367698"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A014","company_name":"ABC Firm Group","ssn_tax_id":"2309091","country_code":"US","duns":"1111118","address_line1":"300 Oslo Ave"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"220 Redwood Street","ssn_tax_id":"31031034","entity_id":"A015","duns":"367695","country_code":"US","company_name":"Global Financial Holdings"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"2309091","country_code":"US","duns":"1111116","address_line1":"300 Oslo Ave","entity_id":"A010","company_name":"ABC Firm Company"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"300 Oslo Avenue","ssn_tax_id":"2309091","country_code":"US","entity_id":"A017","duns":"1111119","company_name":"ABC Company Capital"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"2309091","address_line1":"300 Oslo Ave","company_name":"ABC Firm Holdings","country_code":"US","duns":"1111112","entity_id":"A002"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"ABC Company Group","country_code":"US","address_line1":"300 Oslo Avenue","duns":"1111111","ssn_tax_id":"2309091","entity_id":"A001"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"1111113","entity_id":"A005","ssn_tax_id":"2309091","country_code":"US","company_name":"ABC Company Enterprises","address_line1":"300 Oslo Avenue"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"220 Redwood Street","country_code":"US","duns":"367691","entity_id":"A007","company_name":"Global Financial LLC","ssn_tax_id":"31031034"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","company_name":"ABC Firm Enterprises","ssn_tax_id":"2309091","address_line1":"300 Oslo Ave","country_code":"US","duns":"1111120"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"1111112","entity_id":"B002","address_line1":"300 Oslo Avenue","company_name":"ABC Company Solutions","ssn_tax_id":"2309091","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"2309091","address_line1":"300 Oslo Avenue","company_name":"ABC Company Enterprises","country_code":"US","duns":"1111118","entity_id":"B014"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"2309091","address_line1":"300 Oslo Avenue","company_name":"ABC Company Company","entity_id":"B006","country_code":"US","duns":"1111114"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Global Financial Services","ssn_tax_id":"31031034","address_line1":"220 Redwood Street","entity_id":"B020","country_code":"US","duns":"367698"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","ssn_tax_id":"2309091","country_code":"US","address_line1":"300 Oslo Ave","duns":"1111119","company_name":"ABC Firm Corporation"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"367691","ssn_tax_id":"31031034","address_line1":"220 Redwood St","entity_id":"B007","company_name":"Global Finance Holding Services","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B009","country_code":"US","duns":"1111115","address_line1":"300 Oslo Ave","ssn_tax_id":"2309091","company_name":"The ABC Firm"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"1111117","ssn_tax_id":"2309091","address_line1":"300 Oslo Ave","company_name":"ABC Firm Capital","entity_id":"B013"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B005","company_name":"ABC Firm Limited","address_line1":"300 Oslo Ave","country_code":"US","ssn_tax_id":"2309091","duns":"1111113"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"2309091","duns":"1111111","company_name":"ABC Firm Enterprises","address_line1":"300 Oslo Ave","country_code":"US","entity_id":"B001"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Global Financial LLC","entity_id":"B016","address_line1":"220 Redwood Street","ssn_tax_id":"31031034","country_code":"US","duns":"367696"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"address_line1":"220 Redwood Street","country_code":"US","duns":"367694","company_name":"Global Financial Partners","entity_id":"B012","ssn_tax_id":"31031034"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"31031034","entity_id":"B015","company_name":"Global Finance Holding Solutions","address_line1":"220 Redwood St","duns":"367695"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"31031034","address_line1":"220 Redwood St","country_code":"US","company_name":"Global Finance Holding Company","duns":"367697","entity_id":"B019"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"1111116","ssn_tax_id":"2309091","entity_id":"B010","company_name":"ABC Company Group","address_line1":"300 Oslo Avenue","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"31031034","address_line1":"220 Redwood Street","country_code":"US","company_name":"Global Financial Corporation","duns":"367690","entity_id":"B004"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"ABC Company Limited","address_line1":"300 Oslo Avenue","country_code":"US","duns":"1111120","entity_id":"B018","ssn_tax_id":"2309091"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"address_line1":"220 Redwood St","duns":"367689","ssn_tax_id":"31031034","country_code":"US","entity_id":"B003","company_name":"Global Finance Holding LLC"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"367692","company_name":"Global Financial","entity_id":"B008","ssn_tax_id":"31031034","address_line1":"220 Redwood Street"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Global Finance Holding Holdings","ssn_tax_id":"31031034","country_code":"US","duns":"367693","entity_id":"B011","address_line1":"220 Redwood St"}}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A018","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A007","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A018","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A007","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A013","b_id":"B006","score":0.8993240445093111,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B001","side":"b","candidate_id":"A005","score":0.8403574911120454,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A003","b_id":"B012","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A012","b_id":"B007","score":0.8724195019974401,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B009","side":"b","candidate_id":"A014","score":0.8230437606830543,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A005","b_id":"B014","score":0.999999725818634,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B005","side":"b","candidate_id":"A009","score":0.8380898490266592,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B016","side":"b","candidate_id":"A015","score":0.7944395000459871,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B004","side":"b","candidate_id":"A007","score":0.8299357858481231,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A010","b_id":"B017","score":0.8872641901687339,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A008","b_id":"B019","score":0.9349645242113559,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A020","b_id":"B003","score":0.9999996066093445,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B015","side":"b","candidate_id":"A016","score":0.8306049987980177,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A017","b_id":"B013","score":0.8514406806501963,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A011","b_id":"B008","score":0.8794570778456821,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A009","b_id":"B018","score":0.9999999046325684,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B011","side":"b","candidate_id":"A008","score":0.8362599757802092,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A001","b_id":"B010","score":1.0,"rank":1,"reason":"top_scoring"}

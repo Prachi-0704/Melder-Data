@@ -1,0 +1,75 @@
+job:
+  name: uc_020_domain_specific_synonyms
+
+datasets:
+  a:
+    path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_020_domain_specific_synonyms/company_a.csv
+    id_field: entity_id
+  b:
+    path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_020_domain_specific_synonyms/company_b.csv
+    id_field: entity_id
+
+cross_map:
+  backend: local
+  path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_020_domain_specific_synonyms/runs/crossmap.csv
+  a_id_field: entity_id
+  b_id_field: entity_id
+
+embeddings:
+  model: all-MiniLM-L6-v2
+  a_cache_dir: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_020_domain_specific_synonyms/cache
+  b_cache_dir: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_020_domain_specific_synonyms/cache
+
+vector_backend: flat
+top_n: 10
+
+blocking:
+  enabled: true
+  operator: and
+  fields:
+    - field_a: country_code
+      field_b: country_code
+
+exact_prefilter:
+  enabled: true
+  fields:
+    - field_a: ssn_tax_id
+      field_b: ssn_tax_id
+
+match_fields:
+  - field_a: company_name
+    field_b: company_name
+    method: embedding
+    weight: 0.60
+
+  - field_a: company_name
+    field_b: company_name
+    method: fuzzy
+    scorer: token_sort_ratio
+    weight: 0.20
+
+  - field_a: address_line1
+    field_b: address_line1
+    method: exact
+    weight: 0.05
+
+  - field_a: country_code
+    field_b: country_code
+    method: exact
+    weight: 0.05
+
+  - method: bm25
+    weight: 0.10
+  
+
+  - field_a: company_name
+    field_b: company_name
+    method: synonym
+    weight: 0.15
+
+thresholds:
+  auto_match: 0.85
+  review_floor: 0.60
+
+output:
+  csv_dir_path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_020_domain_specific_synonyms/runs

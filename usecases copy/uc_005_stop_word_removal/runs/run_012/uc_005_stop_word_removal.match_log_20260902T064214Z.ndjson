@@ -1,0 +1,61 @@
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"company_name":"Goldman Sachs LLC","country_code":"US","ssn_tax_id":"89786759","entity_id":"A007","address_line1":"301 Tyvola Street","duns":"454653"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"entity_id":"A006","duns":"454652","ssn_tax_id":"89786759","address_line1":"301 Tyvola Street","country_code":"US","company_name":"Goldman Sachs Solutions"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"entity_id":"A001","ssn_tax_id":"89786759","company_name":"Goldman Sachs Group","address_line1":"301 Tyvola Street","country_code":"US","duns":"454647"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"duns":"454666","country_code":"US","address_line1":"301 Tyvola Street","company_name":"Goldman Sachs LLC","entity_id":"A020","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"89786759","duns":"454665","entity_id":"A019","company_name":"The Goldman Sachs Solutions","address_line1":"301 Tyvola Street"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786759","address_line1":"301 Tyvola Street","company_name":"Goldman Sach","country_code":"US","entity_id":"A012","duns":"454658"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A015","ssn_tax_id":"89786759","company_name":"Goldman and Sachs Holdings","address_line1":"301 Tyvola Street","duns":"454661"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786759","entity_id":"A005","country_code":"US","company_name":"Goldman and Sachs Enterprises","address_line1":"301 Tyvola Street","duns":"454651"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786759","address_line1":"301 Tyvola Street","company_name":"The Goldman Sachs","country_code":"US","duns":"454659","entity_id":"A013"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"454648","address_line1":"301 Tyvola Street","entity_id":"A002","company_name":"The Goldman Sachs Holdings","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786759","country_code":"US","address_line1":"301 Tyvola Street","duns":"454660","entity_id":"A014","company_name":"The Goldman Sachs Group"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"Goldman and Sachs Partners","duns":"454649","ssn_tax_id":"89786759","address_line1":"301 Tyvola Street","entity_id":"A003"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A008","company_name":"Goldman and Sachs Corporation","duns":"454654","address_line1":"301 Tyvola Street","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"entity_id":"A010","company_name":"Goldman Sachs Company","duns":"454656","ssn_tax_id":"89786759","address_line1":"301 Tyvola Street","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"company_name":"Goldman Sachs Capital","country_code":"US","duns":"454650","entity_id":"A004","address_line1":"301 Tyvola Street","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"duns":"454657","ssn_tax_id":"89786759","address_line1":"301 Tyvola St","company_name":"Goldman or Sachs Services","country_code":"US","entity_id":"A011"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","address_line1":"301 Tyvola Street","ssn_tax_id":"89786759","duns":"454664","company_name":"Goldman Sach Enterprises","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786759","address_line1":"301 Tyvola Street","company_name":"Goldman or Sachs Partners","duns":"454662","entity_id":"A016","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"454663","company_name":"Goldman Sachs Capital","ssn_tax_id":"89786759","entity_id":"A017","address_line1":"301 Tyvola Street"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786759","country_code":"US","entity_id":"A009","company_name":"The Goldman Sachs Limited","duns":"454655","address_line1":"301 Livola Street"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"duns":"454666","company_name":"Goldman Sachs Services","address_line1":"301 Tyvola Street","entity_id":"B020","ssn_tax_id":"89786759","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"The Goldman Sachs Holdings","duns":"454657","entity_id":"B011","ssn_tax_id":"89786759","address_line1":"301 Tyvola Street"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"company_name":"Goldman Sachs Solutions","ssn_tax_id":"89786759","entity_id":"B002","address_line1":"301 Tyvola Way","country_code":"US","duns":"454648"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"89786759","entity_id":"B017","company_name":"The Goldman Sachs Corporation","address_line1":"301 Tyvola Street","country_code":"US","duns":"454663"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"entity_id":"B008","duns":"454654","company_name":"Goldman Sachs","ssn_tax_id":"89786759","country_code":"US","address_line1":"301 Tyvola Street"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"duns":"454665","entity_id":"B019","company_name":"Goldman or Sachs Company","ssn_tax_id":"89786759","address_line1":"301 Tyvola Street","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"address_line1":"301 Tyvola Street","country_code":"US","duns":"454651","company_name":"The Goldman Sachs Limited","ssn_tax_id":"89786759","entity_id":"B005"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"company_name":"Goldman Sach Services","entity_id":"B007","ssn_tax_id":"89786759","duns":"454653","address_line1":"301 Tyvola Street","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"address_line1":"301 Tyvola St","country_code":"US","entity_id":"B006","duns":"454652","ssn_tax_id":"89786759","company_name":"Goldman or Sachs Company"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"duns":"454661","address_line1":"301 Tyvola Street","entity_id":"B015","country_code":"US","company_name":"Goldman Sach Solutions","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"duns":"454660","country_code":"US","ssn_tax_id":"89786759","entity_id":"B014","company_name":"Goldman Sachs Enterprises","address_line1":"301 Tyvola St"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"entity_id":"B010","country_code":"US","ssn_tax_id":"89786759","company_name":"Goldman and Sachs Group","address_line1":"301 Tyvola Street","duns":"454656"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"The Goldman and Sachs","duns":"454655","entity_id":"B009","address_line1":"301 Tyvola Street","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"entity_id":"B016","country_code":"US","company_name":"Goldman Sachs LLC","duns":"454662","address_line1":"301 Tyvola Way","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"entity_id":"B003","duns":"454649","address_line1":"301 Tyvola St","country_code":"US","ssn_tax_id":"89786759","company_name":"Goldman or Sachs LLC"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Goldman and Sachs Enterprises","duns":"454647","ssn_tax_id":"89786759","entity_id":"B001","address_line1":"301 Tyvola Street"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"duns":"454658","address_line1":"301 Tyvola Street","company_name":"Goldman Sachs Partners","entity_id":"B012","ssn_tax_id":"89786759","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"454659","company_name":"Goldman and Sachs Capital","entity_id":"B013","ssn_tax_id":"89786759","address_line1":"301 Tyvola Street"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"country_code":"US","address_line1":"301 Tyvola Street","duns":"454650","entity_id":"B004","company_name":"Goldman Sach Corporation","ssn_tax_id":"89786759"}}
+{"ts":"2026-09-02T06:42:14Z","type":"upsert_record","side":"b","record":{"duns":"454664","address_line1":"301 Livola Street","ssn_tax_id":"89786759","company_name":"Goldman and Sachs Limited","entity_id":"B018","country_code":"US"}}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A009","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A009","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A013","b_id":"B008","score":0.93931250067059,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A006","b_id":"B002","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A010","b_id":"B019","score":0.8969501379834941,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A002","b_id":"B011","score":0.9999998450279236,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A004","b_id":"B013","score":0.9100867648850399,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B007","side":"b","candidate_id":"A012","score":0.812963272933671,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A018","b_id":"B004","score":0.8600039393629509,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A003","b_id":"B012","score":0.9587560664535069,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A008","b_id":"B009","score":0.8553143951442805,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B018","side":"b","candidate_id":"A015","score":0.7678342659534272,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A001","b_id":"B010","score":0.9296950628599601,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B006","side":"b","candidate_id":"A010","score":0.8469501379834941,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A005","b_id":"B014","score":0.9048259697389219,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B017","side":"b","candidate_id":"A010","score":0.8278341550827027,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"crossmap_confirm","a_id":"A007","b_id":"B016","score":0.9500000000000001,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B015","side":"b","candidate_id":"A006","score":0.8494091403738182,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B005","side":"b","candidate_id":"A013","score":0.836890790028849,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B001","side":"b","candidate_id":"A018","score":0.81617492699453,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:14Z","type":"review_match","id":"B003","side":"b","candidate_id":"A007","score":0.8457694011647086,"rank":1,"reason":"top_scoring"}

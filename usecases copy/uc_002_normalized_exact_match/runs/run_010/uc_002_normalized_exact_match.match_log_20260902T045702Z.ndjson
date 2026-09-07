@@ -1,0 +1,26 @@
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"address_line1":"270 Park Avenue","country_code":"US","entity_id":"A6","duns":"999111222","ssn_tax_id":"987654321","company_name":"JPMorgan Chase Solutions"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"duns":"781436","company_name":"Wells Fargo Partners","ssn_tax_id":"123456789","address_line1":"36A Wabeno Avenue","country_code":"US","entity_id":"A3"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"duns":"888777666","entity_id":"A4","country_code":"US","address_line1":"100 N Tryon St","company_name":"Bank of America Capital","ssn_tax_id":"333444555"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"777888999","address_line1":"388 Greenwich St","company_name":"Citigroup LLC","country_code":"US","entity_id":"A7","duns":"222333444"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"entity_id":"A5","address_line1":"1515 3rd St","country_code":"US","duns":"765432109","company_name":"Uber Technologies Enterprises","ssn_tax_id":"222333444"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"444555666","company_name":"Goldman Sachs Group","entity_id":"A1","ssn_tax_id":"555666777","address_line1":"200 West Street"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"a","record":{"address_line1":"1000 Nicollet Mall","entity_id":"A2","country_code":"US","ssn_tax_id":"111222333","duns":"654321987","company_name":"Target Holdings"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111222333","entity_id":"B4","duns":"654321987","address_line1":"1000 Nicollet Mall","company_name":"Target Corporation","country_code":"US"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"781436","ssn_tax_id":"123456789","entity_id":"B3","address_line1":"36A WABENO AVENUE","company_name":"WELLS FARGO LLC"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"duns":"222333444","company_name":"Citigroup Solutions","entity_id":"B2","country_code":"US","address_line1":"388 Greenwich St","ssn_tax_id":"777888999"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"company_name":"JPMorgan Chase and Co. Limited","address_line1":"270 Park Avenue","ssn_tax_id":"987654321","country_code":"US","duns":"999111222","entity_id":"B5"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"entity_id":"B6","company_name":"Barclays Company","country_code":"US","ssn_tax_id":"555444333","duns":"987654321","address_line1":"745 Seventh Ave"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"entity_id":"B1","ssn_tax_id":"444555666","company_name":"HSBC Holdings Enterprises","address_line1":"8 Canada Square","duns":"321654987","country_code":"GB"}}
+{"ts":"2026-09-02T04:57:02Z","type":"upsert_record","side":"b","record":{"address_line1":"200 West Street","ssn_tax_id":"555666777","entity_id":"B7","duns":"444555666","country_code":"US","company_name":"Goldman Sachs Services"}}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A2","b_id":"B4","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A3","b_id":"B3","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A7","b_id":"B2","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A6","b_id":"B5","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A1","b_id":"B7","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A2","b_id":"B4","reason":"crossmap"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A3","b_id":"B3","reason":"crossmap"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A7","b_id":"B2","reason":"crossmap"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A6","b_id":"B5","reason":"crossmap"}
+{"ts":"2026-09-02T04:57:02Z","type":"crossmap_confirm","a_id":"A1","b_id":"B7","reason":"crossmap"}
+{"ts":"2026-09-02T04:57:02Z","type":"no_match_below","query_id":"B6","query_side":"b","best_score":0.49990864413125174}
+{"ts":"2026-09-02T04:57:02Z","type":"no_match_below","query_id":"B1","query_side":"b","best_score":0.42603782773017884}

@@ -1,0 +1,21 @@
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"address_line1":"270 Park Avenue","company_name":"JPMorgan Chase Solutions","ssn_tax_id":"987654321","country_code":"US","duns":"999111222","entity_id":"A6"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"entity_id":"A1","company_name":"Goldman Sachs Group","address_line1":"200 West Street","ssn_tax_id":"555666777","country_code":"US","duns":"444555666"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"654321987","entity_id":"A2","ssn_tax_id":"111222333","address_line1":"1000 Nicollet Mall","company_name":"Target Holdings"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"address_line1":"1515 3rd St","country_code":"US","duns":"765432109","ssn_tax_id":"222333444","company_name":"Uber Technologies Enterprises","entity_id":"A5"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"company_name":"Citigroup LLC","address_line1":"388 Greenwich St","ssn_tax_id":"777888999","duns":"222333444","entity_id":"A7","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"company_name":"Wells Fargo Partners","country_code":"US","address_line1":"36A Wabeno Avenue","entity_id":"A3","duns":"781436","ssn_tax_id":"123456789"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"a","record":{"entity_id":"A4","country_code":"US","duns":"888777666","company_name":"Bank of America Capital","ssn_tax_id":"333444555","address_line1":"100 N Tryon St"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"duns":"654321987","address_line1":"1000 Nicollet Mall","ssn_tax_id":"111222333","entity_id":"B4","company_name":"Target Corporation","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"address_line1":"200 West Street","duns":"444555666","country_code":"US","ssn_tax_id":"555666777","company_name":"Goldman Sachs Services","entity_id":"B7"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"987654321","company_name":"Barclays Company","entity_id":"B6","ssn_tax_id":"555444333","address_line1":"745 Seventh Ave"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"duns":"321654987","country_code":"GB","company_name":"HSBC Holdings Enterprises","entity_id":"B1","ssn_tax_id":"444555666","address_line1":"8 Canada Square"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"duns":"999111222","entity_id":"B5","address_line1":"270 Park Avenue","country_code":"US","company_name":"JPMorgan Chase and Co. Limited","ssn_tax_id":"987654321"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"entity_id":"B3","address_line1":"36A WABENO AVENUE","duns":"781436","company_name":"WELLS FARGO LLC","ssn_tax_id":"123456789","country_code":"US"}}
+{"ts":"2026-09-01T19:18:20Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"777888999","company_name":"Citigroup Solutions","country_code":"US","entity_id":"B2","duns":"222333444","address_line1":"388 Greenwich St"}}
+{"ts":"2026-09-01T19:18:20Z","type":"no_match_below","query_id":"B1","query_side":"b"}
+{"ts":"2026-09-01T19:18:20Z","type":"no_match_below","query_id":"B7","query_side":"b"}
+{"ts":"2026-09-01T19:18:20Z","type":"no_match_below","query_id":"B5","query_side":"b"}
+{"ts":"2026-09-01T19:18:20Z","type":"no_match_below","query_id":"B3","query_side":"b"}
+{"ts":"2026-09-01T19:18:20Z","type":"no_match_below","query_id":"B2","query_side":"b"}
+{"ts":"2026-09-01T19:18:20Z","type":"no_match_below","query_id":"B6","query_side":"b"}
+{"ts":"2026-09-01T19:18:20Z","type":"no_match_below","query_id":"B4","query_side":"b"}

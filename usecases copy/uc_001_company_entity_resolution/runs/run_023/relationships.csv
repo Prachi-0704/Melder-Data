@@ -1,0 +1,36 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,100 Main Street,Bank of America Corporation,US,987654321,123456781
+B002,A002,,match,crossmap,,1 Infinite Loop,Apple Incorporated,US,987654322,123456782
+B003,A003,,match,crossmap,,One Microsoft Way,Microsoft Corporation,US,987654323,123456783
+B004,A004,,match,crossmap,,410 Terry Avenue North,Amazon.com Incorporated,US,987654324,123456784
+B005,A005,,match,crossmap,,1 Johnson and Johnson Plaza,Johnson and Johnson,US,987654325,123456785
+B006,A006,,match,crossmap,,1 New Orchard Road,International Business Machines Corporation,US,987654326,123456786
+B007,A033,0.6085,review,top_scoring,1,300 Renaissance Center,General Motors Company,US,987654353,423456786
+B008,A008,,match,crossmap,,5 Necco Street,General Electric Company,US,987654328,123456788
+B009,A009,,match,crossmap,,55 Glenlake Parkway,United Parcel Service Incorporated,US,987654329,123456789
+B010,A010,,match,crossmap,,1 Coca Cola Plaza,The Coca-Cola Company,US,987654330,223456781
+B011,A011,,match,crossmap,,700 Anderson Hill Road,PepsiCo Incorporated,US,987654331,223456782
+B012,A012,,match,crossmap,,702 Southwest 8th Street,Walmart Incorporated,US,987654332,223456783
+B013,A013,,match,crossmap,,2455 Paces Ferry Road,The Home Depot Incorporated,US,987654333,223456784
+B014,A014,,match,crossmap,,2000 Purchase Street,Mastercard Incorporated,US,987654334,223456785
+B015,A015,,match,crossmap,,900 Metro Center Boulevard,Visa Incorporated,US,987654335,223456786
+B016,A016,,match,crossmap,,200 Vesey Street,American Express Company,US,987654336,223456787
+B017,A017,,match,crossmap,,200 West Street,Goldman Sachs Group Incorporated,US,987654337,223456788
+B018,A018,,match,crossmap,,383 Madison Avenue,JPMorgan Chase and Company,US,987654338,223456789
+B019,A019,,match,crossmap,,1585 Broadway,Morgan Stanley,US,987654339,323456781
+B020,A020,,match,crossmap,,8 Canada Square,HSBC Holdings plc,GB,987654340,323456782
+B021,A021,,match,crossmap,,Taunusanlage 12,Deutsche Bank Aktiengesellschaft,DE,987654341,323456783
+B022,A022,,match,crossmap,,1 Churchill Place,Barclays plc,GB,987654342,323456784
+B023,A023,,match,crossmap,,200 Bay Street,Royal Bank of Canada,CA,987654343,323456785
+B024,A024,,match,crossmap,,Bahnhofstrasse 45,UBS Group AG,CH,987654344,323456786
+B025,A025,,match,crossmap,,Werner-von-Siemens-Strasse 1,Siemens AG,DE,987654345,323456787
+B026,A026,,match,crossmap,,129 Samsung-ro,Samsung Electronics Company Limited,KR,987654346,323456788
+B027,A027,,match,crossmap,,1 Toyota-cho,Toyota Motor Corporation,JP,987654347,323456789
+B028,A028,,match,crossmap,,1-7-1 Konan,Sony Group Corporation,JP,987654348,423456781
+B029,A029,,match,crossmap,,Avenue Nestle 55,Nestle SA,CH,987654349,423456782
+B030,A030,,match,crossmap,,100 Victoria Embankment,Unilever PLC,GB,987654350,423456783
+B031,A031,,match,crossmap,,5757 North Green Bay Avenue,Johnson Controls International plc,US,987654351,423456784
+B032,A032,,match,crossmap,,1 American Road,Ford Motor Company,US,987654352,423456785
+B033,A033,,match,crossmap,,300 Renaissance Center,General Motors Company,US,987654353,423456786
+B034,A034,,match,crossmap,,2300 Oracle Way,Oracle Corporation,US,987654354,423456787
+B035,A035,,match,crossmap,,Dietmar-Hopp-Allee 16,SAP SE,DE,987654355,423456788

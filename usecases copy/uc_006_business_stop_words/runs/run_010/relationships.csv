@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,,match,crossmap,,101 Innovation Boulevard,Acme Technologies Incorporated,US,123456781
+B002,A002,0.8935,match,top_scoring,1,205 Wall Street,Global Finance Holdings Limited,US,123456782
+B003,A003,,match,crossmap,,310 Harbor Avenue,North Star Consulting LLC,US,123456783
+B004,A004,0.9151,match,top_scoring,1,415 Market Street,Blue Ocean Enterprises Corporation,US,123456784
+B005,A005,,match,crossmap,,520 Technology Park,Alpha Beta Solutions Private Limited,IN,123456785
+B006,A006,0.9084,match,top_scoring,1,625 Industrial Road,Sunrise Manufacturing Company,US,123456786
+B007,A007,,match,crossmap,,730 Corporate Avenue,Greenfield International Group Incorporated,US,123456787
+B008,A008,0.7816,review,top_scoring,1,835 Berliner Straße,Müller & Söhne,DE,123456788
+B009,A009,,match,crossmap,,940 Gran Via,García Servicios Sociedad Limitada,ES,123456789
+B010,A010,0.7985,review,top_scoring,1,1040 Sakura Avenue,Nippon Trading Kabushiki Kaisha,JP,223456781
+B011,A011,,match,crossmap,,115 Healthcare Drive,Johnson & Johnson Corporation,US,223456782
+B012,A012,0.8789,match,top_scoring,1,220 Finance Boulevard,Everest Capital Partners LLP,US,223456783
+B013,A013,,match,crossmap,,325 City Center Road,Metro Urban Development Company Limited,GB,223456784
+B014,A014,0.8997,match,top_scoring,1,430 Rue de Paris,Société Nouvelle de Technologie SA,FR,223456785
+B015,A015,,match,crossmap,,535 Industrial Avenue,Golden Eagle Industries Incorporated,US,223456786
+B016,A016,0.9062,match,top_scoring,1,640 Ocean Drive,Pacific Rim Trading Corporation,US,223456787
+B017,A017,,match,crossmap,,745 Venture Road,Silverline Ventures Private Limited,IN,223456788
+B018,A018,0.8933,match,top_scoring,1,850 Commerce Avenue,United Business Services Company,US,223456789
+B019,A019,,match,crossmap,,955 Pearl Street,Diamond Pearl Holdings LLC,US,323456781
+B020,A020,0.8888,match,top_scoring,1,1060 Technology Drive,Future Systems International Incorporated,US,323456782

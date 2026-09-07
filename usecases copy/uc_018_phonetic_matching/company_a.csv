@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Smith Consulting Group,112-34-8989,420 Main Ave,US,1298347
+A002,Smyth Consulting Holdings,112-34-8989,420 Mayne Ave,US,1298348
+A003,Steven Financial Partners,234-56-7891,420 Clark Street,US,3451225
+A004,Stephen Financial Capital,234-56-7891,420 Clarke Street,US,3451226
+A005,Smith Consulting Enterprises,112-34-8989,420 Main Ave,US,1298349
+A006,Smyth Consulting Solutions,112-34-8989,420 Mayne Ave,US,1298350
+A007,Steven Financial LLC,234-56-7891,420 Clark Street,US,3451227
+A008,Stephen Financial Corporation,234-56-7891,420 Clarke Street,US,3451228
+A009,Smith Consulting Limited,112-34-8989,420 Main Ave,US,1298351
+A010,Smyth Consulting Company,112-34-8989,420 Mayne Ave,US,1298352
+A011,Steven Financial Services,234-56-7891,420 Clark Street,US,3451229
+A012,Stephen Financial,234-56-7891,420 Clarke Street,US,3451230
+A013,The Smith Consulting,112-34-8989,420 Main Ave,US,1298353
+A014,Smyth Consulting Group,112-34-8989,420 Mayne Ave,US,1298354
+A015,Steven Financial Holdings,234-56-7891,420 Clark Street,US,3451231
+A016,Stephen Financial Partners,234-56-7891,420 Clarke Street,US,3451232
+A017,Smith Consulting Capital,112-34-8989,420 Main Ave,US,1298355
+A018,Smyth Consulting Enterprises,112-34-8989,420 Mayne Ave,US,1298356
+A019,Steven Financial Solutions,234-56-7891,420 Clark Street,US,3451233
+A020,Stephen Financial LLC,234-56-7891,420 Clarke Street,US,3451234

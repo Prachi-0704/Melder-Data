@@ -1,0 +1,31 @@
+entity_id,company_name,address_line1,country_code,ssn_tax_id
+A01,Alphabet Inc.,1600 Amphitheatre Parkway,US,111111111
+A02,Meta Platforms Inc.,1 Hacker Way,US,222222222
+A03,Wells Fargo Bank NA,420 Montgomery Street,US,333333333
+A04,Apple Inc.,1 Apple Park Way,US,444444444
+A05,Amazon.com Inc.,410 Terry Avenue North,US,555555555
+A06,Microsoft Corporation,One Microsoft Way,US,666666666
+A07,International Business Machines Corporation,1 New Orchard Road,US,777777777
+A08,The Coca-Cola Company,1 Coca-Cola Plaza,US,888888888
+A09,PepsiCo Inc.,700 Anderson Hill Road,US,999999999
+A10,The Goldman Sachs Group Inc.,200 West Street,US,101010101
+A11,JPMorgan Chase & Co.,383 Madison Avenue,US,202020202
+A12,The Walt Disney Company,500 South Buena Vista Street,US,303030303
+A13,Netflix Inc.,121 Albright Way,US,404040404
+A14,Nike Inc.,One Bowerman Drive,US,505050505
+A15,McDonald's Corporation,110 North Carpenter Street,US,606060606
+A16,The Procter & Gamble Company,1 P&G Plaza,US,707070707
+A17,International Business Machines Corp.,1 New Orchard Road,US,808080808
+A18,American Express Company,200 Vesey Street,US,909090909
+A19,General Electric Company,5 Necco Street,US,121212121
+A20,United Parcel Service Inc.,55 Glenlake Parkway,US,131313131
+A21,The Home Depot Inc.,2455 Paces Ferry Road,US,141414141
+A22,Wal-Mart Stores Inc.,702 Southwest 8th Street,US,151515151
+A23,Starbucks Corporation,2401 Utah Avenue South,US,161616161
+A24,The Boeing Company,929 Long Bridge Drive,US,171717171
+A25,FedEx Corporation,942 South Shady Grove Road,US,181818181
+A26,Mastercard Incorporated,2000 Purchase Street,US,191919191
+A27,Verizon Communications Inc.,1095 Avenue of the Americas,US,212121212
+A28,The Kraft Heinz Company,One PPG Place,US,232323232
+A29,General Motors Company,300 Renaissance Center,US,242424242
+A30,The Bank of New York Mellon Corporation,240 Greenwich Street,US,252525252

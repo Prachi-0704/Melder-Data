@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Mount View Technologies,111111111,100 Mountain View Road,US,234567801
+A002,International Business Solutions,111111112,25 Global Avenue,US,234567802
+A003,Greenfield Manufacturing Corporation,111111113,450 Industrial Road,US,234567803
+A004,Northstar Financial Services,111111114,88 Market Street,US,234567804
+A005,Pacific Management Group,111111115,120 Harbor Boulevard,US,234567805
+A006,Central Department Stores,111111116,55 Commerce Avenue,US,234567806
+A007,Vertex Technology Solutions,111111117,700 Innovation Drive,US,234567807
+A008,Evergreen Construction Company,111111118,32 Builder Road,US,234567808
+A009,Global Healthcare Services,111111119,900 Medical Center Drive,US,234567809
+A010,Westbridge Consulting Partners,111111120,15 Business Park Avenue,US,234567810
+A011,Metro Transportation Corporation,111111121,400 Transit Street,US,234567811
+A012,Bluewater Logistics Limited,111111122,75 Port Road,US,234567812
+A013,Silverline Property Management,111111123,220 Park Avenue,US,234567813
+A014,United Engineering Industries,111111124,600 Development Boulevard,US,234567814
+A015,Heritage Food Distribution Company,111111125,18 Supply Chain Road,US,234567815
+A016,Capital Investment Management,111111126,300 Finance Street,US,234567816
+A017,National Retail Services,111111127,40 Shopping Center Avenue,US,234567817
+A018,Advanced Research and Development Corporation,111111128,850 Science Park Drive,US,234567818
+A019,Premier Automotive Manufacturing,111111129,500 Motorway Road,US,234567819
+A020,Summit Information Technology Solutions,111111130,1000 Technology Boulevard,US,234567820

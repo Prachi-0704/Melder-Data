@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,,match,crossmap,,100 Mountain View Road,Mount View Technologies,US,111111111
+B002,A002,,match,crossmap,,25 Global Avenue,International Business Solutions,US,111111112
+B003,A003,,match,crossmap,,450 Industrial Road,Greenfield Manufacturing Corporation,US,111111113
+B004,A004,,match,crossmap,,88 Market Street,Northstar Financial Services,US,111111114
+B005,A005,,match,crossmap,,120 Harbor Boulevard,Pacific Management Group,US,111111115
+B006,A006,,match,crossmap,,55 Commerce Avenue,Central Department Stores,US,111111116
+B007,A007,,match,crossmap,,700 Innovation Drive,Vertex Technology Solutions,US,111111117
+B008,A008,,match,crossmap,,32 Builder Road,Evergreen Construction Company,US,111111118
+B009,A009,,match,crossmap,,900 Medical Center Drive,Global Healthcare Services,US,111111119
+B010,A010,,match,crossmap,,15 Business Park Avenue,Westbridge Consulting Partners,US,111111120
+B011,A011,,match,crossmap,,400 Transit Street,Metro Transportation Corporation,US,111111121
+B012,A012,,match,crossmap,,75 Port Road,Bluewater Logistics Limited,US,111111122
+B013,A013,,match,crossmap,,220 Park Avenue,Silverline Property Management,US,111111123
+B014,A014,,match,crossmap,,600 Development Boulevard,United Engineering Industries,US,111111124
+B015,A015,,match,crossmap,,18 Supply Chain Road,Heritage Food Distribution Company,US,111111125
+B016,A016,,match,crossmap,,300 Finance Street,Capital Investment Management,US,111111126
+B017,A017,,match,crossmap,,40 Shopping Center Avenue,National Retail Services,US,111111127
+B018,A018,,match,crossmap,,850 Science Park Drive,Advanced Research and Development Corporation,US,111111128
+B019,A019,,match,crossmap,,500 Motorway Road,Premier Automotive Manufacturing,US,111111129
+B020,A020,,match,crossmap,,1000 Technology Boulevard,Summit Information Technology Solutions,US,111111130

@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A005,0.9500,match,top_scoring,1,Building V First Avenue,Henry 4 Enterprises,US,77778888
+B002,A009,,match,crossmap,,Building V First Avenue,Henry 4 Limited,US,77778888
+B003,A020,1.0000,match,top_scoring,1,Building 5 1st Ave,Henry IV LLC,US,77778888
+B004,A005,0.7989,review,top_scoring,1,Building V First Avenue,Henry 4 Enterprises,US,77778888
+B005,A009,0.7789,review,top_scoring,1,Building V First Avenue,Henry 4 Limited,US,77778888
+B006,A005,0.7844,review,top_scoring,1,Building V First Avenue,Henry 4 Enterprises,US,77778888
+B007,A011,0.7997,review,top_scoring,1,Building V First Avenue,Henry 4 Services,US,77778888
+B008,A013,0.9081,match,top_scoring,1,Building V First Avenue,The Henry 4,US,77778888
+B009,A012,0.7933,review,top_scoring,1,Building 5 1st Ave,Henry IV,US,77778888
+B010,A001,0.8479,review,top_scoring,1,Building V First Avenue,Henry IV Group,US,77778888
+B011,A002,0.9500,match,top_scoring,1,Building 5 First Avenue,Henry IV Holdings,US,77778888
+B012,A003,1.0000,match,top_scoring,1,Building V First Avenue,Henry 4 Partners,US,77778888
+B013,A004,0.9500,match,top_scoring,1,Building 5 1st Ave,Henry IV Capital,US,77778888
+B014,A018,0.7797,review,top_scoring,2,Building 5 First Avenue,Henry IV Enterprises,US,77778888
+B015,A006,0.9500,match,top_scoring,1,Building 5 First Avenue,Henry IV Solutions,US,77778888
+B016,A007,1.0000,match,top_scoring,1,Building V First Avenue,Henry 4 LLC,US,77778888
+B017,A008,0.9500,match,top_scoring,1,Building 5 1st Ave,Henry IV Corporation,US,77778888
+B018,A013,0.7980,review,top_scoring,2,Building V First Avenue,The Henry 4,US,77778888
+B019,A010,0.9500,match,top_scoring,1,Building 5 First Avenue,Henry IV Company,US,77778888
+B020,A011,1.0000,match,top_scoring,1,Building V First Avenue,Henry 4 Services,US,77778888

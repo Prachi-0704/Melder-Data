@@ -1,0 +1,20 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A005,0.9500,match,top_scoring,1,24 Sports Drive,Run & Go Enterprises,US,111-88-5555
+B002,A006,0.9500,match,top_scoring,1,24 Sports Dr,Running Solutions,US,111-88-5555
+B003,A007,0.9500,match,top_scoring,1,24 Sport Dr.,Runners Corp LLC,US,111-88-5555
+B004,A008,0.8835,match,top_scoring,1,25 Sports Drive,RanFast Corporation,US,111-88-5555
+B005,A009,0.9500,match,top_scoring,1,25 Sports Blvd,Runner Limited,US,111-88-5555
+B006,A010,0.8642,match,top_scoring,1,25 Sports Ln,RunFast Company,US,111-88-5555
+B007,A011,0.9500,match,top_scoring,1,26 Sports Drive,Joggers Services,US,111-88-5555
+B008,A012,0.9500,match,top_scoring,1,26 Sports Dr.,Jogging Co.,US,111-88-5555
+B009,A013,0.9500,match,top_scoring,1,26 Sport Dr,The Sprinting Group,US,111-88-5555
+B010,A014,0.8299,review,top_scoring,1,27 Sports Drive,Sprint Corp Group,US,111-88-5555
+B011,A015,0.8807,match,top_scoring,1,27 Sports Blvd,Sprinter Holdings Ltd,US,111-88-5555
+B012,A016,0.9500,match,top_scoring,1,27 Sports Ln,Sprint Partners,US,111-88-5555
+B013,A017,0.8174,review,top_scoring,1,28 Sports Drive,Great Cooking Co.,US,111-88-5555
+B014,A017,0.9500,match,top_scoring,1,28 Sports Drive,Great Cooking Co.,US,111-88-5555
+B015,A019,0.9500,match,top_scoring,1,28 Sport Ln,Cooking Masters LLC,US,111-88-5555
+B016,A020,0.9500,match,top_scoring,1,29 Sports Drive,Kitchen & Baking LLC,US,111-88-5555
+B018,A003,,match,crossmap,,23 Sport Drive,RunFast Partners,US,111-88-5555
+B019,A017,0.8181,review,top_scoring,1,28 Sports Drive,Great Cooking Co.,US,111-88-5555
+B020,A018,0.9500,match,top_scoring,1,28 Sports Dr,Great Cookers Inc.,US,111-88-5555

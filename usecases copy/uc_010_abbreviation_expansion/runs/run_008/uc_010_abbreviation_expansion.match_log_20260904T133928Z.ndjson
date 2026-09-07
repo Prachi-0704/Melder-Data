@@ -1,0 +1,80 @@
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"address_line1":"900 Medical Center Drive","company_name":"Global Healthcare Services","country_code":"US","ssn_tax_id":"111111119","duns":"234567809","entity_id":"A009"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"duns":"234567816","entity_id":"A016","ssn_tax_id":"111111126","address_line1":"300 Finance Street","country_code":"US","company_name":"Capital Investment Management"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"address_line1":"400 Transit Street","country_code":"US","duns":"234567811","entity_id":"A011","ssn_tax_id":"111111121","company_name":"Metro Transportation Corporation"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"duns":"234567805","country_code":"US","ssn_tax_id":"111111115","entity_id":"A005","company_name":"Pacific Management Group","address_line1":"120 Harbor Boulevard"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111111122","entity_id":"A012","company_name":"Bluewater Logistics Limited","address_line1":"75 Port Road","country_code":"US","duns":"234567812"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"duns":"234567818","country_code":"US","entity_id":"A018","address_line1":"850 Science Park Drive","company_name":"Advanced Research and Development Corporation","ssn_tax_id":"111111128"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"entity_id":"A006","address_line1":"55 Commerce Avenue","country_code":"US","duns":"234567806","ssn_tax_id":"111111116","company_name":"Central Department Stores"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"111111111","duns":"234567801","entity_id":"A001","company_name":"Mount View Technologies","address_line1":"100 Mountain View Road"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"111111118","company_name":"Evergreen Construction Company","entity_id":"A008","address_line1":"32 Builder Road","duns":"234567808"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"duns":"234567803","country_code":"US","entity_id":"A003","ssn_tax_id":"111111113","company_name":"Greenfield Manufacturing Corporation","address_line1":"450 Industrial Road"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111111123","entity_id":"A013","country_code":"US","duns":"234567813","company_name":"Silverline Property Management","address_line1":"220 Park Avenue"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"entity_id":"A002","address_line1":"25 Global Avenue","country_code":"US","company_name":"International Business Solutions","ssn_tax_id":"111111112","duns":"234567802"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"entity_id":"A019","duns":"234567819","company_name":"Premier Automotive Manufacturing","address_line1":"500 Motorway Road","country_code":"US","ssn_tax_id":"111111129"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"234567804","company_name":"Northstar Financial Services","address_line1":"88 Market Street","ssn_tax_id":"111111114","entity_id":"A004"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"duns":"234567807","entity_id":"A007","ssn_tax_id":"111111117","company_name":"Vertex Technology Solutions","address_line1":"700 Innovation Drive","country_code":"US"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"entity_id":"A017","ssn_tax_id":"111111127","country_code":"US","duns":"234567817","address_line1":"40 Shopping Center Avenue","company_name":"National Retail Services"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111111125","address_line1":"18 Supply Chain Road","country_code":"US","duns":"234567815","entity_id":"A015","company_name":"Heritage Food Distribution Company"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"234567814","company_name":"United Engineering Industries","entity_id":"A014","ssn_tax_id":"111111124","address_line1":"600 Development Boulevard"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"duns":"234567820","ssn_tax_id":"111111130","company_name":"Summit Information Technology Solutions","entity_id":"A020","address_line1":"1000 Technology Boulevard","country_code":"US"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111111120","country_code":"US","company_name":"Westbridge Consulting Partners","address_line1":"15 Business Park Avenue","duns":"234567810","entity_id":"A010"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","ssn_tax_id":"111111124","address_line1":"600 Development Blvd","country_code":"US","duns":"234567814","company_name":"United Engineering Inds"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"address_line1":"75 Port Rd","ssn_tax_id":"111111122","country_code":"US","company_name":"Bluewater Logistics Ltd","duns":"234567812","entity_id":"B012"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"entity_id":"B001","company_name":"Mt View Tech","ssn_tax_id":"111111111","address_line1":"100 Mt View Rd","duns":"234567801","country_code":"US"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111111125","country_code":"US","company_name":"Heritage Food Distribution Co","address_line1":"18 Supply Chain Rd","entity_id":"B015","duns":"234567815"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"address_line1":"500 Motorway Rd","country_code":"US","duns":"234567819","entity_id":"B019","company_name":"Premier Automotive Mfg","ssn_tax_id":"111111129"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"company_name":"Capital Investment Mgmt","entity_id":"B016","ssn_tax_id":"111111126","country_code":"US","address_line1":"300 Finance St","duns":"234567816"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"duns":"234567803","entity_id":"B003","ssn_tax_id":"111111113","address_line1":"450 Industrial Rd","country_code":"US","company_name":"Greenfield Mfg Corp"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"duns":"234567806","country_code":"US","entity_id":"B006","company_name":"Central Dept Stores","ssn_tax_id":"111111116","address_line1":"55 Commerce Ave"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"duns":"234567817","ssn_tax_id":"111111127","country_code":"US","entity_id":"B017","company_name":"National Retail Svcs","address_line1":"40 Shopping Ctr Ave"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"111111115","company_name":"Pacific Mgmt Group","duns":"234567805","entity_id":"B005","address_line1":"120 Harbor Blvd"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"duns":"234567818","ssn_tax_id":"111111128","company_name":"Advanced R&D Corp","country_code":"US","entity_id":"B018","address_line1":"850 Science Park Dr"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111111112","duns":"234567802","entity_id":"B002","country_code":"US","company_name":"Intl Business Solutions","address_line1":"25 Global Ave"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"entity_id":"B013","country_code":"US","duns":"234567813","ssn_tax_id":"111111123","company_name":"Silverline Property Mgmt","address_line1":"220 Park Ave"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"duns":"234567811","ssn_tax_id":"111111121","entity_id":"B011","address_line1":"400 Transit St","country_code":"US","company_name":"Metro Transportation Corp"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"duns":"234567809","ssn_tax_id":"111111119","country_code":"US","entity_id":"B009","company_name":"Global Healthcare Svcs","address_line1":"900 Medical Ctr Dr"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"111111117","company_name":"Vertex Tech Solutions","duns":"234567807","entity_id":"B007","address_line1":"700 Innovation Dr"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111111114","address_line1":"88 Market St","entity_id":"B004","company_name":"Northstar Financial Svcs","country_code":"US","duns":"234567804"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"duns":"234567820","ssn_tax_id":"111111130","entity_id":"B020","address_line1":"1000 Technology Blvd","company_name":"Summit Info Tech Solutions","country_code":"US"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"address_line1":"15 Business Park Ave","country_code":"US","company_name":"Westbridge Consulting Partners","entity_id":"B010","ssn_tax_id":"111111120","duns":"234567810"}}
+{"ts":"2026-09-04T13:39:28Z","type":"upsert_record","side":"b","record":{"entity_id":"B008","country_code":"US","duns":"234567808","address_line1":"32 Builder Rd","company_name":"Evergreen Construction Co","ssn_tax_id":"111111118"}}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-04T13:39:28Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}

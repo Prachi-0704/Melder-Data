@@ -1,0 +1,61 @@
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"India Bank of Union Corporation","ssn_tax_id":"24242424","entity_id":"A008","address_line1":"175 Bryan Lane","duns":"4433228"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A013","company_name":"The Bank of India Union","address_line1":"175 Bryan Lane","ssn_tax_id":"24242424","duns":"4433233"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"4433239","entity_id":"A019","company_name":"Union Bank of India Solutions","address_line1":"Bryan Lane 175","ssn_tax_id":"24242424","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","entity_id":"A015","company_name":"India Bank of Union Holdings","country_code":"US","duns":"4433235"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A001","country_code":"US","duns":"4433221","address_line1":"175 Bryan Lane","ssn_tax_id":"24242424","company_name":"Union Bank of India Group"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"175 Bryan Lane","entity_id":"A011","ssn_tax_id":"24242424","company_name":"OF India Bank Union Services","duns":"4433231"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"OF India Bank Union Capital","entity_id":"A017","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","country_code":"US","duns":"4433237"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"Union Bank of India LLC","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","country_code":"US","entity_id":"A007","duns":"4433227"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A004","company_name":"Union Bank of India Capital","ssn_tax_id":"24242424","country_code":"US","address_line1":"Bryan Lane 175","duns":"4433224"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"Union Bank of India Partners","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","country_code":"US","entity_id":"A016","duns":"4433236"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"4433234","entity_id":"A014","company_name":"Union Bank of India Group","country_code":"US","address_line1":"175 Bryan Lane","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"entity_id":"A009","country_code":"US","address_line1":"Bryan Lane 175","duns":"4433229","company_name":"Union Bank of India Limited","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"company_name":"India Bank of Union Holdings","country_code":"US","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","entity_id":"A002","duns":"4433222"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"4433232","company_name":"Union Bank of India","entity_id":"A012","ssn_tax_id":"24242424","address_line1":"LAne 175 Bryan","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"LAne 175 Bryan","entity_id":"A005","country_code":"US","duns":"4433225","company_name":"Union Bank of India Enterprises","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"175 Bryan Lane","entity_id":"A003","country_code":"US","duns":"4433223","company_name":"OF India Bank Union Partners","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"175 Bryan Lane","ssn_tax_id":"24242424","country_code":"US","duns":"4433238","company_name":"Bank of India Union Enterprises","entity_id":"A018"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"24242424","entity_id":"A006","address_line1":"175 Bryan Lane","duns":"4433226","company_name":"Bank of India Union Solutions","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"address_line1":"175 Bryan Lane","company_name":"India Bank of Union LLC","ssn_tax_id":"24242424","duns":"4433240","entity_id":"A020","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"a","record":{"duns":"4433230","entity_id":"A010","company_name":"Bank of India Union Company","address_line1":"175 Bryan Lane","country_code":"US","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","company_name":"Bank of India Union Enterprises","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","country_code":"US","duns":"4433234"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"24242424","entity_id":"B008","country_code":"US","duns":"4433228","company_name":"OF India Bank Union","address_line1":"175 Bryan Lane"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","duns":"4433232","company_name":"OF India Bank Union Partners","entity_id":"B012"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"24242424","country_code":"US","address_line1":"175 Bryan Lane","duns":"4433238","entity_id":"B018","company_name":"Union Bank of India Limited"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"address_line1":"175 Bryan Lane","country_code":"US","ssn_tax_id":"24242424","entity_id":"B010","company_name":"Union Bank of India Group","duns":"4433230"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"4433225","address_line1":"175 Bryan Lane","country_code":"US","entity_id":"B005","ssn_tax_id":"24242424","company_name":"India Bank of Union Limited"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B013","company_name":"India Bank of Union Capital","ssn_tax_id":"24242424","country_code":"US","address_line1":"175 Bryan Lane","duns":"4433233"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B009","duns":"4433229","company_name":"The India Bank of Union","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"4433235","country_code":"US","entity_id":"B015","address_line1":"175 Bryan Lane","ssn_tax_id":"24242424","company_name":"Union Bank of India Solutions"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B019","duns":"4433239","address_line1":"175 Bryan Lane","company_name":"Bank of India Union Company","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"duns":"4433231","company_name":"Bank of India Union Holdings","entity_id":"B011","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"4433236","address_line1":"175 Bryan Lane","entity_id":"B016","ssn_tax_id":"24242424","company_name":"OF India Bank Union LLC"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Bank of India Union Services","country_code":"US","entity_id":"B007","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","duns":"4433227"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"24242424","company_name":"Bank of India Union Corporation","address_line1":"175 Bryan Lane","duns":"4433224","entity_id":"B004","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Union Bank of India Solutions","ssn_tax_id":"24242424","duns":"4433222","entity_id":"B002","address_line1":"175 Bryan Lane","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"company_name":"Union Bank of India Services","duns":"4433240","entity_id":"B020","ssn_tax_id":"24242424","address_line1":"175 Bryan Lane","country_code":"US"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B006","country_code":"US","address_line1":"175 Bryan Lane","company_name":"OF India Bank Union Company","duns":"4433226","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"24242424","entity_id":"B003","company_name":"Union Bank of India LLC","country_code":"US","address_line1":"175 Bryan Lane","duns":"4433223"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B001","company_name":"Bank of India Union Enterprises","address_line1":"175 Bryan Lane","ssn_tax_id":"24242424","duns":"4433221"}}
+{"ts":"2026-09-02T06:42:16Z","type":"upsert_record","side":"b","record":{"entity_id":"B017","address_line1":"175 Bryan Lane","country_code":"US","company_name":"India Bank of Union Corporation","duns":"4433237","ssn_tax_id":"24242424"}}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A010","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A010","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A018","b_id":"B001","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A007","b_id":"B003","score":0.999999725818634,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A011","b_id":"B020","score":0.9866070985794068,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A009","b_id":"B005","score":0.9437784910202026,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A013","b_id":"B008","score":0.9523830064643107,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B007","side":"b","candidate_id":"A013","score":0.813602113953692,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A002","b_id":"B011","score":0.9963084101676941,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A020","b_id":"B016","score":0.9869569182395935,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B006","side":"b","candidate_id":"A008","score":0.845078113572351,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A008","b_id":"B017","score":0.9999993681907654,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A017","b_id":"B013","score":0.9842327475547791,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B004","side":"b","candidate_id":"A018","score":0.8331020520579431,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A006","b_id":"B002","score":0.9946620106697083,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B018","side":"b","candidate_id":"A007","score":0.8136943511962892,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B009","side":"b","candidate_id":"A011","score":0.8191704394732537,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A019","b_id":"B015","score":0.9500000000000001,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A003","b_id":"B012","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"crossmap_confirm","a_id":"A001","b_id":"B010","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:42:16Z","type":"review_match","id":"B019","side":"b","candidate_id":"A002","score":0.8227578877897157,"rank":3,"reason":"top_scoring"}

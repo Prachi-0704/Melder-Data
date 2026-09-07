@@ -1,0 +1,31 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Banco de Crédito Group,998877,410 Calle Real,ES,775511
+A002,Banque de France Holdings,557788,15 Rue de l'Économie,FR,775512
+A003,Banco de Crédito Partners,998877,410 Calle Real,ES,775513
+A004,Banque de France Capital,557788,15 Rue de l'Économie,FR,775514
+A005,Banco de Crédito Enterprises,998877,410 Calle Real,ES,775515
+A006,Banque de France Solutions,557788,15 Rue de l'Économie,FR,775516
+A007,Banco de Crédito LLC,998877,410 Calle Real,ES,775517
+A008,Banque de France Corporation,557788,15 Rue de l'Économie,FR,775518
+A009,Banco de Crédito Limited,998877,410 Calle Real,ES,775519
+A010,Banque de France Company,557788,15 Rue de l'Économie,FR,775520
+A011,Banco de Crédito Services,998877,410 Calle Real,ES,775521
+A012,Banque de France,557788,15 Rue de l'Économie,FR,775522
+A013,The Banco de Crédito,998877,410 Calle Real,ES,775523
+A014,Banque de France Group,557788,15 Rue de l'Économie,FR,775524
+A015,Banco de Crédito Holdings,998877,410 Calle Real,ES,775525
+A016,Banque de France Partners,557788,15 Rue de l'Économie,FR,775526
+A017,Banco de Crédito Capital,998877,410 Calle Real,ES,775527
+A018,Banque de France Enterprises,557788,15 Rue de l'Économie,FR,775528
+A019,Banco de Crédito Solutions,998877,410 Calle Real,ES,775529
+A020,Banque de France LLC,557788,15 Rue de l'Économie,FR,775530
+A021,Bank für Deutschland GmbH,662233,12 Berliner Strasse,DE,775531
+A022,Banco de Crédito Brasil,998999,410 Rua Real,BR,775532
+A023,Banca Italiana S.p.A.,663344,5 Via Roma,IT,775533
+A024,Bank Nederland BV,664455,3 Amsterdamweg,NL,775534
+A025,Banque Suédoise AB,665566,7 Stockholmgatan,SE,775535
+A026,Banco Português SA,666677,22 Rua de Lisboa,PT,775536
+A027,Banca della Repubblica,667788,8 Via Milano,IT,775537
+A028,Deutsche Kreditbank AG,668899,9 Hauptstrasse,DE,775538
+A029,Banco do Brasil Holdings,669900,11 Avenida Central,BR,775539
+A030,Banque Internationale,670011,14 Rue Internationale,FR,775540

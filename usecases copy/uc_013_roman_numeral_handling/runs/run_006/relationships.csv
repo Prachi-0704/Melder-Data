@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,,match,crossmap,,101 Innovation Boulevard,Apollo IV Technologies,US,123456781
+B002,A002,0.7541,review,top_scoring,1,205 Market Avenue,Vertex V Holdings Limited,US,123456782
+B003,A003,,match,crossmap,,310 Finance Street,Century IX Financial Services,US,123456783
+B004,A004,0.7696,review,top_scoring,1,415 Technology Park,Quantum X Solutions Incorporated,US,123456784
+B005,A005,,match,crossmap,,520 Enterprise Drive,Orion XI Consulting Group,US,123456785
+B006,A006,0.8093,review,top_scoring,1,625 Industrial Road,Atlas XII Industries Corporation,US,123456786
+B007,A007,,match,crossmap,,730 Finance Boulevard,Meridian XV Capital Partners,US,123456787
+B008,A008,0.7708,review,top_scoring,1,835 Harbor Avenue,Pacific XX Trading Company,US,123456788
+B009,A009,,match,crossmap,,940 Logistics Drive,Everest XL Logistics Limited,US,123456789
+B010,A010,0.7736,review,top_scoring,1,1045 Production Road,Summit L Manufacturing Incorporated,US,223456781
+B011,A011,,match,crossmap,,115 Technology Avenue,Nova XC Digital Systems,US,223456782
+B012,A012,0.8659,match,top_scoring,1,220 Wall Street,Heritage C Investment Group,US,223456783
+B013,A013,,match,crossmap,,325 Energy Drive,Phoenix III Energy Corporation,US,223456784
+B014,A014,0.8753,match,top_scoring,1,430 Ocean Boulevard,Bluewater VI Marine Services,US,223456785
+B015,A015,,match,crossmap,,535 Builder Road,Ironwood VII Construction Limited,US,223456786
+B016,A016,0.8152,review,top_scoring,1,640 Development Avenue,Redstone VIII Infrastructure Group,US,223456787
+B017,A017,,match,crossmap,,745 Medical Park Drive,Silverline XIII Healthcare Solutions,US,223456788
+B018,A018,0.8122,review,top_scoring,1,850 Farm Road,Greenfield XIV Agricultural Corporation,US,223456789
+B019,A019,,match,crossmap,,955 Property Avenue,Westbridge XVI Real Estate Holdings,US,323456781
+B020,A020,0.8607,match,top_scoring,1,1060 Commerce Drive,Northstar XXI Retail Group,US,323456782

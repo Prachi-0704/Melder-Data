@@ -1,0 +1,8 @@
+{
+  "spec_hash": "661f8860",
+  "blocking_hash": "a2e88092",
+  "model": "all-MiniLM-L6-v2",
+  "record_count": 40,
+  "built_at": "2026-09-04T07:46:46Z",
+  "source_fingerprint": "2601:1788507970"
+}

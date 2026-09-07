@@ -1,0 +1,8 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A1,Goldman Sachs Group,555666777,200 West Street,US,444555666
+A2,Target Holdings,111222333,1000 Nicollet Mall,US,654321987
+A3,Wells Fargo Partners,123456789,36A Wabeno Avenue,US,781436
+A4,Bank of America Capital,333444555,100 N Tryon St,US,888777666
+A5,Uber Technologies Enterprises,222333444,1515 3rd St,US,765432109
+A6,JPMorgan Chase Solutions,987654321,270 Park Avenue,US,999111222
+A7,Citigroup LLC,777888999,388 Greenwich St,US,222333444

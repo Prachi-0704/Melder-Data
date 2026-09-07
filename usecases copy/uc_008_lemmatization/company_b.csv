@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Global Management Solution Inc.,123456781,101 Market St,US,987654321
+B002,Enterprise Resolving Services Corp.,888888882,205 Technology Ave,US,987654322
+B003,Advanced Analysis System Ltd.,123456783,310 Finance Blvd,GB,111111113
+B004,Customer Relationship Manager L.L.C.,888888884,415 Business Rd,US,987654324
+B005,Digital Operation Service Grp.,123456785,520 Innovation Dr,US,222222225
+B006,Cloud Computing Technology Inc,888888886,625 Enterprise Ave,US,987654326
+B007,Financial Transaction Service Holdings,123456787,730 Finance St,US,333333337
+B008,Supply Chain Planning Solution Ltd,888888888,835 Logistics Rd,GB,987654328
+B009,Customer Support Service Corp.,123456789,940 Service Ave,US,444444449
+B010,Enterprise Security Operating Co.,999999991,1045 Cyber Park,US,987654330
+B011,Data Quality Improving Technologies,223456782,115 Data Center Dr,US,555555551
+B012,Business Intelligence Reporting Service LLP,999999992,220 Analytics Blvd,US,987654332
+B013,Product Information System Inc.,223456784,325 Commerce St,US,666666663
+B014,Document Processing Solution Corp.,999999994,430 Workflow Ave,US,987654334
+B015,Revenue Forecasting Service Grp,223456786,535 Finance Dr,US,777777775
+B016,Identity Verifying Solution Pvt. Ltd.,999999996,640 Security Rd,IN,987654336
+B017,Vendor Relationship Service Corp.,223456788,745 Procurement Ave,US,888888887
+B018,Payment Reconciliation Solution Ltd.,999999998,850 Payment St,GB,987654338
+B019,Enterprise Governance System Holdings LLC,323456781,955 Governance Blvd,US,999999999
+B020,Operational Performance Solution Inc.,999999990,1060 Operations Dr,US,987654340

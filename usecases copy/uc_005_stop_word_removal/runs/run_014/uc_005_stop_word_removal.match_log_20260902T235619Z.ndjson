@@ -1,0 +1,64 @@
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"company_name":"Johnson and Johnson Holdings","entity_id":"A017","address_line1":"1 Market Street","country_code":"US","duns":"454663","ssn_tax_id":"89786762"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"The Goldman Sachs Group","duns":"454647","address_line1":"301 Tyvola Street","ssn_tax_id":"89786759","entity_id":"A001"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"address_line1":"302 Tyvola Street","country_code":"US","entity_id":"A006","company_name":"Goldman Sachs Holdings","duns":"454652","ssn_tax_id":"89786760"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"entity_id":"A005","ssn_tax_id":"89786759","company_name":"The Goldman and Sachs Group","duns":"454651","address_line1":"301 Tyvola Street","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"address_line1":"1 Market Street","entity_id":"A016","ssn_tax_id":"89786762","company_name":"Johnson & Johnson Holdings","country_code":"US","duns":"454662"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"entity_id":"A014","company_name":"Bank and America Corporation","duns":"454660","address_line1":"100 Main Street","country_code":"US","ssn_tax_id":"89786761"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"address_line1":"302 Tyvola Street","duns":"454653","entity_id":"A007","ssn_tax_id":"89786760","country_code":"US","company_name":"The Goldman Sachs Holdings"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"company_name":"The Goldman and Sachs Holdings","country_code":"US","address_line1":"302 Tyvola Street","ssn_tax_id":"89786760","duns":"454656","entity_id":"A010"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786761","entity_id":"A015","company_name":"Bank America and Corporation","country_code":"US","duns":"454661","address_line1":"100 Main Street"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"entity_id":"A004","ssn_tax_id":"89786759","country_code":"US","duns":"454650","company_name":"Goldman & Sachs Group","address_line1":"301 Tyvola Street"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"entity_id":"A012","address_line1":"100 Main Street","country_code":"US","ssn_tax_id":"89786761","duns":"454658","company_name":"Bank America Corporation"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"address_line1":"302 Tyvola Street","entity_id":"A008","ssn_tax_id":"89786760","company_name":"Goldman and Sachs Holdings","duns":"454654","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"address_line1":"301 Tyvola Street","entity_id":"A003","ssn_tax_id":"89786759","duns":"454649","company_name":"Goldman and Sachs Group","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"address_line1":"1 Market Street","company_name":"Johnson of Johnson Holdings","ssn_tax_id":"89786762","country_code":"US","entity_id":"A019","duns":"454665"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"301 Tyvola Street","ssn_tax_id":"89786759","entity_id":"A002","company_name":"Goldman Sachs Group","duns":"454648"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"company_name":"Goldman Sachs and Holdings","duns":"454655","ssn_tax_id":"89786760","address_line1":"302 Tyvola Street","country_code":"US","entity_id":"A009"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"company_name":"The Johnson and Johnson Holdings","ssn_tax_id":"89786762","country_code":"US","address_line1":"1 Market Street","duns":"454666","entity_id":"A020"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"89786762","country_code":"US","duns":"454664","entity_id":"A018","company_name":"The Johnson Johnson Holdings","address_line1":"1 Market Street"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"address_line1":"100 Main Street","duns":"454657","country_code":"US","company_name":"Bank of America Corporation","entity_id":"A011","ssn_tax_id":"89786761"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"a","record":{"duns":"454659","country_code":"US","ssn_tax_id":"89786761","company_name":"The Bank of America Corporation","entity_id":"A013","address_line1":"100 Main Street"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"company_name":"Bank America Corporation","ssn_tax_id":"900015","entity_id":"B015","address_line1":"100 Main St","duns":"900015","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"duns":"900003","ssn_tax_id":"89786759","company_name":"The Goldman Sachs Group","address_line1":"301 Tyvola St","entity_id":"B003","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"company_name":"Bank America Corporation","entity_id":"B013","address_line1":"100 Main St","ssn_tax_id":"89786761","country_code":"US","duns":"900013"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B008","duns":"900008","company_name":"Goldman Sachs Holdings","ssn_tax_id":"89786760","address_line1":"302 Tyvola St"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"company_name":"Bank America Corporation","address_line1":"100 Main St","ssn_tax_id":"89786761","duns":"900011","entity_id":"B011","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"company_name":"Goldman Sachs Group","country_code":"US","entity_id":"B005","address_line1":"301 Tyvola St","duns":"900005","ssn_tax_id":"900005"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"company_name":"Johnson Johnson Holdings","country_code":"US","ssn_tax_id":"89786762","entity_id":"B016","address_line1":"1 Market St","duns":"900016"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"country_code":"US","entity_id":"B012","duns":"454658","ssn_tax_id":"900012","company_name":"Bank America Corporation","address_line1":"100 Main Street"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"duns":"454655","ssn_tax_id":"900009","entity_id":"B009","company_name":"The Goldman Sachs Holdings","address_line1":"302 Tyvola Street","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"duns":"454663","ssn_tax_id":"900017","entity_id":"B017","company_name":"Johnson Johnson Holdings","address_line1":"1 Market Street","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"89786759","country_code":"US","duns":"900001","company_name":"Goldman Sachs Group","address_line1":"301 Tyvola St","entity_id":"B001"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"address_line1":"100 Main Street","country_code":"US","ssn_tax_id":"900014","entity_id":"B014","duns":"454660","company_name":"Bank America Corporation"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"entity_id":"B020","company_name":"Johnson Johnson Holdings","ssn_tax_id":"900020","address_line1":"1 Market St","country_code":"US","duns":"900020"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"company_name":"Johnson Johnson Holdings","entity_id":"B019","address_line1":"1 Market Street","country_code":"US","ssn_tax_id":"900019","duns":"454665"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"company_name":"Goldman Sachs Holdings","country_code":"US","duns":"454653","address_line1":"302 Tyvola Street","ssn_tax_id":"900007","entity_id":"B007"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"entity_id":"B006","country_code":"US","duns":"900006","company_name":"The Goldman Sachs Holdings","address_line1":"302 Tyvola St","ssn_tax_id":"89786760"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"900002","entity_id":"B002","company_name":"Goldman and Sachs Group","address_line1":"301 Tyvola Street","duns":"454648"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"89786762","company_name":"Johnson Johnson Holdings","address_line1":"1 Market St","entity_id":"B018","country_code":"US","duns":"900018"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"entity_id":"B004","address_line1":"301 Tyvola Street","ssn_tax_id":"900004","country_code":"US","duns":"454650","company_name":"Goldman Sachs Group"}}
+{"ts":"2026-09-02T23:56:19Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"900010","duns":"900010","company_name":"Goldman and Sachs Holdings","entity_id":"B010","address_line1":"302 Tyvola St","country_code":"US"}}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A002","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A009","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A018","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A002","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A009","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A018","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A004","b_id":"B005","score":0.9277319574356079,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A003","b_id":"B002","score":0.9999999046325684,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A007","b_id":"B006","score":0.9499998450279236,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A006","b_id":"B007","score":1.0,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A016","b_id":"B020","score":0.9279260559082031,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A010","b_id":"B009","score":0.9674625203189389,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":0.9183596017083809,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A014","b_id":"B015","score":0.907911860937808,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":0.9103024283020642,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A019","b_id":"B018","score":0.9134601638313914,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A017","b_id":"B019","score":0.9626699252351959,"rank":4,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A020","b_id":"B017","score":0.9319613013292578,"rank":5,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A005","b_id":"B004","score":0.9244286145143813,"rank":5,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A008","b_id":"B010","score":0.9499996066093445,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T23:56:19Z","type":"crossmap_confirm","a_id":"A015","b_id":"B014","score":0.9421864867160062,"rank":4,"reason":"top_scoring"}

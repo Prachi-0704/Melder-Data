@@ -1,0 +1,20 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,0.7969,review,top_scoring,1,200 Main St.,"O'Connor & Sons, LLC",US,321-54-8976
+B002,A002,0.8404,review,top_scoring,1,101 Main St.,Smith-Jones Co.,US,381-54-8976
+B003,A003,0.8870,match,top_scoring,1,102 Main St.,"Acme, Inc.",US,398-54-8976
+B004,A004,0.9199,match,top_scoring,1,103 Commerce Ave,Foo/Bar Technologies,US,873-54-8746
+B005,A005,0.9368,match,top_scoring,1,104 Commerce Ave,Gamma+Delta Enterprises,US,521-54-1376
+B006,A006,0.8501,match,top_scoring,1,105 Market St.,Baker & McKenzie LLP,US,881-54-8656
+B007,A007,0.8649,match,top_scoring,1,106 Market St,AT&T Services,US,881-54-8956
+B008,A008,0.8551,match,top_scoring,1,107 Supply Rd.,"John's ""Quality"" Supplies",US,321-54-8976
+B009,A009,0.8809,match,top_scoring,1,108 Industry Blvd,Widget Co. (R&D),US,651-54-8125
+B010,A010,0.7691,review,top_scoring,1,109 Corporate Way,Mega—Corp International,US,321-54-8221
+B012,A012,0.6601,review,top_scoring,1,111 Home Dr,Hello@Home Ventures,US,309-54-8666
+B013,A013,0.9438,match,top_scoring,1,112 Percent Pl.,Percent% Solutions,US,321-54-8336
+B014,A014,0.8808,match,top_scoring,1,113 Auto Pkwy,Trim & Go!,US,341-54-3476
+B015,A011,,match,crossmap,,110 Bistro Ln,Cafe & Co.,US,321-54-8976
+B016,A016,0.9135,match,top_scoring,1,115 Line Rd,Two--Dash Industries,US,321-54-4476
+B017,A017,0.8082,review,top_scoring,1,116 Dot St,Ellipsis Ltd...,US,341-54-5976
+B018,A018,0.9065,match,top_scoring,1,117 Bracket Way,Brackets [Global] Inc.,US,321-54-8196
+B019,A019,0.7108,review,top_scoring,1,118 Path Ln,Slash/Back\\Corp,US,321-54-4376
+B020,A020,0.8253,review,top_scoring,1,119 Quote Rd,Quotes 'Single' Co.,US,721-54-8990

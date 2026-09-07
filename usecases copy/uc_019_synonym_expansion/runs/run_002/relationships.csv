@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,duns,ssn_tax_id
+B001,A001,,match,crossmap,,300 Oslo Avenue,ABC Company Group,US,1111111,2309091
+B002,A002,,match,crossmap,,300 Oslo Ave,ABC Firm Holdings,US,1111112,2309091
+B003,A003,,match,crossmap,,220 Redwood Street,Global Financial Partners,US,367689,31031034
+B004,A004,,match,crossmap,,220 Redwood St,Global Finance Holding Capital,US,367690,31031034
+B005,A005,,match,crossmap,,300 Oslo Avenue,ABC Company Enterprises,US,1111113,2309091
+B006,A006,,match,crossmap,,300 Oslo Ave,ABC Firm Solutions,US,1111114,2309091
+B007,A007,,match,crossmap,,220 Redwood Street,Global Financial LLC,US,367691,31031034
+B008,A008,,match,crossmap,,220 Redwood St,Global Finance Holding Corporation,US,367692,31031034
+B009,A009,,match,crossmap,,300 Oslo Avenue,ABC Company Limited,US,1111115,2309091
+B010,A010,,match,crossmap,,300 Oslo Ave,ABC Firm Company,US,1111116,2309091
+B011,A011,,match,crossmap,,220 Redwood Street,Global Financial Services,US,367693,31031034
+B012,A012,,match,crossmap,,220 Redwood St,Global Finance Holding,US,367694,31031034
+B013,A013,,match,crossmap,,300 Oslo Avenue,The ABC Company,US,1111117,2309091
+B014,A014,,match,crossmap,,300 Oslo Ave,ABC Firm Group,US,1111118,2309091
+B015,A015,,match,crossmap,,220 Redwood Street,Global Financial Holdings,US,367695,31031034
+B016,A016,,match,crossmap,,220 Redwood St,Global Finance Holding Partners,US,367696,31031034
+B017,A017,,match,crossmap,,300 Oslo Avenue,ABC Company Capital,US,1111119,2309091
+B018,A018,,match,crossmap,,300 Oslo Ave,ABC Firm Enterprises,US,1111120,2309091
+B019,A019,,match,crossmap,,220 Redwood Street,Global Financial Solutions,US,367697,31031034
+B020,A020,,match,crossmap,,220 Redwood St,Global Finance Holding LLC,US,367698,31031034

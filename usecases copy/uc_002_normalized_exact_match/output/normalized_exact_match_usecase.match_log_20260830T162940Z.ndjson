@@ -1,0 +1,22 @@
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"a","record":{"entity_id":"A4","company_name":"WELLS FARGO","duns":"781436","ssn_tax_id":"123456789","country_code":"US","address_line1":"36A WABENO AVENUE"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"a","record":{"company_name":"Wells Fargo","country_code":"US","duns":"781436","ssn_tax_id":"123456789","entity_id":"A1","address_line1":"36A Wabeno Avenue"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"a","record":{"entity_id":"A6","ssn_tax_id":"123456789","company_name":"Wells Fargo","address_line1":"36A Wabeno Avenue","country_code":"US","duns":"781436"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"a","record":{"address_line1":"36A Wabeno Avenue","duns":"781436","ssn_tax_id":"123456789","country_code":"US","entity_id":"A2","company_name":"Wells Fargo"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"a","record":{"country_code":"US","duns":"781436","ssn_tax_id":"123456789","entity_id":"A5","company_name":"Wells Fargo","address_line1":"36A WABENO Avenue"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"a","record":{"company_name":"Fargo Wells","address_line1":"36A Wabeno Avenue","country_code":"US","duns":"781436","ssn_tax_id":"123456789","entity_id":"A3"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"a","record":{"duns":"999999","country_code":"US","address_line1":"100 Main Street","ssn_tax_id":"987654321","entity_id":"A7","company_name":"Wells Fargo"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"b","record":{"duns":"781436","country_code":"US","ssn_tax_id":"123456789","company_name":"Fargo Wells","entity_id":"B3","address_line1":"36A Wabeno Avenue"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"b","record":{"address_line1":"36A Wabeno Avenue","duns":"999999","entity_id":"B7","country_code":"US","ssn_tax_id":"123456789","company_name":"Wells Fargo"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"b","record":{"company_name":"Wells Fargo","ssn_tax_id":"123456789","entity_id":"B1","country_code":"US","duns":"781436","address_line1":"36A Wabeno Avenue"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"b","record":{"duns":"781436","ssn_tax_id":"123456789","company_name":"Wells Fargo","address_line1":"36A Wabeno Avenue","entity_id":"B2","country_code":"US"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"123456789","duns":"781436","company_name":"Wells Fargo","entity_id":"B6","address_line1":"36A Wabeno Avenue"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"781436","entity_id":"B4","company_name":"WELLS FARGO","address_line1":"36A WABENO Avenue","ssn_tax_id":"123456789"}}
+{"ts":"2026-08-30T16:29:40Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Wells Fargo","entity_id":"B5","ssn_tax_id":"123456789","duns":"781436","address_line1":"36A Wabeno Avenue"}}
+{"ts":"2026-08-30T16:29:40Z","type":"crossmap_confirm","a_id":"A3","b_id":"B3","score":1.0,"reason":"exact"}
+{"ts":"2026-08-30T16:29:40Z","type":"crossmap_confirm","a_id":"A3","b_id":"B3","reason":"crossmap"}
+{"ts":"2026-08-30T16:29:40Z","type":"no_match_below","query_id":"B2","query_side":"b"}
+{"ts":"2026-08-30T16:29:40Z","type":"no_match_below","query_id":"B4","query_side":"b"}
+{"ts":"2026-08-30T16:29:40Z","type":"no_match_below","query_id":"B7","query_side":"b"}
+{"ts":"2026-08-30T16:29:40Z","type":"no_match_below","query_id":"B5","query_side":"b"}
+{"ts":"2026-08-30T16:29:40Z","type":"no_match_below","query_id":"B1","query_side":"b"}
+{"ts":"2026-08-30T16:29:40Z","type":"no_match_below","query_id":"B6","query_side":"b"}

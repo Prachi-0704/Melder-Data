@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A008,0.8366,review,top_scoring,1,150 Future Street,Amazan Corporation,US,13131313
+B002,A006,1.0000,match,top_scoring,1,150 Future Street,Amazaan Solutions,US,13131313
+B003,A013,0.7581,review,top_scoring,1,150 Future Street,The Amazon,US,13131313
+B004,A010,0.8150,review,top_scoring,1,150 Eutare Street,Amazoon Company,US,13131313
+B005,A020,0.7437,review,top_scoring,1,150 Eutare Street,Amazoon LLC,US,13131313
+B006,A010,0.7672,review,top_scoring,1,150 Eutare Street,Amazoon Company,US,13131313
+B007,A005,0.7370,review,top_scoring,1,150 Future Street,Amazon Enterprises,US,13131313
+B008,A012,0.9500,match,top_scoring,1,150 Eutucce St,Amazxyo,US,13131313
+B009,A011,0.7284,review,top_scoring,1,150 Future Street,Amazaan Services,US,13131313
+B010,A014,1.0000,match,top_scoring,1,150 Future Street,Amazan Group,US,13131313
+B011,A005,0.7468,review,top_scoring,1,150 Future Street,Amazon Enterprises,US,13131313
+B012,A018,,match,crossmap,,150 Future Street,Amazaan Enterprises,US,13131313
+B013,A004,0.9500,match,top_scoring,1,150 Eutare Street,Amazxyo Capital,US,13131313
+B014,A011,0.7753,review,top_scoring,2,150 Future Street,Amazaan Services,US,13131313
+B015,A005,0.6898,review,top_scoring,1,150 Future Street,Amazon Enterprises,US,13131313
+B016,A013,0.7581,review,top_scoring,1,150 Future Street,The Amazon,US,13131313
+B017,A002,0.7891,review,top_scoring,2,150 Future Street,Amazan Holdings,US,13131313
+B018,A020,0.7437,review,top_scoring,1,150 Eutare Street,Amazoon LLC,US,13131313
+B019,A008,0.8677,match,top_scoring,1,150 Future Street,Amazan Corporation,US,13131313
+B020,A011,1.0000,match,top_scoring,1,150 Future Street,Amazaan Services,US,13131313

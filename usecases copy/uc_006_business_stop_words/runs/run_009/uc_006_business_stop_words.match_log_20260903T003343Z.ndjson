@@ -1,0 +1,70 @@
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"company_name":"Acme Technologies Incorporated","country_code":"US","address_line1":"101 Innovation Boulevard","duns":"987654321","entity_id":"A001","ssn_tax_id":"123456781"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"country_code":"DE","address_line1":"835 Berliner Straße","entity_id":"A008","duns":"987654328","ssn_tax_id":"123456788","company_name":"Müller & Söhne GmbH"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"123456786","entity_id":"A006","duns":"987654326","address_line1":"625 Industrial Road","company_name":"Sunrise Manufacturing Company"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"country_code":"US","company_name":"Future Systems International Incorporated","entity_id":"A020","address_line1":"1060 Technology Drive","duns":"987654340","ssn_tax_id":"323456782"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"address_line1":"220 Finance Boulevard","country_code":"US","entity_id":"A012","duns":"987654332","ssn_tax_id":"223456783","company_name":"Everest Capital Partners LLP"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"entity_id":"A010","ssn_tax_id":"223456781","country_code":"JP","company_name":"Nippon Trading Kabushiki Kaisha","duns":"987654330","address_line1":"1040 Sakura Avenue"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"entity_id":"A013","company_name":"Metro Urban Development Company Limited","ssn_tax_id":"223456784","duns":"987654333","country_code":"GB","address_line1":"325 City Center Road"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"duns":"987654327","country_code":"US","address_line1":"730 Corporate Avenue","company_name":"Greenfield International Group Incorporated","entity_id":"A007","ssn_tax_id":"123456787"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"entity_id":"A019","ssn_tax_id":"323456781","country_code":"US","duns":"987654339","company_name":"Diamond Pearl Holdings LLC","address_line1":"955 Pearl Street"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"address_line1":"310 Harbor Avenue","duns":"987654323","country_code":"US","company_name":"North Star Consulting LLC","entity_id":"A003","ssn_tax_id":"123456783"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"country_code":"IN","entity_id":"A005","ssn_tax_id":"123456785","company_name":"Alpha Beta Solutions Private Limited","address_line1":"520 Technology Park","duns":"987654325"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"company_name":"Global Finance Holdings Limited","address_line1":"205 Wall Street","duns":"987654322","entity_id":"A002","country_code":"US","ssn_tax_id":"123456782"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"entity_id":"A015","country_code":"US","ssn_tax_id":"223456786","address_line1":"535 Industrial Avenue","duns":"987654335","company_name":"Golden Eagle Industries Incorporated"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"duns":"987654331","country_code":"US","company_name":"Johnson & Johnson Corporation","address_line1":"115 Healthcare Drive","ssn_tax_id":"223456782","entity_id":"A011"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"address_line1":"430 Rue de Paris","ssn_tax_id":"223456785","entity_id":"A014","country_code":"FR","company_name":"Société Nouvelle de Technologie SA","duns":"987654334"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"duns":"987654338","company_name":"United Business Services Company","entity_id":"A018","ssn_tax_id":"223456789","address_line1":"850 Commerce Avenue","country_code":"US"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"entity_id":"A009","company_name":"García Servicios Sociedad Limitada","address_line1":"940 Gran Via","ssn_tax_id":"123456789","duns":"987654329","country_code":"ES"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"entity_id":"A016","company_name":"Pacific Rim Trading Corporation","ssn_tax_id":"223456787","country_code":"US","duns":"987654336","address_line1":"640 Ocean Drive"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"entity_id":"A017","address_line1":"745 Venture Road","duns":"987654337","country_code":"IN","ssn_tax_id":"223456788","company_name":"Silverline Ventures Private Limited"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"415 Market Street","duns":"987654324","company_name":"Blue Ocean Enterprises Corporation","ssn_tax_id":"123456784","entity_id":"A004"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"955 Pearl St","country_code":"US","duns":"999999991","company_name":"Diamond Pearl Holdings L.L.C.","entity_id":"B019","ssn_tax_id":"323456781"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"987654326","entity_id":"B006","ssn_tax_id":"888888886","company_name":"Sunrise Manufacturing Co.","address_line1":"625 Industrial Rd"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"123456789","duns":"999999999","entity_id":"B009","address_line1":"940 Gran Vía","country_code":"ES","company_name":"Garcia Servicios S.L."}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"duns":"987654328","company_name":"Muller and Sohne G.m.b.H.","address_line1":"835 Berliner Strasse","entity_id":"B008","ssn_tax_id":"888888888","country_code":"DE"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"company_name":"Alpha Beta Solutions Pvt. Ltd.","ssn_tax_id":"123456785","address_line1":"520 Technology Park","country_code":"IN","duns":"333333335","entity_id":"B005"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"country_code":"US","address_line1":"101 Innovation Boulevard","company_name":"ACME TECHNOLOGIES INC.","entity_id":"B001","duns":"987654321","ssn_tax_id":"123456781"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"888888884","address_line1":"415 Market St","company_name":"Blue Ocean Enterprises Corp.","country_code":"US","duns":"987654324","entity_id":"B004"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"1040 Sakura Ave","ssn_tax_id":"777777771","company_name":"Nippon Trading KK","entity_id":"B010","country_code":"JP","duns":"987654330"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"company_name":"Greenfield International Group Inc.","entity_id":"B007","address_line1":"730 Corporate Ave","ssn_tax_id":"123456787","duns":"987654327","country_code":"US"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"310 Harbor Ave","ssn_tax_id":"123456783","entity_id":"B003","company_name":"North Star Consulting L.L.C.","country_code":"US","duns":"222222223"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"1060 Technology Dr","country_code":"US","duns":"987654340","company_name":"Future Systems International Inc.","ssn_tax_id":"777777770","entity_id":"B020"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"duns":"987654322","ssn_tax_id":"888888882","company_name":"Global Finance Holdings Ltd.","entity_id":"B002","country_code":"US","address_line1":"205 Wall St"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"777777772","address_line1":"220 Finance Blvd","duns":"987654332","country_code":"US","company_name":"Everest Capital Partners L.L.P.","entity_id":"B012"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"entity_id":"B014","country_code":"FR","address_line1":"430 Rue Paris","ssn_tax_id":"777777774","duns":"987654334","company_name":"Societe Nouvelle de Technologie S.A."}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"640 Ocean Dr","entity_id":"B016","ssn_tax_id":"777777776","country_code":"US","company_name":"Pacific Rim Trading Corp.","duns":"987654336"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"entity_id":"B011","company_name":"Johnson and Johnson Corp.","country_code":"US","address_line1":"115 Healthcare Dr","duns":"987654331","ssn_tax_id":"223456782"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"325 City Centre Rd","ssn_tax_id":"223456784","duns":"333333333","country_code":"GB","company_name":"Metro Urban Development Co. Ltd.","entity_id":"B013"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"745 Venture Rd","ssn_tax_id":"223456788","company_name":"Silverline Ventures Pvt Ltd","duns":"777777777","country_code":"IN","entity_id":"B017"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"address_line1":"850 Commerce Ave","company_name":"United Business Services Co.","entity_id":"B018","duns":"987654338","country_code":"US","ssn_tax_id":"777777778"}}
+{"ts":"2026-09-03T00:33:43Z","type":"upsert_record","side":"b","record":{"company_name":"Golden Eagle Industries Inc.","address_line1":"535 Industrial Ave","country_code":"US","ssn_tax_id":"223456786","entity_id":"B015","duns":"555555555"}}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-03T00:33:43Z","type":"review_match","id":"B010","side":"b","candidate_id":"A010","score":0.7986107119851291,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":0.8789402749578832,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":0.8933386969566346,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":0.8935047392117775,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":0.8888027864533502,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":0.908425067530738,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":0.915081214135693,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":0.9061657530920847,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":0.8996731747899737,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-03T00:33:43Z","type":"review_match","id":"B008","side":"b","candidate_id":"A008","score":0.6411185638471084,"rank":1,"reason":"top_scoring"}

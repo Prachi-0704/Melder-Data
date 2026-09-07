@@ -1,0 +1,150 @@
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"123456784","address_line1":"410 Terry Avenue North","company_name":"Amazon.com Incorporated","entity_id":"A004","duns":"987654324","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"country_code":"US","entity_id":"A002","company_name":"Apple Incorporated","duns":"987654322","ssn_tax_id":"123456782","address_line1":"1 Infinite Loop"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"200 Bay Street","company_name":"Royal Bank of Canada","country_code":"CA","duns":"987654343","ssn_tax_id":"323456785","entity_id":"A023"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Procter and Gamble Company","ssn_tax_id":"123456787","entity_id":"A007","country_code":"US","duns":"987654327","address_line1":"1 P&G Plaza"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"entity_id":"A011","company_name":"PepsiCo Incorporated","country_code":"US","duns":"987654331","ssn_tax_id":"223456782","address_line1":"700 Anderson Hill Road"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"2300 Oracle Way","ssn_tax_id":"423456785","entity_id":"A032","country_code":"US","duns":"987654352","company_name":"Oracle Corporation"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"country_code":"US","address_line1":"700 Innovation Drive","company_name":"Orion Technologies Incorporated","ssn_tax_id":"423456789","duns":"987654356","entity_id":"A036"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Siemens AG","entity_id":"A025","ssn_tax_id":"323456787","address_line1":"Werner-von-Siemens-Strasse 1","duns":"987654345","country_code":"DE"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"duns":"987654340","ssn_tax_id":"323456782","company_name":"HSBC Holdings plc","entity_id":"A020","address_line1":"8 Canada Square","country_code":"GB"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Morgan Stanley","country_code":"US","ssn_tax_id":"323456781","entity_id":"A019","address_line1":"1585 Broadway","duns":"987654339"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"800 Industrial Road","country_code":"US","entity_id":"A037","company_name":"Global Manufacturing Limited","ssn_tax_id":"523456781","duns":"987654357"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"entity_id":"A016","company_name":"American Express Company","address_line1":"200 Vesey Street","duns":"987654336","country_code":"US","ssn_tax_id":"223456787"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"123456785","address_line1":"1 Johnson and Johnson Plaza","entity_id":"A005","company_name":"Johnson and Johnson","country_code":"US","duns":"987654325"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"duns":"987654348","entity_id":"A028","ssn_tax_id":"423456781","country_code":"JP","company_name":"Sony Group Corporation","address_line1":"1-7-1 Konan"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Mastercard Incorporated","address_line1":"2000 Purchase Street","ssn_tax_id":"223456785","country_code":"US","entity_id":"A014","duns":"987654334"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"123456788","company_name":"General Electric Company","country_code":"US","duns":"987654328","entity_id":"A008","address_line1":"5 Necco Street"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"duns":"987654355","entity_id":"A035","address_line1":"500 Market Street","country_code":"US","company_name":"American Bank Corporation","ssn_tax_id":"423456788"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"International Business Machines Corporation","entity_id":"A006","address_line1":"1 New Orchard Road","duns":"987654326","country_code":"US","ssn_tax_id":"123456786"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"2455 Paces Ferry Road","ssn_tax_id":"223456784","country_code":"US","duns":"987654333","entity_id":"A013","company_name":"The Home Depot Incorporated"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Nestle SA","duns":"987654349","address_line1":"Avenue Nestle 55","entity_id":"A029","ssn_tax_id":"423456782","country_code":"CH"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"100 Main Street","country_code":"US","company_name":"Bank of America Corporation","ssn_tax_id":"123456781","entity_id":"A001","duns":"987654321"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"55 Glenlake Parkway","company_name":"United Parcel Service Incorporated","ssn_tax_id":"123456789","duns":"987654329","entity_id":"A009","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","country_code":"US","company_name":"JPMorgan Chase and Company","duns":"987654338","ssn_tax_id":"223456789","address_line1":"383 Madison Avenue"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"entity_id":"A021","address_line1":"Taunusanlage 12","ssn_tax_id":"323456783","country_code":"DE","duns":"987654341","company_name":"Deutsche Bank Aktiengesellschaft"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Samsung Electronics Company Limited","entity_id":"A026","address_line1":"129 Samsung-ro","duns":"987654346","country_code":"KR","ssn_tax_id":"323456788"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"1000 Logistics Drive","duns":"987654359","entity_id":"A039","ssn_tax_id":"523456783","company_name":"Northstar Logistics Corporation","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"duns":"987654337","country_code":"US","company_name":"Goldman Sachs Group Incorporated","entity_id":"A017","ssn_tax_id":"223456788","address_line1":"200 West Street"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"1 Infinite Loop","entity_id":"A034","country_code":"US","duns":"987654354","ssn_tax_id":"423456787","company_name":"Apple Financial Services"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Toyota Motor Corporation","address_line1":"1 Toyota-cho","country_code":"JP","ssn_tax_id":"323456789","entity_id":"A027","duns":"987654347"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"country_code":"GB","duns":"987654350","company_name":"Unilever PLC","entity_id":"A030","address_line1":"100 Victoria Embankment","ssn_tax_id":"423456783"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Barclays plc","address_line1":"1 Churchill Place","entity_id":"A022","country_code":"GB","duns":"987654342","ssn_tax_id":"323456784"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"address_line1":"702 Southwest 8th Street","duns":"987654332","entity_id":"A012","company_name":"Walmart Incorporated","ssn_tax_id":"223456783","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"duns":"987654353","entity_id":"A033","company_name":"Global Bank Corporation","ssn_tax_id":"423456786","address_line1":"20 Oak Avenue","country_code":"CA"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"United Financial Holdings","address_line1":"900 Finance Avenue","country_code":"US","entity_id":"A038","duns":"987654358","ssn_tax_id":"523456782"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Microsoft Corporation","entity_id":"A003","country_code":"US","ssn_tax_id":"123456783","address_line1":"One Microsoft Way","duns":"987654323"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"223456781","country_code":"US","duns":"987654330","entity_id":"A010","address_line1":"1 Coca-Cola Plaza","company_name":"The Coca-Cola Company"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"company_name":"Visa Incorporated","entity_id":"A015","ssn_tax_id":"223456786","duns":"987654335","address_line1":"900 Metro Center Boulevard","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"country_code":"CH","company_name":"UBS Group AG","ssn_tax_id":"323456786","entity_id":"A024","address_line1":"Bahnhofstrasse 45","duns":"987654344"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"entity_id":"A031","ssn_tax_id":"423456784","company_name":"Ford Motor Company","address_line1":"1 American Road","country_code":"US","duns":"987654351"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"a","record":{"entity_id":"A040","ssn_tax_id":"523456784","company_name":"Enterprise Data Solutions LLC","country_code":"US","duns":"987654360","address_line1":"1100 Technology Boulevard"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"Coca Cola Company","entity_id":"B010","address_line1":"1 Coca Cola Plaza","ssn_tax_id":"223456781","country_code":"US","duns":"987654330"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"entity_id":"B005","address_line1":"1 Johnson & Johnson Plaza","company_name":"Johnson & Johnson","country_code":"US","duns":"987654325","ssn_tax_id":"123456785"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"888999000","company_name":"Enterprise Data Analytics LLC","address_line1":"1100 Technology Blvd","ssn_tax_id":"888888888","entity_id":"B040"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"address_line1":"500 Market St","ssn_tax_id":"333333333","entity_id":"B035","country_code":"US","company_name":"Bank of America Financial Services","duns":"333444555"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"Amazon Com Inc.","address_line1":"410 Terry Ave N","duns":"987654324","ssn_tax_id":"123456784","entity_id":"B004"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"323456781","country_code":"US","duns":"987654339","entity_id":"B019","address_line1":"1585 Broadway","company_name":"Morgan Stanley"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"987654322","ssn_tax_id":"123456782","entity_id":"B002","address_line1":"1 Infinite Loop","company_name":"APPLE CORP."}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"987654334","ssn_tax_id":"223456785","entity_id":"B014","company_name":"MasterCard Inc.","address_line1":"2000 Purchase St"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"223456789","entity_id":"B018","address_line1":"383 Madison Ave","country_code":"US","duns":"987654338","company_name":"Chase JPMorgan & Co."}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"Global Bank Holdings","ssn_tax_id":"111111111","duns":"111222333","entity_id":"B033","address_line1":"20 Oak Ave","country_code":"CA"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"PEPSI CO INC","address_line1":"700 Anderson Hill Rd","ssn_tax_id":"223456782","country_code":"US","duns":"987654331","entity_id":"B011"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"US","company_name":"BANK OF AMERICA Corp.","duns":"987654321","entity_id":"B001","ssn_tax_id":"123456781","address_line1":"100 Main St"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"duns":"987654340","company_name":"HSBC Group","address_line1":"8 Canada Square","entity_id":"B020","ssn_tax_id":"323456782","country_code":"GB"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"entity_id":"B021","country_code":"DE","address_line1":"Taunusanlage 12","duns":"987654341","company_name":"Deutsche Bank AG","ssn_tax_id":"323456783"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"entity_id":"B009","address_line1":"55 Glenlake Pkwy","duns":"987654329","company_name":"UPS Inc.","country_code":"US","ssn_tax_id":"123456789"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"duns":"987654350","entity_id":"B030","company_name":"Unilever Public Limited Company","address_line1":"100 Victoria Embankment","ssn_tax_id":"423456783","country_code":"GB"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"GE Company","ssn_tax_id":"123456788","address_line1":"5 Necco St","country_code":"US","entity_id":"B008","duns":"987654328"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"entity_id":"B016","company_name":"AmEx Co.","address_line1":"200 Vesey St","duns":"987654336","country_code":"US","ssn_tax_id":"223456787"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"777777777","address_line1":"1000 Logistics Dr","company_name":"Northstar Logistics Group","duns":"987654359","entity_id":"B039","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"123456783","country_code":"US","duns":"987654323","company_name":"Microsoft Corp","entity_id":"B003","address_line1":"One Microsoft Way"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"223456783","address_line1":"702 SW 8th St","duns":"987654332","country_code":"US","entity_id":"B012","company_name":"Walmart Inc."}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"Apple Technology Corporation","country_code":"US","ssn_tax_id":"222222222","entity_id":"B034","duns":"222333444","address_line1":"1 Infinite Loop"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"323456787","address_line1":"Werner-von-Siemens-Str. 1","entity_id":"B025","duns":"987654345","country_code":"DE","company_name":"SIEMENS AG"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"Global Manufacturing Services Ltd.","ssn_tax_id":"555555555","entity_id":"B037","address_line1":"800 Industrial Rd","duns":"987654357","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"duns":"987654342","address_line1":"1 Churchill Pl","entity_id":"B022","company_name":"Barclays Bank PLC","ssn_tax_id":"323456784","country_code":"GB"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"Sony Corporation","ssn_tax_id":"423456781","entity_id":"B028","country_code":"JP","address_line1":"1-7-1 Konan","duns":"987654348"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"duns":"987654344","address_line1":"Bahnhofstrasse 45","entity_id":"B024","ssn_tax_id":"323456786","company_name":"UBS AG","country_code":"CH"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"US","duns":"987654326","entity_id":"B006","company_name":"IBM Corporation","ssn_tax_id":"123456786","address_line1":"1 New Orchard Rd"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"Oracle Corp.","address_line1":"2300 Oracle Way","country_code":"US","duns":"999888777","ssn_tax_id":"999999992","entity_id":"B032"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"company_name":"Orion Technologies LLC","ssn_tax_id":"444444444","duns":"444555666","country_code":"US","entity_id":"B036","address_line1":"700 Innovation Dr"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"duns":"987654333","entity_id":"B013","company_name":"Home Depot Inc.","ssn_tax_id":"223456784","address_line1":"2455 Paces Ferry Rd","country_code":"US"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"address_line1":"900 Finance Ave","country_code":"US","duns":"987654358","company_name":"United Financial Services","ssn_tax_id":"666666666","entity_id":"B038"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"duns":"987654343","ssn_tax_id":"323456785","entity_id":"B023","company_name":"RBC","address_line1":"200 Bay St","country_code":"CA"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"US","ssn_tax_id":"223456788","duns":"987654337","company_name":"Goldman Sachs Group Inc.","entity_id":"B017","address_line1":"200 West St"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"423456782","entity_id":"B029","address_line1":"Avenue Nestle 55","country_code":"CH","company_name":"Nestle S.A.","duns":"987654349"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"entity_id":"B027","company_name":"Toyota Motor Co.","ssn_tax_id":"323456789","duns":"987654347","country_code":"JP","address_line1":"1 Toyota-cho"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"duns":"987654351","country_code":"US","entity_id":"B031","company_name":"Ford Motor Co","address_line1":"1 American Rd","ssn_tax_id":"999999991"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"entity_id":"B007","address_line1":"1 P&G Plaza","country_code":"US","company_name":"P&G Company","ssn_tax_id":"123456787","duns":"987654327"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"country_code":"KR","ssn_tax_id":"323456788","duns":"987654346","company_name":"Samsung Electronics Co Ltd","address_line1":"129 Samsung-ro","entity_id":"B026"}}
+{"ts":"2026-09-04T07:46:46Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"223456786","duns":"987654335","country_code":"US","entity_id":"B015","address_line1":"900 Metro Center Blvd","company_name":"VISA Corporation"}}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A021","b_id":"B021","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A030","b_id":"B030","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A025","b_id":"B025","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A022","b_id":"B022","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A028","b_id":"B028","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A024","b_id":"B024","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A023","b_id":"B023","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A029","b_id":"B029","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A027","b_id":"B027","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A026","b_id":"B026","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A021","b_id":"B021","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A030","b_id":"B030","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A025","b_id":"B025","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A022","b_id":"B022","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A028","b_id":"B028","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A024","b_id":"B024","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A023","b_id":"B023","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A029","b_id":"B029","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A027","b_id":"B027","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A026","b_id":"B026","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-04T07:46:46Z","type":"review_match","id":"B033","side":"b","candidate_id":"A033","score":0.8116149187088013,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"review_match","id":"B034","side":"b","candidate_id":"A034","score":0.6880843400955201,"rank":2,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A032","b_id":"B032","score":0.9657475113868714,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"review_match","id":"B038","side":"b","candidate_id":"A038","score":0.7644570350646973,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A031","b_id":"B031","score":0.8688983201980591,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"review_match","id":"B037","side":"b","candidate_id":"A037","score":0.7758714437484742,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A036","b_id":"B036","score":0.9170483231544495,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"crossmap_confirm","a_id":"A039","b_id":"B039","score":0.8771458745002747,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"review_match","id":"B040","side":"b","candidate_id":"A040","score":0.8060228705406189,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-04T07:46:46Z","type":"review_match","id":"B035","side":"b","candidate_id":"A001","score":0.8447709560394288,"rank":1,"reason":"top_scoring"}

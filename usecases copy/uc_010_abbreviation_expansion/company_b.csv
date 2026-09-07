@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Mt View Tech,111111111,100 Mt View Rd,US,234567801
+B002,Intl Business Solutions,111111112,25 Global Ave,US,234567802
+B003,Greenfield Mfg Corp,111111113,450 Industrial Rd,US,234567803
+B004,Northstar Financial Svcs,111111114,88 Market St,US,234567804
+B005,Pacific Mgmt Group,111111115,120 Harbor Blvd,US,234567805
+B006,Central Dept Stores,111111116,55 Commerce Ave,US,234567806
+B007,Vertex Tech Solutions,111111117,700 Innovation Dr,US,234567807
+B008,Evergreen Construction Co,111111118,32 Builder Rd,US,234567808
+B009,Global Healthcare Svcs,111111119,900 Medical Ctr Dr,US,234567809
+B010,Westbridge Consulting Partners,111111120,15 Business Park Ave,US,234567810
+B011,Metro Transportation Corp,111111121,400 Transit St,US,234567811
+B012,Bluewater Logistics Ltd,111111122,75 Port Rd,US,234567812
+B013,Silverline Property Mgmt,111111123,220 Park Ave,US,234567813
+B014,United Engineering Inds,111111124,600 Development Blvd,US,234567814
+B015,Heritage Food Distribution Co,111111125,18 Supply Chain Rd,US,234567815
+B016,Capital Investment Mgmt,111111126,300 Finance St,US,234567816
+B017,National Retail Svcs,111111127,40 Shopping Ctr Ave,US,234567817
+B018,Advanced R&D Corp,111111128,850 Science Park Dr,US,234567818
+B019,Premier Automotive Mfg,111111129,500 Motorway Rd,US,234567819
+B020,Summit Info Tech Solutions,111111130,1000 Technology Blvd,US,234567820

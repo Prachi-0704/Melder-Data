@@ -1,0 +1,80 @@
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"557788","address_line1":"15 Rue de l'Économie","entity_id":"A020","company_name":"Banque de France LLC","country_code":"FR","duns":"775530"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"duns":"775527","entity_id":"A017","country_code":"ES","ssn_tax_id":"998877","address_line1":"410 Calle Real","company_name":"Banco de Crédito Capital"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"entity_id":"A012","company_name":"Banque de France","address_line1":"15 Rue de l'Économie","country_code":"FR","duns":"775522","ssn_tax_id":"557788"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"duns":"775526","ssn_tax_id":"557788","company_name":"Banque de France Partners","entity_id":"A016","address_line1":"15 Rue de l'Économie","country_code":"FR"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"entity_id":"A010","ssn_tax_id":"557788","address_line1":"15 Rue de l'Économie","country_code":"FR","duns":"775520","company_name":"Banque de France Company"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"duns":"775517","country_code":"ES","company_name":"Banco de Crédito LLC","address_line1":"410 Calle Real","ssn_tax_id":"998877","entity_id":"A007"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"duns":"775518","entity_id":"A008","address_line1":"15 Rue de l'Économie","company_name":"Banque de France Corporation","ssn_tax_id":"557788","country_code":"FR"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"duns":"775523","ssn_tax_id":"998877","entity_id":"A013","country_code":"ES","company_name":"The Banco de Crédito","address_line1":"410 Calle Real"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"entity_id":"A006","company_name":"Banque de France Solutions","ssn_tax_id":"557788","address_line1":"15 Rue de l'Économie","country_code":"FR","duns":"775516"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"company_name":"Banco de Crédito Enterprises","address_line1":"410 Calle Real","entity_id":"A005","ssn_tax_id":"998877","country_code":"ES","duns":"775515"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"duns":"775519","ssn_tax_id":"998877","country_code":"ES","entity_id":"A009","address_line1":"410 Calle Real","company_name":"Banco de Crédito Limited"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"998877","entity_id":"A015","country_code":"ES","duns":"775525","company_name":"Banco de Crédito Holdings","address_line1":"410 Calle Real"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"entity_id":"A001","country_code":"ES","company_name":"Banco de Crédito Group","ssn_tax_id":"998877","address_line1":"410 Calle Real","duns":"775511"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","address_line1":"15 Rue de l'Économie","country_code":"FR","company_name":"Banque de France Enterprises","ssn_tax_id":"557788","duns":"775528"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"entity_id":"A002","address_line1":"15 Rue de l'Économie","country_code":"FR","duns":"775512","ssn_tax_id":"557788","company_name":"Banque de France Holdings"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"998877","address_line1":"410 Calle Real","country_code":"ES","duns":"775513","company_name":"Banco de Crédito Partners","entity_id":"A003"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"557788","duns":"775524","entity_id":"A014","company_name":"Banque de France Group","country_code":"FR","address_line1":"15 Rue de l'Économie"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"duns":"775521","ssn_tax_id":"998877","company_name":"Banco de Crédito Services","entity_id":"A011","address_line1":"410 Calle Real","country_code":"ES"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"address_line1":"15 Rue de l'Économie","duns":"775514","entity_id":"A004","country_code":"FR","ssn_tax_id":"557788","company_name":"Banque de France Capital"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"a","record":{"address_line1":"410 Calle Real","company_name":"Banco de Crédito Solutions","entity_id":"A019","ssn_tax_id":"998877","country_code":"ES","duns":"775529"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"entity_id":"B005","ssn_tax_id":"998877","company_name":"Credit Bank Limited","address_line1":"410 Real Street","duns":"775515","country_code":"ES"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"Credit Bank Capital","address_line1":"410 Real Street","entity_id":"B013","ssn_tax_id":"998877","duns":"775523","country_code":"ES"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"French Bank Group","address_line1":"15 Rue de l'Economie","duns":"775520","entity_id":"B010","country_code":"FR","ssn_tax_id":"557788"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"Credit Bank Corporation","country_code":"ES","duns":"775527","entity_id":"B017","ssn_tax_id":"998877","address_line1":"410 Real Street"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"entity_id":"B015","company_name":"Credit Bank Solutions","country_code":"ES","address_line1":"410 Real Street","duns":"775525","ssn_tax_id":"998877"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"country_code":"FR","company_name":"French Bank LLC","ssn_tax_id":"557788","entity_id":"B016","address_line1":"15 Rue de l'Economie","duns":"775526"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"557788","duns":"775514","company_name":"French Bank Corporation","country_code":"FR","entity_id":"B004","address_line1":"15 Rue de l'Economie"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"Credit Bank Enterprises","duns":"775511","entity_id":"B001","ssn_tax_id":"998877","address_line1":"410 Real Street","country_code":"ES"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"address_line1":"15 Rue de l'Economie","duns":"775512","entity_id":"B002","company_name":"French Bank Solutions","ssn_tax_id":"557788","country_code":"FR"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"Credit Bank Holdings","ssn_tax_id":"998877","entity_id":"B011","duns":"775521","address_line1":"410 Real Street","country_code":"ES"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"country_code":"ES","entity_id":"B009","duns":"775519","ssn_tax_id":"998877","address_line1":"410 Real Street","company_name":"The Credit Bank"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"duns":"775513","company_name":"Credit Bank LLC","ssn_tax_id":"998877","address_line1":"410 Real Street","entity_id":"B003","country_code":"ES"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"French Bank Services","ssn_tax_id":"557788","entity_id":"B020","address_line1":"15 Rue de l'Economie","duns":"775530","country_code":"FR"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"country_code":"FR","duns":"775524","entity_id":"B014","company_name":"French Bank Enterprises","ssn_tax_id":"557788","address_line1":"15 Rue de l'Economie"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"country_code":"FR","entity_id":"B006","address_line1":"15 Rue de l'Economie","company_name":"French Bank Company","ssn_tax_id":"557788","duns":"775516"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"duns":"775529","address_line1":"410 Real Street","ssn_tax_id":"998877","country_code":"ES","entity_id":"B019","company_name":"Credit Bank Company"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"French Bank Limited","country_code":"FR","address_line1":"15 Rue de l'Economie","ssn_tax_id":"557788","duns":"775528","entity_id":"B018"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"998877","country_code":"ES","duns":"775517","address_line1":"410 Real Street","entity_id":"B007","company_name":"Credit Bank Services"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"duns":"775518","ssn_tax_id":"557788","address_line1":"15 Rue de l'Economie","entity_id":"B008","company_name":"French Bank","country_code":"FR"}}
+{"ts":"2026-09-01T19:18:23Z","type":"upsert_record","side":"b","record":{"company_name":"French Bank Partners","duns":"775522","address_line1":"15 Rue de l'Economie","entity_id":"B012","ssn_tax_id":"557788","country_code":"FR"}}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","score":1.0,"reason":"exact"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A005","b_id":"B005","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A013","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A010","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A017","b_id":"B017","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A015","b_id":"B015","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A016","b_id":"B016","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A004","b_id":"B004","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A001","b_id":"B001","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A002","b_id":"B002","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A011","b_id":"B011","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A009","b_id":"B009","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A003","b_id":"B003","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A020","b_id":"B020","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A014","b_id":"B014","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A006","b_id":"B006","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A019","b_id":"B019","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A018","b_id":"B018","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A007","b_id":"B007","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A008","b_id":"B008","reason":"crossmap"}
+{"ts":"2026-09-01T19:18:23Z","type":"crossmap_confirm","a_id":"A012","b_id":"B012","reason":"crossmap"}

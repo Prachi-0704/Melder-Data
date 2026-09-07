@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+ENR_001,Zürich Investments AG Enterprises,121213,Zürich Avenue,CH,121022
+ENR_002,Zürich Investments AG Solutions,121213,Zürich Avenue,CH,121015
+ENR_003,São Paulo LLC,23456789,São Paulo Street,BR,121220
+ENR_004,São Paulo Corporation,23456789,São Paulo Street,BR,121215
+ENR_005,Zürich Investments AG Company Limited,121213,Zürich Avenue,CH,121017
+ENR_006,Zürich Investments AG Company,121213,Zürich Avenue,CH,121019
+ENR_007,Zürich Investments AG Services,121213,Zürich Avenue,CH,121020
+ENR_008,São Paulo,23456789,São Paulo Street,BR,121222
+ENR_009,The São Paulo,23456789,São Paulo Street,BR,121216
+ENR_010,The São Paulo Group,23456789,São Paulo Street,BR,121219
+ENR_011,Zürich Investments AG Holdings,121213,Zürich Avenue,CH,121021
+ENR_012,São Paulo Partners,23456789,São Paulo Street,BR,121218
+ENR_013,Zürich Investments AG Capital,121213,Zürich Avenue,CH,121013
+ENR_014,Zürich Investments AG Enterprises,121213,Zürich Avenue,CH,121018
+ENR_015,São Paulo Solutions,23456789,São Paulo Street,BR,121214
+NEG_001,Northwind Logistics Group,121213,Zurich Avenue,CH,121017
+NEG_002,Harbor & Pine Capital,23456789,Sao Paulo Street,BR,121221
+NEG_003,Summit Health Partners,23456789,Sao Paulo Street,BR,121218
+NEG_004,Blue Harbor Foods Ltd,121213,Zurich Avenue,CH,121021
+NEG_005,Crestview Telecom Holdings,23456789,Sao Paulo Street,BR,121222

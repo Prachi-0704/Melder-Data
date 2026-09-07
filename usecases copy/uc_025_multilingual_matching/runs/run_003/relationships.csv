@@ -1,0 +1,27 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A005,0.7413,review,top_scoring,1,410 Calle Real,Banco de Crédito Enterprises,ES,998877
+B002,A006,0.6340,review,top_scoring,1,15 Rue de l'Économie,Banque de France Solutions,FR,557788
+B003,A007,0.7151,review,top_scoring,1,410 Calle Real,Banco de Crédito LLC,ES,998877
+B004,A002,,match,crossmap,,15 Rue de l'Économie,Banque de France Holdings,FR,557788
+B005,A009,0.7338,review,top_scoring,1,410 Calle Real,Banco de Crédito Limited,ES,998877
+B006,A010,0.6615,review,top_scoring,1,15 Rue de l'Économie,Banque de France Company,FR,557788
+B007,A011,0.7275,review,top_scoring,1,410 Calle Real,Banco de Crédito Services,ES,998877
+B009,A013,0.6960,review,top_scoring,1,410 Calle Real,The Banco de Crédito,ES,998877
+B010,A014,0.6341,review,top_scoring,1,15 Rue de l'Économie,Banque de France Group,FR,557788
+B011,A015,0.7222,review,top_scoring,1,410 Calle Real,Banco de Crédito Holdings,ES,998877
+B012,A016,0.6750,review,top_scoring,1,15 Rue de l'Économie,Banque de France Partners,FR,557788
+B013,A017,0.7310,review,top_scoring,1,410 Calle Real,Banco de Crédito Capital,ES,998877
+B014,A018,0.6996,review,top_scoring,1,15 Rue de l'Économie,Banque de France Enterprises,FR,557788
+B015,A019,0.7361,review,top_scoring,1,410 Calle Real,Banco de Crédito Solutions,ES,998877
+B016,A020,0.6583,review,top_scoring,1,15 Rue de l'Économie,Banque de France LLC,FR,557788
+B019,A017,,match,crossmap,,410 Calle Real,Banco de Crédito Capital,ES,998877
+B021,A021,,match,crossmap,,12 Berliner Strasse,Bank für Deutschland GmbH,DE,662233
+B022,A022,,match,crossmap,,410 Rua Real,Banco de Crédito Brasil,BR,998999
+B023,A023,,match,crossmap,,5 Via Roma,Banca Italiana S.p.A.,IT,663344
+B024,A024,,match,crossmap,,3 Amsterdamweg,Bank Nederland BV,NL,664455
+B025,A025,,match,crossmap,,7 Stockholmgatan,Banque Suédoise AB,SE,665566
+B026,A026,,match,crossmap,,22 Rua de Lisboa,Banco Português SA,PT,666677
+B027,A027,,match,crossmap,,8 Via Milano,Banca della Repubblica,IT,667788
+B028,A028,,match,crossmap,,9 Hauptstrasse,Deutsche Kreditbank AG,DE,668899
+B029,A029,,match,crossmap,,11 Avenida Central,Banco do Brasil Holdings,BR,669900
+B030,A030,,match,crossmap,,14 Rue Internationale,Banque Internationale,FR,670011

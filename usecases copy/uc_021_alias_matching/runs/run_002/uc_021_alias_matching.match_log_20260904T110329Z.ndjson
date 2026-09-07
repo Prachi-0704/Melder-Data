@@ -1,0 +1,24 @@
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"a","record":{"company_name":"Microsoft Corporation","ssn_tax_id":"666666666","country_code":"US","entity_id":"A06","address_line1":"One Microsoft Way"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"a","record":{"company_name":"Wells Fargo Bank NA","country_code":"US","address_line1":"420 Montgomery Street","entity_id":"A03","ssn_tax_id":"333333333"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"a","record":{"address_line1":"1 Hacker Way","entity_id":"A02","country_code":"US","ssn_tax_id":"222222222","company_name":"Meta Platforms"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"a","record":{"address_line1":"1600 Amphitheatre Parkway","company_name":"Alphabet Inc.","ssn_tax_id":"111111111","country_code":"US","entity_id":"A01"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"a","record":{"address_line1":"1 Apple Park Way","country_code":"US","company_name":"Apple Inc.","entity_id":"A04","ssn_tax_id":"444444444"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"a","record":{"country_code":"US","ssn_tax_id":"555555555","entity_id":"A05","company_name":"Amazon.com Inc.","address_line1":"410 Terry Ave N"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"222222222","entity_id":"B02","country_code":"US","company_name":"Facebook","address_line1":"1 Hacker Way"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111111111","entity_id":"B01","address_line1":"1600 Amphitheatre Pkwy","company_name":"Google","country_code":"US"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"b","record":{"entity_id":"B05","country_code":"US","address_line1":"410 Terry Avenue N","ssn_tax_id":"555555555","company_name":"Amazon"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"444444444","address_line1":"1 Infinite Loop","company_name":"Apple","entity_id":"B04","country_code":"US"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"b","record":{"address_line1":"One Microsoft Way","entity_id":"B06","company_name":"MSFT","country_code":"US","ssn_tax_id":"666666666"}}
+{"ts":"2026-09-04T11:03:29Z","type":"upsert_record","side":"b","record":{"country_code":"US","address_line1":"420 Montgomery St","ssn_tax_id":"333333333","entity_id":"B03","company_name":"WellsFargo"}}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A02","b_id":"B02","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A01","b_id":"B01","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A05","b_id":"B05","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A04","b_id":"B04","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A06","b_id":"B06","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A03","b_id":"B03","score":1.0,"reason":"exact"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A02","b_id":"B02","reason":"crossmap"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A01","b_id":"B01","reason":"crossmap"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A05","b_id":"B05","reason":"crossmap"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A04","b_id":"B04","reason":"crossmap"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A06","b_id":"B06","reason":"crossmap"}
+{"ts":"2026-09-04T11:03:29Z","type":"crossmap_confirm","a_id":"A03","b_id":"B03","reason":"crossmap"}

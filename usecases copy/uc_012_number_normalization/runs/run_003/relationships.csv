@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A018,1.0000,match,top_scoring,1,100 2nd Avenue,1st National Bank Enterprises,US,666-77-9991
+B002,A006,0.8868,match,top_scoring,2,100 2nd Avenue,1st National Bank Solutions,US,666-77-9991
+B003,A010,0.8252,review,top_scoring,2,100 Second Avenue,First National Bank Company,US,666-77-9991
+B004,A008,0.9500,match,top_scoring,1,100 2nd Avenue,First National Trust Corporation,US,666-77-9991
+B005,A009,1.0000,match,top_scoring,1,100 2nd Avenue,1st National Bank Limited,US,666-77-9991
+B006,A007,0.8207,review,top_scoring,2,100 Second Avenue,First National Bank LLC,US,666-77-9991
+B007,A006,0.8217,review,top_scoring,1,100 2nd Avenue,1st National Bank Solutions,US,666-77-9991
+B008,A020,0.9183,match,top_scoring,1,100 Second Avenue,1st National Trust LLC,US,666-77-9991
+B009,A013,0.9258,match,top_scoring,1,100 Second Avenue,The 1st National Bank,US,666-77-9991
+B010,A001,0.8747,match,top_scoring,1,100 Second Avenue,First National Bank Group,US,666-77-9991
+B011,A008,0.8255,review,top_scoring,1,100 2nd Avenue,First National Trust Corporation,US,666-77-9991
+B012,A015,,match,crossmap,,100 2nd Avenue,1st National Bank Holdings,US,666-77-9991
+B013,A012,0.7651,review,top_scoring,1,100 2nd Avenue,First National Bank,US,666-77-9991
+B014,A020,0.8281,review,top_scoring,1,100 Second Avenue,1st National Trust LLC,US,666-77-9991
+B015,A019,1.0000,match,top_scoring,1,100 Second Avenue,First National Bank Solutions,US,666-77-9991
+B016,A007,0.8720,match,top_scoring,1,100 Second Avenue,First National Bank LLC,US,666-77-9991
+B017,A012,0.8357,review,top_scoring,1,100 2nd Avenue,First National Bank,US,666-77-9991
+B018,A020,0.8207,review,top_scoring,1,100 Second Avenue,1st National Trust LLC,US,666-77-9991
+B019,A010,0.8819,match,top_scoring,1,100 Second Avenue,First National Bank Company,US,666-77-9991
+B020,A011,0.9161,match,top_scoring,1,100 Second Avenue,1st National Trust Services,US,666-77-9991

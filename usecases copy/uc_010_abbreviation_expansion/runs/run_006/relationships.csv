@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A003,0.7470,review,top_scoring,1,16 Hayward Ave,BCG Partners,US,111-22-3333
+B002,A006,0.9500,match,top_scoring,1,16 Hayward Ave,BCG Advisory Solutions,US,111-22-3333
+B003,A020,1.0000,match,top_scoring,1,16 Hayward Avenue,Boston Consulting LLC,US,111-22-3333
+B004,A008,0.8034,review,top_scoring,1,16 Hayward Avenue,BCG Corporation,US,111-22-3333
+B005,A009,0.7520,review,top_scoring,1,16 Hayward Avenue,BCG Advisory Limited,US,111-22-3333
+B006,A010,0.9500,match,top_scoring,1,16 Hayward Ave,Boston Consulting Company,US,111-22-3333
+B007,A019,0.6759,review,top_scoring,2,16 Hayward Avenue,BCG Solutions,US,111-22-3333
+B008,A007,0.8729,match,top_scoring,2,39 Hayward.Avn,Boston Consulting LLC,US,111-22-3333
+B009,A012,0.8509,match,top_scoring,1,16 Hayward Ave,Boston Consulting,US,111-22-3333
+B010,A009,0.8192,review,top_scoring,1,16 Hayward Avenue,BCG Advisory Limited,US,111-22-3333
+B011,A002,0.9500,match,top_scoring,1,16 Hayward Avenue,Boston Consulting Holdings,US,111-22-3333
+B012,A013,0.8176,review,top_scoring,1,16 Hayward Avenue,The BCG Advisory,US,111-22-3333
+B013,A011,,match,crossmap,,16 Hayward Avenue,BCG Services,US,111-22-3333
+B014,A008,0.7945,review,top_scoring,1,16 Hayward Avenue,BCG Corporation,US,111-22-3333
+B015,A005,0.8157,review,top_scoring,1,16 Hayward Avenue,Boston Consulting Enterprises,US,111-22-3333
+B016,A009,0.8053,review,top_scoring,1,16 Hayward Avenue,BCG Advisory Limited,US,111-22-3333
+B017,A018,0.8583,match,top_scoring,1,16 Hayward Ave,Boston Consulting Enterprises,US,111-22-3333
+B018,A009,0.7520,review,top_scoring,1,16 Hayward Avenue,BCG Advisory Limited,US,111-22-3333
+B019,A006,0.7800,review,top_scoring,1,16 Hayward Ave,BCG Advisory Solutions,US,111-22-3333
+B020,A019,0.6759,review,top_scoring,2,16 Hayward Avenue,BCG Solutions,US,111-22-3333

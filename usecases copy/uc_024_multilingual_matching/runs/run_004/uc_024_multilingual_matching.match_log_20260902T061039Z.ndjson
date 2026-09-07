@@ -1,0 +1,62 @@
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A018","ssn_tax_id":"4545464","address_line1":"50 Financière Road","country_code":"FR","duns":"6767687","company_name":"XYZ Groupe Bancaire Enterprises"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"company_name":"XYZ Groupe Bancaire Company","ssn_tax_id":"4545464","entity_id":"A010","address_line1":"50 Financière Road","duns":"6767683","country_code":"FR"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"ES","company_name":"The Wells Fargo Banco","duns":"458773","entity_id":"A013","ssn_tax_id":"111133","address_line1":"420 Banco Street"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111133","address_line1":"420 Banco Street","company_name":"Wells Fargo Banco Enterprises","country_code":"ES","duns":"458769","entity_id":"A005"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"6767680","ssn_tax_id":"4545464","address_line1":"50 Financière Road","entity_id":"A004","company_name":"XYZ Groupe Bancaire Capital","country_code":"FR"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A017","company_name":"Wells Fargo Banco Capital","address_line1":"420 Banco Street","country_code":"ES","duns":"458775","ssn_tax_id":"111133"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A008","duns":"6767682","company_name":"XYZ Groupe Bancaire Corporation","ssn_tax_id":"4545464","address_line1":"50 Financière Road","country_code":"FR"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"6767681","company_name":"XYZ Groupe Bancaire Solutions","address_line1":"50 Financière Road","country_code":"FR","entity_id":"A006","ssn_tax_id":"4545464"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"ES","duns":"458772","company_name":"Wells Fargo Banco Services","entity_id":"A011","address_line1":"420 Banco Street","ssn_tax_id":"111133"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"ES","duns":"458771","company_name":"Wells Fargo Banco Limited","ssn_tax_id":"111133","entity_id":"A009","address_line1":"420 Banco Street"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"company_name":"Wells Fargo Banco Partners","address_line1":"420 Banco Street","country_code":"ES","entity_id":"A003","duns":"458768","ssn_tax_id":"111133"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111133","address_line1":"420 Banco Street","country_code":"ES","company_name":"Wells Fargo Banco Solutions","entity_id":"A019","duns":"458776"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"duns":"458770","company_name":"Wells Fargo Banco LLC","address_line1":"420 Banco Street","country_code":"ES","ssn_tax_id":"111133","entity_id":"A007"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"company_name":"XYZ Groupe Bancaire Group","country_code":"FR","address_line1":"50 Financière Road","duns":"6767685","entity_id":"A014","ssn_tax_id":"4545464"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A002","company_name":"XYZ Groupe Bancaire Holdings","address_line1":"50 Financière Road","ssn_tax_id":"4545464","country_code":"FR","duns":"6767679"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A020","duns":"6767688","ssn_tax_id":"4545464","company_name":"XYZ Groupe Bancaire LLC","address_line1":"50 Financière Road","country_code":"FR"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"country_code":"FR","address_line1":"50 Financière Road","company_name":"XYZ Groupe Bancaire","ssn_tax_id":"4545464","entity_id":"A012","duns":"6767684"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"ssn_tax_id":"111133","entity_id":"A001","address_line1":"420 Banco Street","country_code":"ES","duns":"458767","company_name":"Wells Fargo Banco Group"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A016","ssn_tax_id":"4545464","address_line1":"50 Financière Road","country_code":"FR","company_name":"XYZ Groupe Bancaire Partners","duns":"6767686"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"a","record":{"entity_id":"A015","country_code":"ES","ssn_tax_id":"111133","duns":"458774","company_name":"Wells Fargo Banco Holdings","address_line1":"420 Banco Street"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Banco Street","company_name":"Banco Wells Fargo Capital","duns":"458773","country_code":"ES","ssn_tax_id":"111133","entity_id":"B013"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"XYZ Group Bank Group","entity_id":"B010","ssn_tax_id":"4545464","address_line1":"50 Financial Road","country_code":"FR","duns":"6767683"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"The Banco Wells Fargo","entity_id":"B009","country_code":"ES","ssn_tax_id":"111133","duns":"458771","address_line1":"420 Banco Street"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"entity_id":"B018","company_name":"XYZ Group Bank Limited","address_line1":"50 Financial Road","country_code":"FR","duns":"6767687","ssn_tax_id":"4545464"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"XYZ Group Bank Corporation","address_line1":"50 Financial Road","ssn_tax_id":"4545464","country_code":"FR","entity_id":"B004","duns":"6767680"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"country_code":"ES","company_name":"Banco Wells Fargo Holdings","address_line1":"420 Banco Street","ssn_tax_id":"111133","entity_id":"B011","duns":"458772"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Banco Street","ssn_tax_id":"111133","duns":"458768","country_code":"ES","company_name":"Banco Wells Fargo LLC","entity_id":"B003"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"4545464","company_name":"XYZ Group Bank Company","address_line1":"50 Financial Road","duns":"6767681","country_code":"FR","entity_id":"B006"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"duns":"458770","ssn_tax_id":"111133","company_name":"Banco Wells Fargo Services","entity_id":"B007","address_line1":"420 Banco Street","country_code":"ES"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"XYZ Group Bank Partners","ssn_tax_id":"4545464","address_line1":"50 Financial Road","duns":"6767684","country_code":"FR","entity_id":"B012"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"111133","address_line1":"420 Banco Street","entity_id":"B019","country_code":"ES","company_name":"Banco Wells Fargo Company","duns":"458776"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"country_code":"FR","ssn_tax_id":"4545464","entity_id":"B014","address_line1":"50 Financial Road","duns":"6767685","company_name":"XYZ Group Bank Enterprises"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Banco Street","entity_id":"B001","country_code":"ES","ssn_tax_id":"111133","duns":"458767","company_name":"Banco Wells Fargo Enterprises"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"50 Financial Road","company_name":"XYZ Group Bank Services","ssn_tax_id":"4545464","country_code":"FR","entity_id":"B020","duns":"6767688"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"420 Banco Street","ssn_tax_id":"111133","country_code":"ES","duns":"458775","entity_id":"B017","company_name":"Banco Wells Fargo Corporation"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"company_name":"XYZ Group Bank Solutions","ssn_tax_id":"4545464","address_line1":"50 Financial Road","entity_id":"B002","duns":"6767679","country_code":"FR"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"ssn_tax_id":"4545464","address_line1":"50 Financial Road","entity_id":"B008","country_code":"FR","duns":"6767682","company_name":"XYZ Group Bank"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"entity_id":"B015","country_code":"ES","company_name":"Banco Wells Fargo Solutions","duns":"458774","address_line1":"420 Banco Street","ssn_tax_id":"111133"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"duns":"458769","country_code":"ES","company_name":"Banco Wells Fargo Limited","ssn_tax_id":"111133","entity_id":"B005","address_line1":"420 Banco Street"}}
+{"ts":"2026-09-02T06:10:39Z","type":"upsert_record","side":"b","record":{"address_line1":"50 Financial Road","company_name":"XYZ Group Bank LLC","entity_id":"B016","country_code":"FR","ssn_tax_id":"4545464","duns":"6767686"}}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A015","b_id":"B013","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A016","b_id":"B010","score":1.0,"reason":"exact"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A015","b_id":"B013","reason":"crossmap"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A016","b_id":"B010","reason":"crossmap"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B008","side":"b","candidate_id":"A014","score":0.6725094125355615,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B002","side":"b","candidate_id":"A006","score":0.6800434719098374,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A007","b_id":"B003","score":0.9957812070846558,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A009","b_id":"B005","score":0.9946217775344849,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A013","b_id":"B009","score":0.9934243798255921,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B004","side":"b","candidate_id":"A008","score":0.7408132821801581,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A019","b_id":"B015","score":0.9963369607925415,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B016","side":"b","candidate_id":"A020","score":0.7337481030628703,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B014","side":"b","candidate_id":"A018","score":0.7386123829536244,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"no_match_below","query_id":"B020","query_side":"b","best_score":0.5892049908936473}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A011","b_id":"B007","score":0.9954002737998963,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A003","b_id":"B011","score":0.8531655363317489,"rank":4,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B006","side":"b","candidate_id":"A010","score":0.7241688903667843,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B018","side":"b","candidate_id":"A020","score":0.6223321102024559,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"crossmap_confirm","a_id":"A005","b_id":"B001","score":0.99613037109375,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B017","side":"b","candidate_id":"A013","score":0.8487760146373448,"rank":3,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B012","side":"b","candidate_id":"A016","score":0.7156024237612795,"rank":1,"reason":"top_scoring"}
+{"ts":"2026-09-02T06:10:39Z","type":"review_match","id":"B019","side":"b","candidate_id":"A017","score":0.8411268261188206,"rank":4,"reason":"top_scoring"}

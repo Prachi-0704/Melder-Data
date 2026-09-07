@@ -1,0 +1,31 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B01,A01,,match,crossmap,,1600 Amphitheatre Parkway,Alphabet Inc.,US,111111111
+B02,A02,,match,crossmap,,1 Hacker Way,Meta Platforms Inc.,US,222222222
+B03,A03,,match,crossmap,,420 Montgomery Street,Wells Fargo Bank NA,US,333333333
+B04,A04,,match,crossmap,,1 Apple Park Way,Apple Inc.,US,444444444
+B05,A05,,match,crossmap,,410 Terry Avenue North,Amazon.com Inc.,US,555555555
+B06,A06,,match,crossmap,,One Microsoft Way,Microsoft Corporation,US,666666666
+B07,A07,,match,crossmap,,1 New Orchard Road,International Business Machines Corporation,US,777777777
+B08,A08,,match,crossmap,,1 Coca-Cola Plaza,The Coca-Cola Company,US,888888888
+B09,A09,,match,crossmap,,700 Anderson Hill Road,PepsiCo Inc.,US,999999999
+B10,A10,,match,crossmap,,200 West Street,The Goldman Sachs Group Inc.,US,101010101
+B11,A11,,match,crossmap,,383 Madison Avenue,JPMorgan Chase & Co.,US,202020202
+B12,A12,,match,crossmap,,500 South Buena Vista Street,The Walt Disney Company,US,303030303
+B13,A13,,match,crossmap,,121 Albright Way,Netflix Inc.,US,404040404
+B14,A14,,match,crossmap,,One Bowerman Drive,Nike Inc.,US,505050505
+B15,A15,,match,crossmap,,110 North Carpenter Street,McDonald's Corporation,US,606060606
+B16,A16,,match,crossmap,,1 P&G Plaza,The Procter & Gamble Company,US,707070707
+B17,A17,,match,crossmap,,1 New Orchard Road,International Business Machines Corp.,US,808080808
+B18,A18,,match,crossmap,,200 Vesey Street,American Express Company,US,909090909
+B19,A19,,match,crossmap,,5 Necco Street,General Electric Company,US,121212121
+B20,A20,,match,crossmap,,55 Glenlake Parkway,United Parcel Service Inc.,US,131313131
+B21,A21,,match,crossmap,,2455 Paces Ferry Road,The Home Depot Inc.,US,141414141
+B22,A22,,match,crossmap,,702 Southwest 8th Street,Wal-Mart Stores Inc.,US,151515151
+B23,A23,,match,crossmap,,2401 Utah Avenue South,Starbucks Corporation,US,161616161
+B24,A24,,match,crossmap,,929 Long Bridge Drive,The Boeing Company,US,171717171
+B25,A25,,match,crossmap,,942 South Shady Grove Road,FedEx Corporation,US,181818181
+B26,A26,,match,crossmap,,2000 Purchase Street,Mastercard Incorporated,US,191919191
+B27,A27,,match,crossmap,,1095 Avenue of the Americas,Verizon Communications Inc.,US,212121212
+B28,A28,,match,crossmap,,One PPG Place,The Kraft Heinz Company,US,232323232
+B29,A29,,match,crossmap,,300 Renaissance Center,General Motors Company,US,242424242
+B30,A30,,match,crossmap,,240 Greenwich Street,The Bank of New York Mellon Corporation,US,252525252

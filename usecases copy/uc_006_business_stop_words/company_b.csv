@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,ACME TECHNOLOGIES INC.,123456781,101 Innovation Boulevard,US,987654321
+B002,Global Finance Holdings Ltd.,888888882,205 Wall St,US,987654322
+B003,North Star Consulting L.L.C.,123456783,310 Harbor Ave,US,222222223
+B004,Blue Ocean Enterprises Corp.,888888884,415 Market St,US,987654324
+B005,Alpha Beta Solutions Pvt. Ltd.,123456785,520 Technology Park,IN,333333335
+B006,Sunrise Manufacturing Co.,888888886,625 Industrial Rd,US,987654326
+B007,Greenfield International Group Inc.,123456787,730 Corporate Ave,US,987654327
+B008,Muller and Sohne,888888888,835 Berliner Strasse,DE,987654328
+B009,Garcia Servicios S.L.,123456789,940 Gran Vía,ES,999999999
+B010,Nippon Trading KK,777777771,1040 Sakura Ave,JP,987654330
+B011,Johnson and Johnson Corp.,223456782,115 Healthcare Dr,US,987654331
+B012,Everest Capital Partners L.L.P.,777777772,220 Finance Blvd,US,987654332
+B013,Metro Urban Development Co. Ltd.,223456784,325 City Centre Rd,GB,333333333
+B014,Societe Nouvelle de Technologie S.A.,777777774,430 Rue Paris,FR,987654334
+B015,Golden Eagle Industries Inc.,223456786,535 Industrial Ave,US,555555555
+B016,Pacific Rim Trading Corp.,777777776,640 Ocean Dr,US,987654336
+B017,Silverline Ventures Pvt Ltd,223456788,745 Venture Rd,IN,777777777
+B018,United Business Services Co.,777777778,850 Commerce Ave,US,987654338
+B019,Diamond Pearl Holdings L.L.C.,323456781,955 Pearl St,US,999999991
+B020,Future Systems International Inc.,777777770,1060 Technology Dr,US,987654340

@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,IBM Enterprises,98765432,22 Palo Alto Street,US,678901
+B002,GS Solutions,89786759,301 Livola Street,US,454647
+B003,GS LLC,89786759,301 Livola Street,US,454648
+B004,IBM Corporation,98765432,22 Palo Alto Street,US,678902
+B005,International Business Machines Limited,98765432,22 Palo Alto Street,US,678903
+B006,GS Company,89786759,301 Livola Street,US,454649
+B007,International Business Machine Services,98765432,22 Palo Alto Street,US,678904
+B008,Goldman Sachs,89786759,301 Livola Street,US,454650
+B009,The IBM,98765432,22 Palo Alto Street,US,678905
+B010,GS Group,89786759,301 Livola Street,US,454651
+B011,IBM Holdings,98765432,22 Palo Alto Street,US,678906
+B012,Goldman Sachs Partners,89786759,301 Livola Street,US,454652
+B013,IBM Capital,98765432,22 Palo Alto Street,US,678907
+B014,GS Enterprises,89786759,301 Livola Street,US,454653
+B015,International Business Machines Solutions,98765432,22 Palo Alto Street,US,678908
+B016,Goldman Sachs LLC,89786759,301 Livola Street,US,454654
+B017,IBM Corporation,98765432,22 Palo Alto Street,US,678909
+B018,Goldman Sachs Limited,89786759,301 Livola Street,US,454655
+B019,IBM Company,98765432,22 Palo Alto Street,US,678910
+B020,GS Services,89786759,301 Livola Street,US,454656

@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A001,,match,crossmap,,101 Market Street,The Alpha and Omega Holdings,US,123456781
+B002,A002,0.9682,match,top_scoring,1,205 Financial Avenue,Global Bank of Finance Group,US,123456782
+B003,A003,,match,crossmap,,310 Harbor Street,The Northern and Western Partners,US,123456783
+B004,A004,0.9076,match,top_scoring,1,415 Commerce Boulevard,Capital of Growth Investments,US,123456784
+B005,A005,,match,crossmap,,520 Innovation Drive,The Blue and Green Technologies,US,123456785
+B006,A006,0.9097,match,top_scoring,1,625 Enterprise Road,United Services for Business,US,123456786
+B007,A007,,match,crossmap,,730 Corporate Avenue,The Golden and Silver Corporation,US,123456787
+B008,A008,0.9488,match,top_scoring,1,835 Technology Street,Center of Digital Solutions,US,123456788
+B009,A009,,match,crossmap,,940 Business Park,The Prime and Core Consulting Group,US,123456789
+B010,A010,0.9088,match,top_scoring,1,1040 Commerce Street,National Bank of Commerce,US,223456781
+B011,A011,,match,crossmap,,115 Innovation Avenue,The Horizon and Summit Enterprises,US,223456782
+B012,A012,0.9136,match,top_scoring,1,220 Finance Street,Alliance of Financial Services,US,223456783
+B013,A013,,match,crossmap,,325 City Center Drive,The Metro and Urban Holdings,US,223456784
+B014,A014,0.9249,match,top_scoring,1,430 Research Boulevard,Future Systems for Innovation,US,223456785
+B015,A015,,match,crossmap,,535 Industrial Road,The Eagle and Falcon Industries,US,223456786
+B016,A016,0.8279,review,top_scoring,1,640 Technology Avenue,Network of Global Solutions,US,223456787
+B017,A017,,match,crossmap,,745 Venture Street,The Sunrise and Sunset Ventures,US,223456788
+B018,A018,0.9204,match,top_scoring,1,850 Liberty Avenue,United Partners of America,US,223456789
+B019,A019,,match,crossmap,,955 Pearl Street,The Diamond and Pearl Corporation,US,323456781
+B020,A020,0.8898,match,top_scoring,1,1060 Development Drive,Foundation for Modern Development,US,323456782

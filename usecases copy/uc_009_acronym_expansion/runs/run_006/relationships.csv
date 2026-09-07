@@ -1,0 +1,21 @@
+entity_id,entity_id,score,relationship_type,reason,rank,address_line1,company_name,country_code,ssn_tax_id
+B001,A005,1.0000,match,top_scoring,1,22 Palo Alto Street,IBM Enterprises,US,98765432
+B002,A006,0.6141,review,top_scoring,1,301 Livola Street,Goldman Sachs Solutions,US,89786759
+B003,A020,0.9500,match,top_scoring,1,301 Livola St,GS LLC,US,89786759
+B004,A005,0.8033,review,top_scoring,1,22 Palo Alto Street,IBM Enterprises,US,98765432
+B005,A009,1.0000,match,top_scoring,1,22 Palo Alto Street,International Business Machines Limited,US,98765432
+B006,A008,0.7922,review,top_scoring,1,301 Livola St,GS Corporation,US,89786759
+B007,A009,0.8452,review,top_scoring,1,22 Palo Alto Street,International Business Machines Limited,US,98765432
+B008,A012,,match,crossmap,,301 Livola St,GS,US,89786759
+B009,A011,,match,crossmap,,22 Palo Alto Street,IBM Services,US,98765432
+B010,A012,0.6524,review,top_scoring,1,301 Livola St,GS,US,89786759
+B011,A015,1.0000,match,top_scoring,1,22 Palo Alto Street,IBM Holdings,US,98765432
+B012,A003,0.9500,match,top_scoring,1,301 Livola St,Goldman Sachs Partners,US,89786759
+B013,A005,0.7039,review,top_scoring,1,22 Palo Alto Street,IBM Enterprises,US,98765432
+B014,A008,0.7336,review,top_scoring,1,301 Livola St,GS Corporation,US,89786759
+B015,A013,0.8854,match,top_scoring,1,22 Palo Alto Street,The International Business Machines,US,98765432
+B016,A010,0.8632,match,top_scoring,1,301 Livola Street,Goldman Sachs Company,US,89786759
+B017,A005,0.8033,review,top_scoring,1,22 Palo Alto Street,IBM Enterprises,US,98765432
+B018,A010,0.8205,review,top_scoring,1,301 Livola Street,Goldman Sachs Company,US,89786759
+B019,A015,0.7713,review,top_scoring,1,22 Palo Alto Street,IBM Holdings,US,98765432
+B020,A016,0.6037,review,top_scoring,1,301 Livola St,GS Partners,US,89786759

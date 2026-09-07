@@ -1,0 +1,36 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A001,Bank of America Corporation,123456781,100 Main Street,US,987654321
+A002,Apple Incorporated,123456782,1 Infinite Loop,US,987654322
+A003,Microsoft Corporation,123456783,One Microsoft Way,US,987654323
+A004,Amazon.com Incorporated,123456784,410 Terry Avenue North,US,987654324
+A005,Johnson and Johnson,123456785,1 Johnson and Johnson Plaza,US,987654325
+A006,International Business Machines Corporation,123456786,1 New Orchard Road,US,987654326
+A007,Procter and Gamble Company,123456787,1 P&G Plaza,US,987654327
+A008,General Electric Company,123456788,5 Necco Street,US,987654328
+A009,United Parcel Service Incorporated,123456789,55 Glenlake Parkway,US,987654329
+A010,The Coca-Cola Company,223456781,1 Coca Cola Plaza,US,987654330
+A011,PepsiCo Incorporated,223456782,700 Anderson Hill Road,US,987654331
+A012,Walmart Incorporated,223456783,702 Southwest 8th Street,US,987654332
+A013,The Home Depot Incorporated,223456784,2455 Paces Ferry Road,US,987654333
+A014,Mastercard Incorporated,223456785,2000 Purchase Street,US,987654334
+A015,Visa Incorporated,223456786,900 Metro Center Boulevard,US,987654335
+A016,American Express Company,223456787,200 Vesey Street,US,987654336
+A017,Goldman Sachs Group Incorporated,223456788,200 West Street,US,987654337
+A018,JPMorgan Chase and Company,223456789,383 Madison Avenue,US,987654338
+A019,Morgan Stanley,323456781,1585 Broadway,US,987654339
+A020,HSBC Holdings plc,323456782,8 Canada Square,GB,987654340
+A021,Deutsche Bank Aktiengesellschaft,323456783,Taunusanlage 12,DE,987654341
+A022,Barclays plc,323456784,1 Churchill Place,GB,987654342
+A023,Royal Bank of Canada,323456785,200 Bay Street,CA,987654343
+A024,UBS Group AG,323456786,Bahnhofstrasse 45,CH,987654344
+A025,Siemens AG,323456787,Werner-von-Siemens-Strasse 1,DE,987654345
+A026,Samsung Electronics Company Limited,323456788,129 Samsung-ro,KR,987654346
+A027,Toyota Motor Corporation,323456789,1 Toyota-cho,JP,987654347
+A028,Sony Group Corporation,423456781,1-7-1 Konan,JP,987654348
+A029,Nestle SA,423456782,Avenue Nestle 55,CH,987654349
+A030,Unilever PLC,423456783,100 Victoria Embankment,GB,987654350
+A031,Johnson Controls International plc,423456784,5757 North Green Bay Avenue,US,987654351
+A032,Ford Motor Company,423456785,1 American Road,US,987654352
+A033,General Motors Company,423456786,300 Renaissance Center,US,987654353
+A034,Oracle Corporation,423456787,2300 Oracle Way,US,987654354
+A035,SAP SE,423456788,Dietmar-Hopp-Allee 16,DE,987654355

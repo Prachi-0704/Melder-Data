@@ -1,0 +1,31 @@
+entity_id,company_name,address_line1,country_code,ssn_tax_id
+B01,Google,1600 Amphitheatre Pkwy,US,111111111
+B02,Facebook,1 Hacker Way,US,222222222
+B03,WellsFargo,420 Montgomery St,US,333333333
+B04,Apple,1 Infinite Loop,US,444444444
+B05,Amazon,410 Terry Ave N,US,555555555
+B06,MSFT,One Microsoft Way,US,666666666
+B07,IBM,1 New Orchard Rd,US,777777777
+B08,Coca-Cola,1 Coca Cola Plaza,US,888888888
+B09,Pepsi,700 Anderson Hill Rd,US,999999999
+B10,Goldman Sachs,200 West St,US,101010101
+B11,JPMorgan,383 Madison Ave,US,202020202
+B12,Disney,500 S Buena Vista St,US,303030303
+B13,Netflix,121 Albright Way,US,404040404
+B14,Nike,1 Bowerman Dr,US,505050505
+B15,McDonalds,110 N Carpenter St,US,606060606
+B16,P&G,1 P and G Plaza,US,707070707
+B17,Big Blue,1 New Orchard Road,US,808080808
+B18,AmEx,200 Vesey St,US,909090909
+B19,GE,5 Necco St,US,121212121
+B20,UPS,55 Glenlake Pkwy,US,131313131
+B21,Home Depot,2455 Paces Ferry Rd,US,141414141
+B22,Walmart,702 SW 8th St,US,151515151
+B23,Starbucks,2401 Utah Ave S,US,161616161
+B24,Boeing,929 Long Bridge Dr,US,171717171
+B25,Federal Express,942 S Shady Grove Rd,US,181818181
+B26,Mastercard,2000 Purchase St,US,191919191
+B27,Verizon,1095 Avenue of Americas,US,212121212
+B28,Kraft Heinz,1 PPG Place,US,232323232
+B29,GM,300 Renaissance Ctr,US,242424242
+B30,BNY Mellon,240 Greenwich St,US,252525252

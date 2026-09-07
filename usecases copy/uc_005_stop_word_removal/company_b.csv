@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Alpha Omega Holdings,123456781,101 Market Street,US,987654321
+B002,Global Bank Finance Group,888888882,205 Financial Avenue,US,987654322
+B003,Northern Western Partners,123456783,310 Harbor St,US,222222223
+B004,Capital Growth Investments,888888884,415 Commerce Blvd,US,987654324
+B005,Blue Green Technologies,123456785,520 Innovation Drive,US,333333335
+B006,United Services Business,888888886,625 Enterprise Rd,US,987654326
+B007,Golden Silver Corporation,123456787,730 Corporate Avenue,US,987654327
+B008,Center Digital Solutions,888888888,835 Technology Street,US,987654328
+B009,Prime Core Consulting Group,123456789,940 Business Park,US,555555559
+B010,National Bank Commerce,999999991,1040 Commerce St,US,987654330
+B011,Horizon Summit Enterprises,223456782,115 Innovation Avenue,US,987654331
+B012,Alliance Financial Services,999999992,220 Finance St,US,987654332
+B013,Metro Urban Holdings,223456784,325 City Center Dr,US,777777773
+B014,Future Systems Innovation,999999994,430 Research Boulevard,US,987654334
+B015,Eagle Falcon Industries,223456786,535 Industrial Road,US,888888885
+B016,Network Global Solutions,999999996,640 Technology Ave,US,987654336
+B017,Sunrise Sunset Ventures,223456788,745 Venture Street,US,987654337
+B018,United Partners America,999999998,850 Liberty Ave,US,987654338
+B019,Diamond Pearl Corporation,323456781,955 Pearl Street,US,987654339
+B020,Foundation Modern Development,999999990,1060 Development Dr,US,987654340

@@ -1,0 +1,21 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B001,Apollo 4 Technologies,123456781,101 Innovation Blvd,US,987654321
+B002,Vertex 5 Holdings Ltd.,123456782,205 Market Ave,US,987654322
+B003,Century 9 Financial Services,123456783,310 Finance St,US,111111113
+B004,Quantum 10 Solutions Inc.,123456784,415 Technology Park,US,987654324
+B005,Orion 11 Consulting Group,123456785,520 Enterprise Dr,US,222222225
+B006,Atlas 12 Industries Corp.,123456786,625 Industrial Rd,US,987654326
+B007,Meridian 15 Capital Partners,123456787,730 Finance Blvd,US,987654327
+B008,Pacific 20 Trading Co.,123456788,835 Harbor Ave,US,987654328
+B009,Everest 40 Logistics Ltd.,123456789,940 Logistics Dr,US,333333339
+B010,Summit 50 Manufacturing Inc.,223456781,1045 Production Rd,US,987654330
+B011,Nova 90 Digital Systems,223456782,115 Technology Ave,US,987654331
+B012,Heritage 100 Investment Group,223456783,220 Wall St,US,987654332
+B013,Phoenix 3 Energy Corp.,223456784,325 Energy Dr,US,444444443
+B014,Bluewater 6 Marine Services,223456785,430 Ocean Blvd,US,987654334
+B015,Ironwood 7 Construction Ltd.,223456786,535 Builder Rd,US,555555555
+B016,Redstone 8 Infrastructure Group,223456787,640 Development Ave,US,987654336
+B017,Silverline 13 Healthcare Solutions,223456788,745 Medical Park Dr,US,666666667
+B018,Greenfield 14 Agricultural Corp.,223456789,850 Farm Rd,US,987654338
+B019,Westbridge 16 Real Estate Holdings,323456781,955 Property Ave,US,777777779
+B020,Northstar 21 Retail Group,323456782,1060 Commerce Dr,US,987654340
