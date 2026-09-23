@@ -1,0 +1,78 @@
+job:
+  name: uc_001_company_entity_resolution
+
+datasets:
+  a:
+    path: melder/usecases/uc_001_company_entity_resolution/data_A.csv
+    id_field: entity_id
+  b:
+    path: melder/usecases/uc_001_company_entity_resolution/data_B.csv
+    id_field: entity_id
+
+cross_map:
+  backend: local
+  path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_001_company_entity_resolution/runs/crossmap.csv
+  a_id_field: entity_id
+  b_id_field: entity_id
+
+embeddings:
+  model: all-MiniLM-L6-v2
+  a_cache_dir: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_001_company_entity_resolution/cache
+  b_cache_dir: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_001_company_entity_resolution/cache
+
+vector_backend: flat
+top_n: 10
+
+blocking:
+  enabled: true
+  operator: and
+  fields:
+    - field_a: PhysicalCountryCode
+      field_b: PhysicalCountryCode
+
+match_fields:
+  - field_a: CompanyName
+    field_b: CompanyName
+    method: embedding
+    weight: 0.25
+
+  - field_a: TaxId
+    field_b: TaxId
+    method: exact
+    weight: 0.20
+
+  - field_a: SSN
+    field_b: SSN
+    method: exact
+    weight: 0.20
+
+  - field_a: LegalType
+    field_b: LegalType
+    method: exact
+    weight: 0.25
+
+  # Additive bonus: score = min(value / scale_max, 1.0).
+  # Values >= 20 receive the full 1.0 bonus score.
+  - field_a: CountOfLinkages
+    field_b: CountOfLinkages
+    method: numeric_magnitude
+    scale_max: 20
+    weight: 0.10
+
+  # Additive bonus: if either side has one of these trusted values,
+  # the preferred-value bonus is awarded.
+  - field_a: SystemLink
+    field_b: SystemLink
+    method: preferred_value
+    preferred_values:
+      - Cornerstone
+      - Pitchbook
+      - iSearch
+    weight: 0.35
+
+thresholds:
+  auto_match: 0.85
+  review_floor: 0.60
+
+output:
+  csv_dir_path: /Users/prachipatil/Repos/Melder-Test/melder/usecases/uc_001_company_entity_resolution/runs
