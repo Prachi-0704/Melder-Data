@@ -1,0 +1,150 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+A101,Bank of America,123456781,100 Main Street,US,987654321
+A102,apple incorporated,123456782,1 Infinite Loop,US,987654322
+A103,Microsoft Corporation,123456783,One Microsoft Way,US,987654323
+A104,Amazon.com Incorporated,123456784,410 Terry Avenue North,US,987654324
+A105,Johnson and Johnson,123456785,1 Johnson and Johnson Plaza,US,987654325
+
+A201,Goldman Sachs Group,555666777,200 West Street,US,444555666
+A202,Target Holdings,111222333,1000 Nicollet Mall,US,654321987
+A203,Wells Fargo Partners,123456789,36A Wabeno Avenue,US,781436
+A204,Bank of America Capital,333444555,100 N Tryon St,US,888777666
+A205,Uber Technology,222333444,1515 3rd St,US,765432109
+
+A301,"O'Connor & Sons, LLC",321-54-8976,200 Main St.,US,867656
+A302,Smith-Jones Co.,321-54-8971,101 Main St.,US,867637
+A303,"Acme, Inc.",321-54-8972,102 Main St.,US,867638
+A304,Foo/Bar Technologies,321-54-8973,103 Commerce Ave,US,867639
+A305,Gamma+Delta Enterprises,321-54-8974,104 Commerce Ave,US,867640
+
+A401,ACME LLC,23239526,Paseo Padre Pkwy,US,121314
+A402,Smith & Partners LLP,55242526,Paseo Padre Parkway,US,121315
+A403,Northstar Inc,63242526,Paseo Padre Pkwy,US,121316
+A404,Global Tech Corp,23242526,Paseo Padre Parkway,US,121317
+A405,Greenfield LP,23242526,Paseo Padre Pkwy,US,121318
+
+A501,The Alpha and Omega Holdings,123456781,101 Market Street,US,987654321
+A502,Global Bank of Finance Group,123456782,205 Financial Avenue,US,987654322
+A503,The Northern and Western Partners,123456783,310 Harbor Street,US,987654323
+A504,Capital of Growth Investments,123456784,415 Commerce Boulevard,US,987654324
+A505,The Blue and Green Technologies,123456785,520 Innovation Drive,US,987654325
+
+A601,ABC Holdings,123456781,101 Innovation Boulevard,US,987654321
+A602,XYZ International,123456782,205 Wall Street,US,987654322
+A603,Delta Services,123456783,310 Harbor Avenue,US,987654323
+A604,Orion Systems,123456784,415 Market Street,US,987654324
+A605,Alpha Holdings,123456785,520 Technology Park,IN,987654325
+
+A701,Manage Solutions,123456781,101 Market Street,US,987654321
+A702,Enterprise Resolution Corporation,123456782,205 Technology Avenue,US,987654322
+A703,Advanced Risk Analytics Limited,123456783,310 Finance Boulevard,GB,987654323
+A704,Customer Relationship Optimization LLC,123456784,415 Business Road,US,987654324
+A705,Digital Process Integration Group,123456785,520 Innovation Drive,US,987654325
+
+A801,Running Solutions,123456781,101 Market Street,US,987654321
+A802,Better Management Solutions,123456782,205 Technology Avenue,US,987654322
+A803,Companies housing Board,123456783,310 Finance Boulevard,GB,987654323
+A804,Running Solutions,123456784,415 Business Road,US,987654324
+A805,Digital Operational Services Group,123456785,520 Innovation Drive,US,987654325
+
+A901,International Business Machines Group,98765432,22 Palo Alto Street,US,678901
+A902,Goldman Sachs,89786759,301 Livola Street,US,454647
+A903,Bank of New York Mellon,89786759,301 Livola St,US,454648
+A904,Bank of America Securities,98765432,22 Palo Alto Street,US,678902
+A905,Wells Fargo Bank,98765432,22 Palo Alto Street,US,678903
+
+A1001,Mount View Technologies,111111111,100 Mountain View Road,US,234567801
+A1002,International Business Solutions,111111112,25 Global Avenue,US,234567802
+A1003,Greenfield Manufacturing Corporation,111111113,450 Industrial Road,US,234567803
+A1004,Northstar Financial Services,111111114,88 Market Street,US,234567804
+A1005,Pacific Management Group,111111115,120 Harbor Boulevard,US,234567805
+
+A1101,ABC,98765432,22 Palo Alto Street,US,678901
+A1102,Goldman Sachs,89786759,1201 Bell Avenue,US,454647
+A1103,Bank of New York Mellon,89786759,301 East Lake Road,US,454648
+A1104,Bank of America,98765432,22 Market Street Suite 10,US,678902
+A1105,Wells Fargo Bank,98765432,90 West Park Avenue,US,678903
+
+A1201,First National Bank Group,666-77-9991,100 Second Avenue,US,2345678
+A1202,1st National Bank Holdings,666-77-9991,100 2nd Ave,US,2345679
+A1203,First National Bank Partners,666-77-9991,100 2nd Avenue,US,2345680
+A1204,1st National Trust Capital,666-77-9991,100 2nd Avenue,US,2345681
+A1205,First National Bank Enterprises,666-77-9991,100 Second Avenue,US,2345682
+
+A1301,Apollo IV Technologies,123456781,101 Innovation Boulevard,US,987654321
+A1302,Vertex V Holdings Limited,123456782,205 Market Avenue,US,987654322
+A1303,Century IX Financial Services,123456783,310 Finance Street,US,987654323
+A1304,Quantum X Solutions Incorporated,123456784,415 Technology Park,US,987654324
+A1305,Orion XI Consulting Group,123456785,520 Enterprise Drive,US,987654325
+
+A1401,Amazon Group,33331111,300 Main Street,US,5566778
+A1402,Wels Frgp,33331111,300 Main Street,US,5566779
+A1403,Google,33331111,300 Mulo Street,US,5566780
+A1404,Microsoft,33331111,300 Main Street,US,5566781
+A1405,Amazon Limited,33331111,300 Mian Street,US,5566782
+
+A1501,Amazon Group,13131313,150 Future Street,US,1155779
+A1502,Amazan Holdings,13131313,150 Future Street,US,1155780
+A1503,Amazoon Partners,13131313,150 Future Street,US,1155781
+A1504,Amazxyo Capital,13131313,150 Eutare Street,US,1155782
+A1505,Amazon Enterprises,13131313,150 Future Street,US,1155783
+
+A1601,Union Bank of India Group,24242424,175 Bryan Lane,US,4433221
+A1602,America Bank National,24242424,175 Bryan Lane,US,4433222
+A1603,OF India Bank Union Partners,24242424,175 Bryan Lane,US,4433223
+A1604,Wells Fargo Bank,24242424,Bryan Lane 175,US,4433224
+A1605,Union Bank of India Enterprises,24242424,LAne 175 Bryan,US,4433225
+
+A1701,Infolease Technologies Group,234-56-7891,420 Montgomery Street,US,3451237
+A1702,Info Tech Technologies Holdings,234-56-7891,420 Montgomery Street,US,3451238
+A1703,Storelease Technologies Partners,234-56-7891,420 Montgomery Street,US,3451239
+A1704,Info Tech Technologies Capital,234-56-7891,420 Montgomery Street,US,3451240
+A1705,Infolease Technologies Enterprises,234-56-7891,420 Montgomery Street,US,3451241
+
+A1801,Smith Consulting Group,112-34-8989,420 Main Ave,US,1298347
+A1802,Steven,112-34-8989,420 Mayne Ave,US,1298348
+A1803,Jon Smith Services,234-56-7891,420 Clark Street,US,3451225
+A1804,Stephen Financial Capital,234-56-7891,420 Clarke Street,US,3451226
+A1805,Smith Consulting Enterprises,112-34-8989,420 Main Ave,US,1298349
+
+A1901,ABC Company Group,2309091,300 Oslo Avenue,US,1111111
+A1902,ABC Firm Holdings,2309091,300 Oslo Ave,US,1111112
+A1903,Global Financial Partners,31031034,220 Redwood Street,US,367689
+A1904,Global Finance Holding Capital,31031034,220 Redwood St,US,367690
+A1905,ABC Company Enterprises,2309091,300 Oslo Avenue,US,1111113
+
+A2001,ABC LE,234576,1 Pascal Avenue,US,909090
+A2002,ABC Trade Name Holdings,234576,1 Pascal Ave,US,909091
+A2003,Global Financial Partners,31031034,220 Redwood Street,US,367699
+A2004,Global Finance Capital,31031034,220 Redwood St,US,367700
+A2005,ABC DBA Enterprises,234576,1 Pascal Avenue,US,909092
+
+A2101,Alphabet Inc.,1600 Amphitheatre Parkway,US,111111111
+A2102,Meta Platforms Inc.,1 Hacker Way,US,222222222
+A2103,Wells Fargo Bank NA,420 Montgomery Street,US,333333333
+A2104,Apple Inc.,1 Apple Park Way,US,444444444
+A2105,Amazon.com Inc.,410 Terry Avenue North,US,555555555
+
+A2201,William Smith Group,234-22-3333,3 Pascal Avenue,US,567891
+A2202,Robert Smith Holdings,234-22-3333,3 Pascal Avenue,US,567892
+A2203,William Smith Partners,234-22-3333,3 Pascal Avenue,US,567893
+A2204,Robert Smith Capital,234-22-3333,3 Pascal Avenue,US,567894
+A2205,William Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567895
+
+A2301,São Paulo Group,23456789,São Paulo Street,BR,121212
+A2302,Zürich Investments AG Holdings,121213,Zürich Avenue,CH,121013
+A2303,São Paulo Partners,23456789,São Paulo Street,BR,121214
+A2304,Zürich Investments AG Capital,121213,Zürich Avenue,CH,121014
+A2305,São Paulo Enterprises,23456789,São Paulo Street,BR,121215
+
+A2401,Wells Fargo Banco Group,111133,420 Banco Street,ES,458767
+A2402,XYZ Groupe Bancaire Holdings,4545464,50 Financière Road,FR,6767679
+A2403,Wells Fargo Banco Partners,111133,420 Banco Street,ES,458768
+A2404,XYZ Groupe Bancaire Capital,4545464,50 Financière Road,FR,6767680
+A2405,Wells Fargo Banco Enterprises,111133,420 Banco Street,ES,458769
+
+A2501,Banco de Crédito Group,998877,410 Calle Real,ES,775511
+A2502,Banque de France Holdings,557788,15 Rue de l'Économie,FR,775512
+A2503,Banco de Crédito Partners,998877,410 Calle Real,ES,775513
+A2504,Banque de France Capital,557788,15 Rue de l'Économie,FR,775514
+A2505,Banco de Crédito Enterprises,998877,410 Calle Real,ES,775515

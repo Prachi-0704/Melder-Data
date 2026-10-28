@@ -1,0 +1,150 @@
+entity_id,company_name,ssn_tax_id,address_line1,country_code,duns
+B101,BANK OF AMERICA,123456781,100 Main St,US,987654321
+B102,Bank of America,123456781,100 Main Street,US,987654321
+B103,Microsoft Corp,123456783,One Microsoft Way,US,987654323
+B104,Amazon Com Inc.,123456784,410 Terry Ave N,US,987654324
+B105,Johnson AND Johnson,123456785,1 Johnson & Johnson Plaza,US,987654325
+
+B201,GOLDMAN SACHS GROUP,555666777,200 West Street,US,444555666
+B202,TaRGet HoLDings,111222333,1000 Nicollet Mall,US,654321987
+B203,Wells   Fargo Partners,123456789,36A Wabeno Avenue,US,781436
+B204,BankoFAmericaCapital,333444555,100 N Tryon St,US,888777666
+B205,Uber Technologies,222333444,1515 3rd St,US,765432109
+
+B301,OConnor & Sons LLC,321-54-8976,200 Main St.,US,867656
+B302,Smith Jones Company,321-54-8971,101 Main St.,US,867657
+B303,Acme Incorporated,321-54-8972,102 Main St.,US,867658
+B304,Foo-Bar Technologies,321-54-8973,103 Commerce Ave,US,867659
+B305,Gamma and Delta Enterprises,321-54-8974,104 Commerce Ave,US,867660
+
+B401,Acme Limited Liability Company,232425261,Paseo Padre Parkway,US,121314
+B402,Smith & Partners Limited Liability Partnership,55242526,Paseo Padre Parkway,US,121315
+B403,Northstar Incorporated,63242526,Paseo Padre Pkwy,US,121316
+B404,Global Tech Corporation,23242526,Paseo Padre Parkway,US,121317
+B405,Greenfield Limited Partnership,23242526,Paseo Padre Pkwy,US,121318
+
+B501,Alpha Omega Holdings,123456781,101 Market Street,US,987654321
+B502,Global Bank Finance Group,888888882,205 Financial Avenue,US,987654322
+B503,Northern Western Partners,123456783,310 Harbor St,US,222222223
+B504,Capital Growth Investments,888888884,415 Commerce Blvd,US,987654324
+B505,Blue Green Technologies,123456785,520 Innovation Drive,US,333333335
+
+B601,ABC Group,123456781,101 Innovation Boulevard,US,987654321
+B602,XYZ Global,123456782,205 Wall Street,US,987654322
+B603,Delta Solutions,123456783,310 Harbor Avenue,US,987654323
+B604,Orion Group,123456784,415 Market Street,US,987654324
+B605,Beta Holdings,123456785,520 Technology Park,IN,987654325
+
+B701,Management Solutions,123456781,101 Market Street,US,987654321
+A702,Enterprise Resolving Corporation,123456782,205 Technology Avenue,US,987654322
+B703,Advanced Risk Analysis Ltd.,123456783,310 Finance Blvd,GB,111111113
+B704,Customer Relationship Optimizing L.L.C.,888888884,415 Business Rd,US,987654324
+B705,Digital Process Integrating Grp.,123456785,520 Innovation Dr,US,222222225
+
+B801,Run Solutions,123456781,101 Market Street,US,987654321
+B802,Good Management Solutions,123456782,205 Technology Avenue,US,987654322
+B803,Company housing Board,123456783,310 Finance Boulevard,GB,987654323
+B804,Runway Solutions,123456784,415 Business Road,US,987654324
+B805,Digital Operation Service Grp.,123456785,520 Innovation Dr,US,987654325
+
+B901,IBM Enterprises,98765432,22 Palo Alto Street,US,678901
+B902,GS,89786759,301 Livola Street,US,454647
+B903,BNY Mellon,89786759,301 Livola St,US,454648
+B904,BOA Securities,98765432,22 Palo Alto Street,US,678902
+B905,WF Bank,98765432,22 Palo Alto Street,US,678903
+
+B1001,Mt View Tech,111111111,100 Mt View Rd,US,234567801
+B1002,Intl Business Solutions,111111112,25 Global Ave,US,234567802
+B1003,Greenfield Mfg Corp,111111113,450 Industrial Rd,US,234567803
+B1004,Northstar Financial Svcs,111111114,88 Market St,US,234567804
+B1005,Pacific Mgmt Group,111111115,120 Harbor Blvd,US,234567805
+
+B1101,ABC,98765432,22 Palo Alto St,US,678901
+B1102,Goldman Sachs,89786759,1201 Bell Ave,US,454647
+B1103,Bank of New York Mellon,89786759,301 E Lake Rd,US,454648
+B1104,Bank of America,98765432,22 Market St Ste 10,US,678902
+B1105,Wells Fargo Bank,98765432,90 East Park Avenue,US,678903
+
+B1201,1st National Bank Enterprises,666-77-9991,100 2nd Avenue,US,2345678
+B1202,First National Bank Solutions,666-77-9991,100 Second Avenue,US,2345679
+B1203,First National Bank LLC,666-77-9991,100 Second Avenue,US,2345680
+B1204,First National Trust Corporation,666-77-9991,100 Second Avenue,US,2345681
+B1205,1st National Bank Limited,666-77-9991,100 2nd Avenue,US,2345682
+
+B1301,Apollo 4 Technologies,123456781,101 Innovation Blvd,US,987654321
+B1302,Vertex 5 Holdings Ltd.,123456782,205 Market Ave,US,987654322
+B1303,Century 9 Financial Services,123456783,310 Finance St,US,111111113
+B1304,Quantum 10 Solutions Inc.,123456784,415 Technology Park,US,987654324
+B1305,Orion 11 Consulting Group,123456785,520 Enterprise Dr,US,222222225
+
+B1401,Amaxon Enterprises,33331111,300 Main Street,US,5566778
+B1402,Wells Fargo,33331111,300 Mian Street,US,5566779
+B1403,Goggle,33331111,300 Main Street,US,5566780
+B1404,Micorsfot,33331111,300 Main Street,US,5566781
+B1405,Amason Limited,33331111,300 Main Street,US,5566782
+
+B1501,Amazan Enterprises,13131313,150 Future Street,US,1155779
+B1502,Amazaan Solutions,13131313,150 Future Street,US,1155780
+B1503,Amazon LLC,13131313,150 Future Street,US,1155781
+B1504,Amazoon Corporation,13131313,150 Future Street,US,1155782
+B1505,Amazoon Limited,13131313,150 Eutare Street,US,1155783
+
+B1601,Bank of India Union Enterprises,24242424,175 Bryan Lane,US,4433221
+B1602,National Bank America,24242424,175 Bryan Lane,US,4433222
+B1603,Union Bank of India LLC,24242424,175 Bryan Lane,US,4433223
+B1604,Bank Wells Fargo,24242424,175 Bryan Lane,US,4433224
+B1605,India Bank of Union Limited,24242424,175 Bryan Lane,US,4433225
+
+B1701,Info Tech Technologies Enterprises,234-56-7891,420 Montgomery Street,US,3451237
+B1702,Infolease Technologies Solutions,234-56-7891,420 Montgomery Street,US,3451238
+B1703,Infolease Technologies LLC,234-56-7891,420 Montgomery Street,US,3451239
+B1704,Infolease Tech Corporation,234-56-7891,420 Montgomery Street,US,3451240
+B1705,Storelease Technologies Limited,234-56-7891,420 Montgomery Street,US,3451241
+
+B1801,Smyth Consulting Enterprises,112-34-8989,420 Mayne Ave,US,1298347
+B1802,Stephen,112-34-8989,420 Main Ave,US,1298348
+B1803,John Smith Services,234-56-7891,420 Clarke Street,US,3451225
+B1804,Steven Financial Corporation,234-56-7891,420 Clark Street,US,3451226
+B1805,Smyth Consulting Limited,112-34-8989,420 Mayne Ave,US,1298349
+
+B1901,ABC Firm Enterprises,2309091,300 Oslo Ave,US,1111111
+B1902,ABC Company Solutions,2309091,300 Oslo Avenue,US,1111112
+B1903,Global Finance Holding LLC,31031034,220 Redwood St,US,367689
+B1904,Global Financial Corporation,31031034,220 Redwood Street,US,367690
+B1905,ABC Firm Limited,2309091,300 Oslo Ave,US,1111113
+
+B2001,ABC Legal Entity,234576,1 Pascal Ave,US,909090
+B2002,56789 ABC DBA Solutions,234576,1 Pascal Avenue,US,909091
+B2003,Global Finance LLC,31031034,220 Redwood St,US,367699
+B2004,Global Financial Corporation,31031034,220 Redwood Street,US,367700
+B2005,ABC Trade Name Limited,234576,1 Pascal Ave,US,909092
+
+B2101,Google,1600 Amphitheatre Pkwy,US,111111111
+B2102,Facebook,1 Hacker Way,US,222222222
+B2103,WellsFargo,420 Montgomery St,US,333333333
+B2104,Apple,1 Infinite Loop,US,444444444
+B2105,Amazon,410 Terry Ave N,US,555555555
+
+B2201,Bill Smith Enterprises,234-22-3333,3 Pascal Avenue,US,567891
+B2202,Bob Smith Solutions,234-22-3333,3 Pascal Avenue,US,567892
+B2203,Bill Smith LLC,234-22-3333,3 Pascal Avenue,US,567893
+B2204,Bob Smith Corporation,234-22-3333,3 Pascal Avenue,US,567894
+B2205,Bill Smith Limited,234-22-3333,3 Pascal Avenue,US,567895
+
+B2301,Sao Paulo Enterprises,23456789,Sao Paulo Street,BR,121212
+B2302,Zurich Investments AG Solutions,121213,Zurich Avenue,CH,121013
+B2303,Sao Paulo LLC,23456789,Sao Paulo Street,BR,121214
+B2304,Zurich Investments AG Corporation,121213,Zurich Avenue,CH,121014
+B2305,Sao Paulo Limited,23456789,Sao Paulo Street,BR,121215
+
+B2401,Banco Wells Fargo Enterprises,111133,420 Banco Street,ES,458767
+B2402,XYZ Group Bank Solutions,4545464,50 Financial Road,FR,6767679
+B2403,Banco Wells Fargo LLC,111133,420 Banco Street,ES,458768
+B2404,XYZ Group Bank Corporation,4545464,50 Financial Road,FR,6767680
+B2405,Banco Wells Fargo Limited,111133,420 Banco Street,ES,458769
+
+B2501,Credit Bank Enterprises,998877,410 Real Street,ES,775511
+B2502,French Bank Solutions,557788,15 Rue de l'Economie,FR,775512
+B2503,Credit Bank LLC,998877,410 Real Street,ES,775513
+B2504,French Bank Corporation,557788,15 Rue de l'Economie,FR,775514
+B2505,Credit Bank Limited,998877,410 Real Street,ES,775515
